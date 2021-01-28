@@ -2,7 +2,7 @@
 Name | Stargazers | Last Sighting | Composition | Rights
 ---- | ---------- | ------------- | ----------- | ------
 {{range . -}}
-[{{.GetName}}]({{.GetHTMLURL}}) | {{.GetStargazersCount}} | {{.GetUpdatedAt.Time.Format "Mon Jan 2 2006"}} | {{.GetLanguage}} | {{.GetLicense.GetName}}
+[{{.GetName}}]({{.GetHTMLURL}}) | {{.GetStargazersCount}} | {{.GetPushedAt.Time.Format "2006-01-02 15:04"}} | {{.GetLanguage}} | {{.GetLicense.GetName}}
 {{end -}}
 {{- end -}}
 
@@ -10,15 +10,15 @@ Name | Stargazers | Last Sighting | Composition | Rights
 **{{.Count}}** stars discovered so far
 
 ## Living Stars
-{{- if .Active -}}
-{{template "table" .Active -}}
+{{- if .LivingStars -}}
+{{template "table" .LivingStars -}}
 {{- else -}}
 Huh, must be quite dark in our universe.
 {{- end}}
 
 ## Dead Stars
-{{- if .Archived -}}
-{{- template "table" .Archived -}}
+{{- if .DeadStars -}}
+{{- template "table" .DeadStars -}}
 {{- else}}
 Luckily, there are no death stars in our universe.
 {{- end -}}

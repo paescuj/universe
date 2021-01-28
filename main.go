@@ -68,14 +68,16 @@ func main() {
     return
   }
 
-  tmp := Stars{}
-  for _, v := range universe {
-    if !v.GetArchived()  {
-      tmp.Active = append(tmp.Active, v)
+  sortedUniverse := SortedUniverse{}
+  for _, star := range universe {
+    if !star.GetArchived() {
+      sortedUniverse.LivingStars = append(sortedUniverse.LivingStars, star)
+    } else {
+      sortedUniverse.DeadStars = append(sortedUniverse.DeadStars, star)
     }
   }
 
-  err = tpl.Execute(file, tmp)
+  err = tpl.Execute(file, sortedUniverse)
   file.Close()
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)
