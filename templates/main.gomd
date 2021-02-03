@@ -1,11 +1,3 @@
-{{define "table"}}
-Name | Stargazers | Last Sighting | Composition | Rights
----- | ---------- | ------------- | ----------- | ------
-{{range . -}}
-[{{.GetName}}]({{.GetHTMLURL}}) | {{.GetStargazersCount}} | {{.GetPushedAt.Time.Format "2006-01-02 15:04"}} | {{.GetLanguage}} | {{.GetLicense.GetName}}
-{{end -}}
-{{- end -}}
-
 # Universe
 **{{.Count}}** stars discovered so far
 

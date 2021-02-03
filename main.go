@@ -49,7 +49,7 @@ func fetchUniverse(username string) ([]*github.Repository, error) {
 }
 
 func main() {
-  tpl, err := template.ParseFiles("template.md")
+  tpl, err := template.ParseGlob("templates/*.gomd")
   if err != nil {
 		fmt.Printf("Error: %v\n", err)
 		return

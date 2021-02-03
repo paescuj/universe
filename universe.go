@@ -5,10 +5,10 @@ import (
 )
 
 type SortedUniverse struct {
-	LivingStars []*github.Repository
-	DeadStars   []*github.Repository
+  LivingStars []*github.Repository
+  DeadStars   []*github.Repository
 }
 
 func (s SortedUniverse) Count() int {
-	return len(s.LivingStars)+len(s.DeadStars)
+  return len(s.LivingStars)+len(s.DeadStars)
 }
