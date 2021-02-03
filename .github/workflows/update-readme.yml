@@ -1,11 +1,14 @@
 name: Update README
 
-on: push
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-
-  build:
+  update:
     runs-on: ubuntu-latest
+    if: "!endsWith(github.event.head_commit.message, '[ci skip]')"
     steps:
     - uses: actions/checkout@v2
 
