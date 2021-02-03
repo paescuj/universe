@@ -13,7 +13,7 @@ jobs:
       with:
         go-version: 1.15
 
-    - run: go run main.go
+    - run: go run .
       
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
