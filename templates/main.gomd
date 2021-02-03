@@ -1,14 +1,21 @@
 # Universe
+
+## The Why
+* To track my starred GitHub repositories and have them summarized on one page
+* This allows me to quickly identify outdated repositories, like [dead stars (archived repositories))](#dead-stars)
+* To play around with Go (using [go-github](https://github.com/google/go-github)) and GitHub actions
+
+## Stars
 **{{.Count}}** stars discovered so far
 
-## Living Stars
+### Living Stars
 {{- if .LivingStars -}}
 {{template "table" .LivingStars -}}
 {{- else -}}
 Huh, must be quite dark in our universe.
 {{- end}}
 
-## Dead Stars
+### Dead Stars
 {{- if .DeadStars -}}
 {{- template "table" .DeadStars -}}
 {{- else}}
