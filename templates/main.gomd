@@ -1,9 +1,9 @@
-# Universe
+# :milky_way: Universe
 
 ## The Why
-* To track my starred GitHub repositories and have them [summarized on one page](#stars)
-* This allows me to quickly identify outdated repositories, like [dead stars (archived repositories))](#dead-stars)
-* To play around with Go (using [go-github](https://github.com/google/go-github)) and GitHub actions
+* To track my starred GitHub repositories :sparkles: and have them [crammed together on one page](#stars)
+    * This allows me to quickly identify outdated repositories, like ["dead stars" (archived repositories) :skull::star:](#dead-stars)
+* Great opportunity to play around with Go, GitHub API (using [go-github](https://github.com/google/go-github)) and GitHub Actions :man_technologist:
 
 ## Stars
 **{{.Count}}** stars discovered so far
