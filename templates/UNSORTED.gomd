@@ -1,0 +1,6 @@
+# Unsorted Universe
+{{if . -}}
+{{template "table" . -}}
+{{- else -}}
+Huh, must be quite dark in our universe.
+{{- end}}
