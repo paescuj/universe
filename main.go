@@ -111,11 +111,10 @@ func main() {
     return
   }
 
-  // Sort universe
+  // Sort universe (by date & type)
   sort.Slice(universe, func(i, j int) bool {
     return universe[i].GetPushedAt().Time.After(universe[j].GetPushedAt().Time)
   })
-
   sortedUniverse := SortedUniverse{}
   for _, star := range universe {
     if !star.GetArchived() {
