@@ -82,8 +82,8 @@ func main() {
 	}
 
   // Fetch universe
-  //universe, err := FetchUniverse("paescuj")
-  universe, err := TestFetchUniverse()
+  universe, err := FetchUniverse("paescuj")
+  //universe, err := TestFetchUniverse()
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)
 		return
