@@ -1,6 +1,9 @@
-# Unsorted Universe
+# Unsorted list of all starred repositories
+
 {{if . -}}
-{{template "table" . -}}
+{{range . -}}
+* [{{.GetName}}]({{.GetHTMLURL}})
+{{end -}}
 {{- else -}}
 Huh, must be quite dark in our universe.
-{{- end}}
+{{- end -}}
