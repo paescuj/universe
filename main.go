@@ -5,6 +5,7 @@ import (
   "fmt"
   "sort"
   "context"
+  "time"
   "text/template"
   "io/ioutil"
   "encoding/json"
@@ -45,12 +46,19 @@ func TestFetchUniverse() ([]*github.Repository, error) {
   return universe, nil
 }
 
-func FetchUniverse(username string) ([]*github.Repository, error) {
+func FetchUniverse(username string, useCache bool) ([]*github.Repository, error) {
   context := context.Background()
-  cachedir := ".cache"
-	cache := diskcache.New(cachedir)
-	transport := httpcache.NewTransport(cache)
-	httpClient := &http.Client{Transport: transport}
+  httpClient := &http.Client{
+    Timeout: time.Second * 20,
+  }
+
+  if useCache {
+    cachedir := ".cache"
+    cache := diskcache.New(cachedir)
+    transport := httpcache.NewTransport(cache)
+    httpClient.Transport = transport
+  }
+
   githubClient := github.NewClient(httpClient)
   githubOpts := &github.ActivityListStarredOptions{
     ListOptions: github.ListOptions{PerPage: 100},
@@ -82,7 +90,7 @@ func main() {
 	}
 
   // Fetch universe
-  universe, err := FetchUniverse("paescuj")
+  universe, err := FetchUniverse("paescuj", false)
   //universe, err := TestFetchUniverse()
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)
