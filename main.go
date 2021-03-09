@@ -97,16 +97,16 @@ func main() {
 		return
 	}
 
-  // Init UNSORTED.md file
-  unsortedFile, err := os.Create("UNSORTED.md")
+  // Init HISTORY.md file
+  historyFile, err := os.Create("HISTORY.md")
   if err != nil {
     fmt.Printf("Error: %v\n", err)
     return
   }
 
-  // Write UNSORTED.md file
-  err = template.ExecuteTemplate(unsortedFile, "UNSORTED.gomd", universe)
-  unsortedFile.Close()
+  // Write HISTORY.md file
+  err = template.ExecuteTemplate(historyFile, "HISTORY.gomd", universe)
+  historyFile.Close()
   if err != nil {
     fmt.Printf("Error: %v\n", err)
     return
