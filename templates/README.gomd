@@ -5,7 +5,7 @@
 
   This allows me to
     * quickly identify outdated repositories, like ["dead stars" (archived repositories)](#dead-stars) :skull::star:
-    * get a [history of my stars](HISTORY.md) :scroll:
+    * browse through the [history of my stars](HISTORY.md) :scroll:
 * Great opportunity to play around with Go, GitHub API (using [go-github](https://github.com/google/go-github)) and GitHub Actions :man_technologist:
 
 ## Stars
