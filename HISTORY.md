@@ -1,5 +1,7 @@
-# Unsorted list of all starred repositories
+# List of all starred GitHub repositories
 
+* [filebrowser](https://github.com/filebrowser/filebrowser)
+* [glci](https://github.com/mdubourg001/glci)
 * [dolt](https://github.com/dolthub/dolt)
 * [tuleap](https://github.com/Enalean/tuleap)
 * [jodit](https://github.com/xdan/jodit)
@@ -1017,14 +1019,13 @@
 * [bashstyle](https://github.com/progrium/bashstyle)
 * [quickchart](https://github.com/typpo/quickchart)
 * [drawio](https://github.com/jgraph/drawio)
-* [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
 * [htrace.sh](https://github.com/trimstray/htrace.sh)
 * [distsys-class](https://github.com/aphyr/distsys-class)
 * [automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
 * [pghoard](https://github.com/aiven/pghoard)
 * [zulip](https://github.com/zulip/zulip)
 * [en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info)
-* [Jadesktop](https://github.com/codesardine/Jadesktop)
+* [jde](https://github.com/codesardine/jde)
 * [react-admin](https://github.com/marmelab/react-admin)
 * [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health)
 * [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)
