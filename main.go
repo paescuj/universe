@@ -13,6 +13,7 @@ import (
   "github.com/google/go-github/v35/github"
   "github.com/gregjones/httpcache"
   "github.com/gregjones/httpcache/diskcache"
+  "github.com/briandowns/spinner"
 )
 
 type SortedUniverse struct {
@@ -82,22 +83,33 @@ func FetchUniverse(username string, useCache bool) ([]*github.Repository, error)
 }
 
 func main() {
+  // Initialize spinner
+  spinner := spinner.New(spinner.CharSets[9], 100*time.Millisecond)
+
   // Load templates
+  spinner.Suffix = " Loading templates..."
+  spinner.Start()
   template, err := template.ParseGlob("templates/*.gomd")
   if err != nil {
 		fmt.Printf("Error: %v\n", err)
 		return
 	}
+  spinner.Stop()
 
   // Fetch universe
+  spinner.Suffix = " Fetching universe..."
+  spinner.Start()
   universe, err := FetchUniverse("paescuj", false)
   //universe, err := TestFetchUniverse()
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)
 		return
 	}
+  spinner.Stop()
 
   // Init HISTORY.md file
+  spinner.Suffix = " Creating HISTORY.md file..."
+  spinner.Start()
   historyFile, err := os.Create("HISTORY.md")
   if err != nil {
     fmt.Printf("Error: %v\n", err)
@@ -111,8 +123,11 @@ func main() {
     fmt.Printf("Error: %v\n", err)
     return
   }
+  spinner.Stop()
 
   // Init README.md file
+  spinner.Suffix = " Creating README.md file..."
+  spinner.Start()
   readmeFile, err := os.Create("README.md")
   if err != nil {
 		fmt.Printf("Error: %v\n", err)
@@ -139,4 +154,5 @@ func main() {
 		fmt.Printf("Error: %v\n", err)
 		return
 	}
+  spinner.Stop()
 }
