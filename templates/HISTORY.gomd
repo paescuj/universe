@@ -1,4 +1,4 @@
-# List of all starred GitHub repositories
+# List of all my starred GitHub repositories
 
 {{if . -}}
 {{range . -}}
