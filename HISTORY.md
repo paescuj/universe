@@ -1,5 +1,9 @@
-# List of all starred GitHub repositories
+# List of all my starred GitHub repositories
 
+* [awesome-web-effect](https://github.com/lindelof/awesome-web-effect)
+* [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page)
+* [gun](https://github.com/amark/gun)
+* [keto](https://github.com/ory/keto)
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [primo](https://github.com/primo-app/primo)
 * [system_design](https://github.com/shashank88/system_design)
@@ -706,7 +710,7 @@
 * [xcat-core](https://github.com/xcat2/xcat-core)
 * [provision](https://github.com/digitalrebar/provision)
 * [limelight.vim](https://github.com/junegunn/limelight.vim)
-* [vim-pencil](https://github.com/reedes/vim-pencil)
+* [vim-pencil](https://github.com/preservim/vim-pencil)
 * [goyo.vim](https://github.com/junegunn/goyo.vim)
 * [batou](https://github.com/flyingcircusio/batou)
 * [fai](https://github.com/faiproject/fai)
