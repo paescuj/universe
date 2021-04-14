@@ -10,7 +10,7 @@ import (
   "io/ioutil"
   "encoding/json"
   "net/http"
-  "github.com/google/go-github/v33/github"
+  "github.com/google/go-github/v35/github"
   "github.com/gregjones/httpcache"
   "github.com/gregjones/httpcache/diskcache"
 )
