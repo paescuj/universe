@@ -1755,7 +1755,6 @@
 * [polymer](https://github.com/Polymer/polymer)
 * [angular.js](https://github.com/angular/angular.js)
 * [Modernizr](https://github.com/Modernizr/Modernizr)
-* [normalize.css](https://github.com/necolas/normalize.css)
 * [neovim](https://github.com/neovim/neovim)
 * [osv](https://github.com/cloudius-systems/osv)
 * [linux](https://github.com/torvalds/linux)
