@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [ckeditor5](https://github.com/ckeditor/ckeditor5)
+* [weaviate](https://github.com/semi-technologies/weaviate)
+* [lowdefy](https://github.com/lowdefy/lowdefy)
 * [awesome-web-effect](https://github.com/lindelof/awesome-web-effect)
 * [awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page)
 * [gun](https://github.com/amark/gun)
@@ -1127,7 +1130,6 @@
 * [dotfiles](https://github.com/lewagon/dotfiles)
 * [noria](https://github.com/mit-pdos/noria)
 * [jetpack](https://github.com/KidkArolis/jetpack)
-* [learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens)
 * [gravitee-gateway](https://github.com/gravitee-io/gravitee-gateway)
 * [awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
 * [rrweb](https://github.com/rrweb-io/rrweb)
@@ -1709,7 +1711,6 @@
 * [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
 * [imagemin](https://github.com/imagemin/imagemin)
 * [vue](https://github.com/vuejs/vue)
-* [teleconsole](https://github.com/gravitational/teleconsole)
 * [awesome-design](https://github.com/gztchan/awesome-design)
 * [postcss](https://github.com/postcss/postcss)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -1730,7 +1731,6 @@
 * [jpegoptim](https://github.com/tjko/jpegoptim)
 * [pdns](https://github.com/PowerDNS/pdns)
 * [Tor2web](https://github.com/tor2web/Tor2web)
-* [ckeditor4](https://github.com/ckeditor/ckeditor4)
 * [weblate](https://github.com/WeblateOrg/weblate)
 * [base16](https://github.com/chriskempson/base16)
 * [screenful](https://github.com/dluksza/screenful)
