@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [calendso](https://github.com/calendso/calendso)
 * [ckeditor5](https://github.com/ckeditor/ckeditor5)
 * [weaviate](https://github.com/semi-technologies/weaviate)
 * [lowdefy](https://github.com/lowdefy/lowdefy)
@@ -889,7 +890,6 @@
 * [Awesome-CV](https://github.com/posquit0/Awesome-CV)
 * [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 * [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
-* [ra-strapi-rest](https://github.com/nazirov91/ra-strapi-rest)
 * [ttyd](https://github.com/tsl0922/ttyd)
 * [gryphon](https://github.com/garethdmm/gryphon)
 * [clean-go-article](https://github.com/Pungyeon/clean-go-article)
@@ -1312,7 +1312,6 @@
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh)
 * [material-dashboard](https://github.com/creativetimofficial/material-dashboard)
 * [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
-* [Rallly](https://github.com/lukevella/Rallly)
 * [sanitize.css](https://github.com/csstools/sanitize.css)
 * [atlas](https://github.com/indigotree/atlas)
 * [Dragonfly](https://github.com/dragonflyoss/Dragonfly)
@@ -1555,7 +1554,6 @@
 * [yunohost](https://github.com/YunoHost/yunohost)
 * [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 * [elvish](https://github.com/elves/elvish)
-* [real-world-react-apps](https://github.com/jeromedalbert/real-world-react-apps)
 * [kittenTricks](https://github.com/akveo/kittenTricks)
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
@@ -1733,7 +1731,6 @@
 * [Tor2web](https://github.com/tor2web/Tor2web)
 * [weblate](https://github.com/WeblateOrg/weblate)
 * [base16](https://github.com/chriskempson/base16)
-* [screenful](https://github.com/dluksza/screenful)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 * [bootstrap](https://github.com/twbs/bootstrap)
