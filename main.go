@@ -83,8 +83,16 @@ func FetchUniverse(username string, useCache bool) ([]*github.Repository, error)
 }
 
 func main() {
-  // Initialize spinner
-  spinner := spinner.New(spinner.CharSets[9], 100*time.Millisecond)
+  // Initialize spinner & cache
+  spinnerSet := spinner.CharSets[9]
+  spinnerSpeed := 100*time.Millisecond
+  useCache := true
+  if (os.Getenv("CI") == "true") {
+    spinnerSet = []string{"+"}
+    spinnerSpeed = 5*time.Second
+    useCache = false
+  }
+  spinner := spinner.New(spinnerSet, spinnerSpeed)
 
   // Load templates
   spinner.Suffix = " Loading templates..."
@@ -99,7 +107,7 @@ func main() {
   // Fetch universe
   spinner.Suffix = " Fetching universe..."
   spinner.Start()
-  universe, err := FetchUniverse("paescuj", false)
+  universe, err := FetchUniverse("paescuj", useCache)
   //universe, err := TestFetchUniverse()
 	if err != nil {
 		fmt.Printf("Error: %v\n", err)
