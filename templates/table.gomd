@@ -2,6 +2,6 @@
 Name | Stargazers | Last Sighting | Composition | Rights
 ---- | ---------- | ------------- | ----------- | ------
 {{range . -}}
-[{{.GetName}} ({{.GetOwner.GetName}})]({{.GetHTMLURL}}) | {{.GetStargazersCount}} | {{.GetPushedAt.Time.Format "2006-01-02 15:04"}} | {{.GetLanguage}} | {{.GetLicense.GetName}}
+[{{.GetName}} ({{.GetOwner.GetLogin}})]({{.GetHTMLURL}}) | {{.GetStargazersCount}} | {{.GetPushedAt.Time.Format "2006-01-02 15:04"}} | {{.GetLanguage}} | {{.GetLicense.GetName}}
 {{end -}}
 {{- end -}}
