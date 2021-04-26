@@ -6,7 +6,7 @@ require (
 	github.com/briandowns/spinner v1.12.0
 	github.com/fatih/color v1.10.0 // indirect
 	github.com/google/btree v1.0.1 // indirect
-	github.com/google/go-github/v35 v35.0.0
+	github.com/google/go-github/v35 v35.1.0
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
