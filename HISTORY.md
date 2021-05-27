@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot)
 * [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 * [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
 * [danielgatis/rembg](https://github.com/danielgatis/rembg)
@@ -184,7 +185,6 @@
 * [getfider/fider](https://github.com/getfider/fider)
 * [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform)
 * [osmandapp/OsmAnd](https://github.com/osmandapp/OsmAnd)
-* [BenChaliah/Arbitrium-RAT](https://github.com/BenChaliah/Arbitrium-RAT)
 * [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss)
 * [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)
 * [seanmonstar/warp](https://github.com/seanmonstar/warp)
@@ -907,7 +907,7 @@
 * [choria-io/go-choria](https://github.com/choria-io/go-choria)
 * [prometheus/prometheus](https://github.com/prometheus/prometheus)
 * [cobbler/cobbler](https://github.com/cobbler/cobbler)
-* [BookmarksDev/bookmarks](https://github.com/BookmarksDev/bookmarks)
+* [CodeverLand/bookmarks](https://github.com/CodeverLand/bookmarks)
 * [daybrush/scenejs](https://github.com/daybrush/scenejs)
 * [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs)
 * [weaveworks/scope](https://github.com/weaveworks/scope)
@@ -1456,7 +1456,6 @@
 * [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js)
 * [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
-* [feathericons/feather](https://github.com/feathericons/feather)
 * [rsms/inter](https://github.com/rsms/inter)
 * [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table)
 * [wwmm/pulseeffects](https://github.com/wwmm/pulseeffects)
