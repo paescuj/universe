@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [nocodb/nocodb](https://github.com/nocodb/nocodb)
+* [jamesread/OliveTin](https://github.com/jamesread/OliveTin)
+* [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy)
 * [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot)
 * [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 * [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
@@ -176,7 +179,6 @@
 * [maildev/maildev](https://github.com/maildev/maildev)
 * [nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 * [ycd/toc](https://github.com/ycd/toc)
-* [lucent-sea/Remotely](https://github.com/lucent-sea/Remotely)
 * [electerious/Ackee](https://github.com/electerious/Ackee)
 * [writefreely/writefreely](https://github.com/writefreely/writefreely)
 * [PostHog/posthog](https://github.com/PostHog/posthog)
@@ -1059,7 +1061,6 @@
 * [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker)
 * [laravel/laravel](https://github.com/laravel/laravel)
 * [naman14/TimberX](https://github.com/naman14/TimberX)
-* [march08/animated-burgers](https://github.com/march08/animated-burgers)
 * [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts)
 * [caronc/apprise](https://github.com/caronc/apprise)
 * [bagisto/bagisto](https://github.com/bagisto/bagisto)
