@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 * [nocodb/nocodb](https://github.com/nocodb/nocodb)
 * [jamesread/OliveTin](https://github.com/jamesread/OliveTin)
 * [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy)
