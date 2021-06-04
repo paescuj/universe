@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [megaease/easegress](https://github.com/megaease/easegress)
+* [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim)
+* [Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani)
 * [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 * [nocodb/nocodb](https://github.com/nocodb/nocodb)
 * [jamesread/OliveTin](https://github.com/jamesread/OliveTin)
@@ -69,7 +72,7 @@
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
 * [mattermost/focalboard](https://github.com/mattermost/focalboard)
 * [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad)
-* [siduck76/neovim-dotfiles](https://github.com/siduck76/neovim-dotfiles)
+* [siduck76/NvChad](https://github.com/siduck76/NvChad)
 * [uutils/coreutils](https://github.com/uutils/coreutils)
 * [monero-project/monero](https://github.com/monero-project/monero)
 * [schlosser/pig.js](https://github.com/schlosser/pig.js)
@@ -278,7 +281,7 @@
 * [mozilla/sops](https://github.com/mozilla/sops)
 * [acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 * [samyk/slipstream](https://github.com/samyk/slipstream)
-* [datawire/ambassador](https://github.com/datawire/ambassador)
+* [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary)
 * [Aircoookie/WLED](https://github.com/Aircoookie/WLED)
 * [greenpau/go-identity](https://github.com/greenpau/go-identity)
 * [ovh/the-bastion](https://github.com/ovh/the-bastion)
