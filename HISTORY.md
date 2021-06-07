@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook)
 * [get-alex/alex](https://github.com/get-alex/alex)
 * [yewstack/yew](https://github.com/yewstack/yew)
 * [cilium/cilium](https://github.com/cilium/cilium)
