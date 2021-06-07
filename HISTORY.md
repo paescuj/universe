@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [get-alex/alex](https://github.com/get-alex/alex)
+* [yewstack/yew](https://github.com/yewstack/yew)
+* [cilium/cilium](https://github.com/cilium/cilium)
+* [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
 * [megaease/easegress](https://github.com/megaease/easegress)
 * [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim)
 * [Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani)
@@ -465,7 +469,6 @@
 * [CISOfy/lynis](https://github.com/CISOfy/lynis)
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
 * [spf13/viper](https://github.com/spf13/viper)
-* [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio)
 * [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji)
 * [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 * [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal)
@@ -913,7 +916,7 @@
 * [choria-io/go-choria](https://github.com/choria-io/go-choria)
 * [prometheus/prometheus](https://github.com/prometheus/prometheus)
 * [cobbler/cobbler](https://github.com/cobbler/cobbler)
-* [CodeverLand/bookmarks](https://github.com/CodeverLand/bookmarks)
+* [codeverland/bookmarks](https://github.com/codeverland/bookmarks)
 * [daybrush/scenejs](https://github.com/daybrush/scenejs)
 * [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs)
 * [weaveworks/scope](https://github.com/weaveworks/scope)
