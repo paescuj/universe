@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
+* [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis)
+* [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia)
+* [sqfmi/Watchy](https://github.com/sqfmi/Watchy)
 * [directus-community/awesome-directus](https://github.com/directus-community/awesome-directus)
 * [whittlem/pycryptobot](https://github.com/whittlem/pycryptobot)
 * [snowpackjs/astro](https://github.com/snowpackjs/astro)
@@ -13,7 +17,7 @@
 * [Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani)
 * [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 * [nocodb/nocodb](https://github.com/nocodb/nocodb)
-* [jamesread/OliveTin](https://github.com/jamesread/OliveTin)
+* [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin)
 * [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy)
 * [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot)
 * [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
@@ -1293,7 +1297,6 @@
 * [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements)
 * [11ty/eleventy](https://github.com/11ty/eleventy)
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
-* [docker/kitematic](https://github.com/docker/kitematic)
 * [exegesis-js/exegesis](https://github.com/exegesis-js/exegesis)
 * [Homebrew/brew](https://github.com/Homebrew/brew)
 * [netlify/netlify-cms](https://github.com/netlify/netlify-cms)
