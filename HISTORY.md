@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [mltframework/shotcut](https://github.com/mltframework/shotcut)
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
 * [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis)
 * [concrete-utopia/utopia](https://github.com/concrete-utopia/utopia)
