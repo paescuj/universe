@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [solana-labs/solana](https://github.com/solana-labs/solana)
 * [mltframework/shotcut](https://github.com/mltframework/shotcut)
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
 * [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis)
@@ -419,7 +420,7 @@
 * [einride/can-go](https://github.com/einride/can-go)
 * [apache/pulsar](https://github.com/apache/pulsar)
 * [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
-* [augmentable-dev/askgit](https://github.com/augmentable-dev/askgit)
+* [askgitdev/askgit](https://github.com/askgitdev/askgit)
 * [jspreadsheet/ce](https://github.com/jspreadsheet/ce)
 * [bach-sh/bach](https://github.com/bach-sh/bach)
 * [tinode/chat](https://github.com/tinode/chat)
@@ -627,7 +628,7 @@
 * [exteditor/exteditor](https://github.com/exteditor/exteditor)
 * [commander-cli/commander](https://github.com/commander-cli/commander)
 * [ladjs/lad](https://github.com/ladjs/lad)
-* [lidarr/Lidarr](https://github.com/lidarr/Lidarr)
+* [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr)
 * [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect)
 * [collabnix/kubelabs](https://github.com/collabnix/kubelabs)
 * [tumblr/collins](https://github.com/tumblr/collins)
