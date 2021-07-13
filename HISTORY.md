@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [earthly/earthly](https://github.com/earthly/earthly)
 * [returntocorp/semgrep](https://github.com/returntocorp/semgrep)
 * [egoist/tsup](https://github.com/egoist/tsup)
 * [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity)
@@ -1052,7 +1053,6 @@
 * [greybax/awesome-IT-films](https://github.com/greybax/awesome-IT-films)
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
 * [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs)
-* [inlets/inlets-archived](https://github.com/inlets/inlets-archived)
 * [uikit/uikit](https://github.com/uikit/uikit)
 * [gopasspw/gopass](https://github.com/gopasspw/gopass)
 * [nas5w/100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend)
