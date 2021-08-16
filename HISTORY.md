@@ -1,6 +1,9 @@
 # List of all my starred GitHub repositories
 
-* [antoniomika/sish](https://github.com/antoniomika/sish)
+* [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim)
+* [swc-project/swc](https://github.com/swc-project/swc)
+* [mobilecoinfoundation/mobilecoin](https://github.com/mobilecoinfoundation/mobilecoin)
+* [sniptt-official/ots](https://github.com/sniptt-official/ots)
 * [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog)
 * [bytebase/bytebase](https://github.com/bytebase/bytebase)
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
@@ -108,7 +111,7 @@
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
 * [mattermost/focalboard](https://github.com/mattermost/focalboard)
 * [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad)
-* [siduck76/NvChad](https://github.com/siduck76/NvChad)
+* [NvChad/NvChad](https://github.com/NvChad/NvChad)
 * [uutils/coreutils](https://github.com/uutils/coreutils)
 * [monero-project/monero](https://github.com/monero-project/monero)
 * [schlosser/pig.js](https://github.com/schlosser/pig.js)
