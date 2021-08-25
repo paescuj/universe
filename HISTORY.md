@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
 * [mszoek/airyx](https://github.com/mszoek/airyx)
 * [armosec/kubescape](https://github.com/armosec/kubescape)
 * [sachaos/viddy](https://github.com/sachaos/viddy)
@@ -1516,7 +1517,7 @@
 * [mautic/mautic](https://github.com/mautic/mautic)
 * [phpipam/phpipam](https://github.com/phpipam/phpipam)
 * [bitwarden/server](https://github.com/bitwarden/server)
-* [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)
+* [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 * [rancher/os](https://github.com/rancher/os)
 * [postalserver/postal](https://github.com/postalserver/postal)
 * [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)
