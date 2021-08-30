@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [DannyBen/bashly](https://github.com/DannyBen/bashly)
 * [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
 * [mszoek/airyx](https://github.com/mszoek/airyx)
 * [armosec/kubescape](https://github.com/armosec/kubescape)
@@ -20,7 +21,6 @@
 * [seashell/drago](https://github.com/seashell/drago)
 * [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir)
 * [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos)
-* [CoinAlpha/hummingbot](https://github.com/CoinAlpha/hummingbot)
 * [mvt-project/mvt](https://github.com/mvt-project/mvt)
 * [nektos/act](https://github.com/nektos/act)
 * [badges/shields](https://github.com/badges/shields)
