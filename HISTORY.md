@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
 * [DannyBen/bashly](https://github.com/DannyBen/bashly)
 * [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
 * [mszoek/airyx](https://github.com/mszoek/airyx)
