@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
+* [orhun/git-cliff](https://github.com/orhun/git-cliff)
+* [go-vikunja/api](https://github.com/go-vikunja/api)
+* [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture)
 * [madebygps/self-taught-guide-to-cloud-computing](https://github.com/madebygps/self-taught-guide-to-cloud-computing)
 * [DannyBen/bashly](https://github.com/DannyBen/bashly)
 * [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
@@ -428,7 +432,7 @@
 * [openservicemesh/osm](https://github.com/openservicemesh/osm)
 * [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)
 * [expo/expo](https://github.com/expo/expo)
-* [bumbag/bumbag-ui](https://github.com/bumbag/bumbag-ui)
+* [jxom/bumbag-ui](https://github.com/jxom/bumbag-ui)
 * [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
 * [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe)
 * [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js)
@@ -1407,7 +1411,7 @@
 * [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 * [browsh-org/browsh](https://github.com/browsh-org/browsh)
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-* [mjswensen/themer](https://github.com/mjswensen/themer)
+* [themerdev/themer](https://github.com/themerdev/themer)
 * [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup)
 * [huyingjie/Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist)
 * [zutrinken/attila](https://github.com/zutrinken/attila)
