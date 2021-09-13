@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [ory/kratos](https://github.com/ory/kratos)
 * [cncf/podtato-head](https://github.com/cncf/podtato-head)
 * [mgdm/htmlq](https://github.com/mgdm/htmlq)
 * [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
