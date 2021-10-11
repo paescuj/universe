@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [vectorizedio/redpanda](https://github.com/vectorizedio/redpanda)
+* [noahsalvi/helvetikon](https://github.com/noahsalvi/helvetikon)
 * [mithi/react-philosophies](https://github.com/mithi/react-philosophies)
 * [codex-team/editor.js](https://github.com/codex-team/editor.js)
 * [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal)
@@ -51,7 +53,7 @@
 * [mantinedev/mantine](https://github.com/mantinedev/mantine)
 * [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 * [ossf/scorecard](https://github.com/ossf/scorecard)
-* [mirumee/saleor](https://github.com/mirumee/saleor)
+* [saleor/saleor](https://github.com/saleor/saleor)
 * [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee)
 * [Feuerhamster/mailform](https://github.com/Feuerhamster/mailform)
 * [rgcr/m-cli](https://github.com/rgcr/m-cli)
