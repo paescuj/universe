@@ -8,20 +8,19 @@ on:
 
 jobs:
   update:
+    name: Update
     runs-on: ubuntu-latest
-    if: "!endsWith(github.event.head_commit.message, '[ci skip]')"
-
     steps:
-    - name: Install Go
+    - name: Setup Go
       uses: actions/setup-go@v2
       with:
         go-version: 1.16.x
 
     - name: Checkout code
-      uses: actions/checkout@v2.3.5
+      uses: actions/checkout@v2
 
     - name: Configure cache
-      uses: actions/cache@v2.1.6
+      uses: actions/cache@v2
       with:
         path: ~/go/pkg/mod
         key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
@@ -32,6 +31,6 @@ jobs:
       run: go run .
       
     - name: Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v4.12.0
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update universe
