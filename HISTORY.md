@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [bee-san/pyWhat](https://github.com/bee-san/pyWhat)
+* [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
+* [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin)
+* [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy)
+* [questdb/questdb](https://github.com/questdb/questdb)
 * [raveberry/raveberry](https://github.com/raveberry/raveberry)
 * [pixie-io/pixie](https://github.com/pixie-io/pixie)
 * [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim)
@@ -289,7 +294,7 @@
 * [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos)
 * [amadvance/snapraid](https://github.com/amadvance/snapraid)
 * [trapexit/mergerfs](https://github.com/trapexit/mergerfs)
-* [IronicBadger/pms-wiki](https://github.com/IronicBadger/pms-wiki)
+* [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki)
 * [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes)
 * [hay-kot/mealie](https://github.com/hay-kot/mealie)
 * [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
