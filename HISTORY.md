@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [firezone/firezone](https://github.com/firezone/firezone)
+* [medusajs/medusa](https://github.com/medusajs/medusa)
+* [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy)
+* [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
 * [bee-san/pyWhat](https://github.com/bee-san/pyWhat)
 * [CesiumGS/cesium](https://github.com/CesiumGS/cesium)
 * [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin)
