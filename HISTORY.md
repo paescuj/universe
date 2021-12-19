@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [rui314/mold](https://github.com/rui314/mold)
 * [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons)
 * [muety/mailwhale](https://github.com/muety/mailwhale)
 * [librecaptcha/lc-core](https://github.com/librecaptcha/lc-core)
