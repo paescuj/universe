@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 * [rui314/mold](https://github.com/rui314/mold)
 * [AnandChowdhary/language-icons](https://github.com/AnandChowdhary/language-icons)
 * [muety/mailwhale](https://github.com/muety/mailwhale)
@@ -791,7 +792,6 @@
 * [containers/podman](https://github.com/containers/podman)
 * [statping/statping](https://github.com/statping/statping)
 * [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg)
-* [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)
 * [weaveworks/awesome-gitops](https://github.com/weaveworks/awesome-gitops)
 * [smallstep/certificates](https://github.com/smallstep/certificates)
 * [MarceauKa/shaark](https://github.com/MarceauKa/shaark)
