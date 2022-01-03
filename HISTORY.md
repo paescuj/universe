@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [m1k1o/neko](https://github.com/m1k1o/neko)
+* [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io)
 * [wailsapp/wails](https://github.com/wailsapp/wails)
 * [wader/fq](https://github.com/wader/fq)
 * [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)
@@ -925,7 +927,7 @@
 * [spack/spack](https://github.com/spack/spack)
 * [cube-js/cube.js](https://github.com/cube-js/cube.js)
 * [casbin/casbin-server](https://github.com/casbin/casbin-server)
-* [j3ssie/Osmedeus](https://github.com/j3ssie/Osmedeus)
+* [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)
 * [taosdata/TDengine](https://github.com/taosdata/TDengine)
 * [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)
 * [knadh/listmonk](https://github.com/knadh/listmonk)
@@ -1356,7 +1358,6 @@
 * [vercel/next.js](https://github.com/vercel/next.js)
 * [mixxxdj/mixxx](https://github.com/mixxxdj/mixxx)
 * [Psycojoker/prosopopee](https://github.com/Psycojoker/prosopopee)
-* [shiwaforce/poco](https://github.com/shiwaforce/poco)
 * [babel/babel](https://github.com/babel/babel)
 * [grocy/grocy](https://github.com/grocy/grocy)
 * [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi)
