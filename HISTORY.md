@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [rapiz1/rathole](https://github.com/rapiz1/rathole)
+* [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+* [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
+* [tkellogg/dura](https://github.com/tkellogg/dura)
+* [keptn/keptn](https://github.com/keptn/keptn)
+* [betaflight/betaflight](https://github.com/betaflight/betaflight)
 * [m1k1o/neko](https://github.com/m1k1o/neko)
 * [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io)
 * [wailsapp/wails](https://github.com/wailsapp/wails)
@@ -237,7 +243,6 @@
 * [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [skerkour/bloom](https://github.com/skerkour/bloom)
 * [sergiotapia/torrentinim](https://github.com/sergiotapia/torrentinim)
-* [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee)
 * [crowbar/crowbar-core](https://github.com/crowbar/crowbar-core)
 * [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)
 * [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter)
