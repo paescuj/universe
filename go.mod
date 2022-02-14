@@ -3,7 +3,7 @@ module github.com/paescuj/universe
 go 1.16
 
 require (
-	github.com/briandowns/spinner v1.18.0
+	github.com/briandowns/spinner v1.18.1
 	github.com/fatih/color v1.12.0 // indirect
 	github.com/google/btree v1.0.1 // indirect
 	github.com/google/go-github/v37 v37.0.0
