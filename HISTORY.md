@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [livebook-dev/livebook](https://github.com/livebook-dev/livebook)
+* [growthbook/growthbook](https://github.com/growthbook/growthbook)
 * [vidstack/player](https://github.com/vidstack/player)
 * [antfu/vitesse](https://github.com/antfu/vitesse)
 * [zellij-org/zellij](https://github.com/zellij-org/zellij)
@@ -196,7 +198,7 @@
 * [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy)
 * [rodrigo-brito/ninjabot](https://github.com/rodrigo-brito/ninjabot)
 * [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-* [morpheusthewhite/spicetify-themes](https://github.com/morpheusthewhite/spicetify-themes)
+* [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
 * [danielgatis/rembg](https://github.com/danielgatis/rembg)
 * [ethersphere/bee](https://github.com/ethersphere/bee)
 * [FiloSottile/age](https://github.com/FiloSottile/age)
