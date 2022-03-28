@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 * [quackduck/devzat](https://github.com/quackduck/devzat)
 * [naaive/orange](https://github.com/naaive/orange)
 * [datastack-net/dockerized](https://github.com/datastack-net/dockerized)
@@ -177,7 +178,7 @@
 * [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 * [ossf/scorecard](https://github.com/ossf/scorecard)
 * [saleor/saleor](https://github.com/saleor/saleor)
-* [wiretrustee/wiretrustee](https://github.com/wiretrustee/wiretrustee)
+* [netbirdio/netbird](https://github.com/netbirdio/netbird)
 * [Feuerhamster/mailform](https://github.com/Feuerhamster/mailform)
 * [rgcr/m-cli](https://github.com/rgcr/m-cli)
 * [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre)
@@ -320,7 +321,7 @@
 * [knoopx/alpine-raspberry-pi](https://github.com/knoopx/alpine-raspberry-pi)
 * [raspi-alpine/builder](https://github.com/raspi-alpine/builder)
 * [ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient)
-* [talos-systems/talos](https://github.com/talos-systems/talos)
+* [siderolabs/talos](https://github.com/siderolabs/talos)
 * [strapi/strapi-starter-next-corporate](https://github.com/strapi/strapi-starter-next-corporate)
 * [lumeland/lume](https://github.com/lumeland/lume)
 * [abelljs/abell](https://github.com/abelljs/abell)
