@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+* [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js)
+* [joepio/atomic-data-rust](https://github.com/joepio/atomic-data-rust)
 * [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
 * [kestra-io/kestra](https://github.com/kestra-io/kestra)
 * [dagger/dagger](https://github.com/dagger/dagger)
@@ -64,7 +67,7 @@
 * [containerd/nerdctl](https://github.com/containerd/nerdctl)
 * [remzi-arpacidusseau/ostep-code](https://github.com/remzi-arpacidusseau/ostep-code)
 * [vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront)
-* [prabhatsharma/zinc](https://github.com/prabhatsharma/zinc)
+* [zinclabs/zinc](https://github.com/zinclabs/zinc)
 * [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps)
 * [ahembree/ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker)
 * [nikochiko/autosaved](https://github.com/nikochiko/autosaved)
@@ -1030,7 +1033,6 @@
 * [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all)
 * [diem/diem](https://github.com/diem/diem)
 * [xbmc/xbmc](https://github.com/xbmc/xbmc)
-* [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js)
 * [foxlet/macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM)
 * [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight)
 * [sindresorhus/electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate)
