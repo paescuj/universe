@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [kedacore/keda](https://github.com/kedacore/keda)
+* [ellie/atuin](https://github.com/ellie/atuin)
+* [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
+* [paescuj/universe](https://github.com/paescuj/universe)
 * [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 * [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 * [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
@@ -1307,7 +1311,6 @@
 * [alacritty/alacritty](https://github.com/alacritty/alacritty)
 * [johanmattssonm/birdfont](https://github.com/johanmattssonm/birdfont)
 * [rafi/vim-config](https://github.com/rafi/vim-config)
-* [sdras/awesome-actions](https://github.com/sdras/awesome-actions)
 * [schollz/croc](https://github.com/schollz/croc)
 * [vincentbernat/puppet-workstation](https://github.com/vincentbernat/puppet-workstation)
 * [gridsome/gridsome](https://github.com/gridsome/gridsome)
