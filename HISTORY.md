@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [sethvargo/ratchet](https://github.com/sethvargo/ratchet)
 * [SensorsIot/IOTstack](https://github.com/SensorsIot/IOTstack)
 * [actualbudget/actual](https://github.com/actualbudget/actual)
 * [kedacore/keda](https://github.com/kedacore/keda)
@@ -360,7 +361,6 @@
 * [Budibase/budibase](https://github.com/Budibase/budibase)
 * [rollup/rollup](https://github.com/rollup/rollup)
 * [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)
-* [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)
 * [daptin/daptin](https://github.com/daptin/daptin)
 * [riot/riot](https://github.com/riot/riot)
 * [Elderjs/elderjs](https://github.com/Elderjs/elderjs)
@@ -851,7 +851,6 @@
 * [wireservice/csvkit](https://github.com/wireservice/csvkit)
 * [Leantime/leantime](https://github.com/Leantime/leantime)
 * [albertito/chasquid](https://github.com/albertito/chasquid)
-* [M66B/FairEmail](https://github.com/M66B/FairEmail)
 * [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF)
 * [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim)
 * [soywod/unfog](https://github.com/soywod/unfog)
