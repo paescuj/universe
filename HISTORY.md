@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [kubecost/opencost](https://github.com/kubecost/opencost)
+* [ai/nanoid](https://github.com/ai/nanoid)
+* [neondatabase/neon](https://github.com/neondatabase/neon)
+* [AleoHQ/welcome](https://github.com/AleoHQ/welcome)
+* [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly)
+* [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)
 * [mason-leap-lab/infinicache](https://github.com/mason-leap-lab/infinicache)
 * [livebud/bud](https://github.com/livebud/bud)
 * [Speek-App/Speek](https://github.com/Speek-App/Speek)
@@ -284,7 +290,7 @@
 * [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 * [tonarino/innernet](https://github.com/tonarino/innernet)
 * [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni)
-* [modulz/stitches](https://github.com/modulz/stitches)
+* [stitchesjs/stitches](https://github.com/stitchesjs/stitches)
 * [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list)
 * [drakkan/sftpgo](https://github.com/drakkan/sftpgo)
 * [ClearURLs/Addon](https://github.com/ClearURLs/Addon)
