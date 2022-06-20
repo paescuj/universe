@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [Lissy93/dashy](https://github.com/Lissy93/dashy)
+* [grafana/oncall](https://github.com/grafana/oncall)
+* [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
 * [coder/coder](https://github.com/coder/coder)
 * [vaxerski/Hyprland](https://github.com/vaxerski/Hyprland)
 * [RasaHQ/rasa](https://github.com/RasaHQ/rasa)
@@ -1114,7 +1117,6 @@
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 * [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType)
 * [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
-* [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy)
 * [stedolan/jq](https://github.com/stedolan/jq)
 * [go101/go101](https://github.com/go101/go101)
 * [nodemailer/wildduck](https://github.com/nodemailer/wildduck)
@@ -1259,7 +1261,6 @@
 * [e-oj/Magic-Grid](https://github.com/e-oj/Magic-Grid)
 * [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db)
 * [TarekRaafat/autoComplete.js](https://github.com/TarekRaafat/autoComplete.js)
-* [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)
 * [teejee2008/timeshift](https://github.com/teejee2008/timeshift)
 * [duplicati/duplicati](https://github.com/duplicati/duplicati)
 * [basecamp/policies](https://github.com/basecamp/policies)
