@@ -6,4 +6,4 @@
 {{end -}}
 {{- else -}}
 Huh, must be quite dark in our universe.
-{{- end -}}
+{{end -}}

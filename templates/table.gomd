@@ -1,4 +1,4 @@
-{{define "table"}}
+{{- define "table" -}}
 Name | Stargazers | Last Sighting | Composition | Rights
 ---- | ---------- | ------------- | ----------- | ------
 {{range . -}}
