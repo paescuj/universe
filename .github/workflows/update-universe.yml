@@ -29,7 +29,9 @@ jobs:
 
     - name: Update universe
       run: go run .
-      
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
