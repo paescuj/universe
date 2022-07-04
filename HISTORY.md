@@ -1,10 +1,13 @@
 # List of all my starred GitHub repositories
 
+* [kuprel/min-dalle](https://github.com/kuprel/min-dalle)
+* [denoland/fresh](https://github.com/denoland/fresh)
+* [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend)
+* [casdoor/casdoor](https://github.com/casdoor/casdoor)
 * [rxyhn/dotfiles](https://github.com/rxyhn/dotfiles)
 * [ehids/ecapture](https://github.com/ehids/ecapture)
 * [eta-dev/eta](https://github.com/eta-dev/eta)
 * [mswjs/msw](https://github.com/mswjs/msw)
-* [morganstanley/ts-mocking-bird](https://github.com/morganstanley/ts-mocking-bird)
 * [Lissy93/dashy](https://github.com/Lissy93/dashy)
 * [grafana/oncall](https://github.com/grafana/oncall)
 * [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
