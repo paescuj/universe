@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+* [mgunyho/tere](https://github.com/mgunyho/tere)
 * [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline)
 * [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
 * [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -219,7 +221,7 @@
 * [bytebase/bytebase](https://github.com/bytebase/bytebase)
 * [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
 * [seashell/drago](https://github.com/seashell/drago)
-* [lucaburgio/iconoir](https://github.com/lucaburgio/iconoir)
+* [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir)
 * [Superalgos/Superalgos](https://github.com/Superalgos/Superalgos)
 * [mvt-project/mvt](https://github.com/mvt-project/mvt)
 * [nektos/act](https://github.com/nektos/act)
