@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [layerhub-io/react-design-editor](https://github.com/layerhub-io/react-design-editor)
+* [xojs/xo](https://github.com/xojs/xo)
 * [Authing/Authing](https://github.com/Authing/Authing)
 * [immich-app/immich](https://github.com/immich-app/immich)
 * [someengineering/resoto](https://github.com/someengineering/resoto)
@@ -225,7 +227,7 @@
 * [DannyBen/bashly](https://github.com/DannyBen/bashly)
 * [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph)
 * [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos)
-* [armosec/kubescape](https://github.com/armosec/kubescape)
+* [kubescape/kubescape](https://github.com/kubescape/kubescape)
 * [sachaos/viddy](https://github.com/sachaos/viddy)
 * [andrewmclagan/react-env](https://github.com/andrewmclagan/react-env)
 * [mmalcek/bafi](https://github.com/mmalcek/bafi)
@@ -1723,7 +1725,6 @@
 * [postlight/awesome-cms](https://github.com/postlight/awesome-cms)
 * [hackergrrl/art-of-readme](https://github.com/hackergrrl/art-of-readme)
 * [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
-* [standard/standard](https://github.com/standard/standard)
 * [jshint/jshint](https://github.com/jshint/jshint)
 * [PowerDNS-Admin/PowerDNS-Admin](https://github.com/PowerDNS-Admin/PowerDNS-Admin)
 * [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
