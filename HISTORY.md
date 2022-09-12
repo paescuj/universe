@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
+* [meienberger/runtipi](https://github.com/meienberger/runtipi)
+* [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
+* [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
+* [skarab42/vite-plugin-vitest-typescript-assert](https://github.com/skarab42/vite-plugin-vitest-typescript-assert)
 * [alyssaxuu/motionity](https://github.com/alyssaxuu/motionity)
 * [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader)
 * [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)
@@ -745,7 +750,7 @@
 * [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)
 * [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 * [phuocng/csslayout](https://github.com/phuocng/csslayout)
-* [1milligram/html-dom](https://github.com/1milligram/html-dom)
+* [phuocng/html-dom](https://github.com/phuocng/html-dom)
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 * [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
 * [asim/go-micro](https://github.com/asim/go-micro)
