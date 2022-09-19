@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [urbit/urbit](https://github.com/urbit/urbit)
+* [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web)
+* [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+* [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
 * [meienberger/runtipi](https://github.com/meienberger/runtipi)
 * [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
@@ -639,7 +643,6 @@
 * [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
 * [JordanKnott/taskcafe](https://github.com/JordanKnott/taskcafe)
 * [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js)
-* [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script)
 * [pikvm/pikvm](https://github.com/pikvm/pikvm)
 * [grafana/tanka](https://github.com/grafana/tanka)
 * [influxdata/chronograf](https://github.com/influxdata/chronograf)
@@ -753,7 +756,7 @@
 * [phuocng/html-dom](https://github.com/phuocng/html-dom)
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 * [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-* [asim/go-micro](https://github.com/asim/go-micro)
+* [go-micro/go-micro](https://github.com/go-micro/go-micro)
 * [austingebauer/go-leetcode](https://github.com/austingebauer/go-leetcode)
 * [vrothberg/vgrep](https://github.com/vrothberg/vgrep)
 * [jbowens/codenames](https://github.com/jbowens/codenames)
