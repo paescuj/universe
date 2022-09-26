@@ -27,7 +27,7 @@ func (universe CategorizedUniverse) Count() int {
   return len(universe.LivingStars)+len(universe.DeadStars)
 }
 
-func SaveTestData(universe []*github.Repository) error {
+func saveTestData(universe []*github.Repository) error {
   file, _ := json.MarshalIndent(universe, "", " ")
   err := ioutil.WriteFile("test.json", file, 0644)
   if err != nil {
@@ -36,7 +36,7 @@ func SaveTestData(universe []*github.Repository) error {
   return nil
 }
 
-func TestFetchUniverse(universe *[]*github.Repository) error {
+func testFetchUniverse(universe *[]*github.Repository) error {
   file, err := ioutil.ReadFile("test.json")
   if err != nil {
     return err
@@ -48,7 +48,7 @@ func TestFetchUniverse(universe *[]*github.Repository) error {
   return nil
 }
 
-func FetchUniverse(universe *[]*github.Repository, username string, useCache bool) error {
+func fetchUniverse(universe *[]*github.Repository, username string, useCache bool) error {
   context := context.Background()
   httpClient := &http.Client{
     Timeout: time.Second * 20,
@@ -82,7 +82,7 @@ func FetchUniverse(universe *[]*github.Repository, username string, useCache boo
   return nil
 }
 
-func FilterNonExistingStars(universe *[]*github.Repository, githubToken string) error {
+func filterNonExistingStars(universe *[]*github.Repository, githubToken string) error {
   src := oauth2.StaticTokenSource(
     &oauth2.Token{AccessToken: githubToken},
   )
@@ -146,52 +146,61 @@ func FilterNonExistingStars(universe *[]*github.Repository, githubToken string) 
 }
 
 func main() {
-  // Initialize spinner & cache
+  // -- Initialize spinner --
   spinnerSet := spinner.CharSets[9]
   spinnerSpeed := 100*time.Millisecond
-  useCache := true
-  if (os.Getenv("CI") == "true") {
-    useCache = false
-  }
   spinner := spinner.New(spinnerSet, spinnerSpeed, spinner.WithWriter(os.Stderr))
 
+  // -- Load templates --
   spinner.Suffix = " Loading templates..."
   spinner.Start()
 
-  // Load templates
   template, err := template.ParseGlob("templates/*.gomd")
   if err != nil {
     fmt.Printf("Error: %v\n", err)
-    return
+    os.Exit(1)
   }
 
   spinner.Stop()
 
+  // -- Fetch universe --
   spinner.Suffix = " Fetching universe..."
   spinner.Start()
 
-  // Fetch universe
+  username, usernamePresent := os.LookupEnv("GITHUB_REPOSITORY_OWNER")
+  if !usernamePresent {
+    // Fallback for username
+    username = "paescuj"
+  }
+  useCache := true
+  if os.Getenv("CI") == "true" {
+    useCache = false
+  }
   var universe []*github.Repository
-  //var _ = useCache; err = TestFetchUniverse(&universe)
-  err = FetchUniverse(&universe, "paescuj", useCache)
+  //var _ = useCache; var _ = username; err = testFetchUniverse(&universe)
+  err = fetchUniverse(&universe, username, useCache)
   if err != nil {
     fmt.Printf("Error: %v\n", err)
-    return
+    os.Exit(1)
+  }
+
+  // Check whether the stars really exist and filter out non existing ones
+  // (it happened that the GitHub API has returned stars even for repos which no longer exist)
+  if os.Getenv("CHECK_STARS") == "true" {
+    // Only proceed if GitHub token is present
+    githubToken, githubTokenPresent := os.LookupEnv("GITHUB_TOKEN")
+    if len(universe) > 0 && githubTokenPresent {
+      err := filterNonExistingStars(&universe, githubToken)
+      if err != nil {
+        fmt.Printf("Error: %v\n", err)
+        os.Exit(1)
+      }
+    }
   }
 
   spinner.Stop()
 
-  // If a GitHub token is present, filter out non existing stars
-  // (it happens that the GitHub API returns stars even for repos which no longer exist)
-  githubToken, githubTokenPresent := os.LookupEnv("GITHUB_TOKEN")
-  if len(universe) > 0 && githubTokenPresent {
-    err := FilterNonExistingStars(&universe, githubToken)
-    if err != nil {
-      fmt.Printf("Error: %v\n", err)
-      return
-    }
-  }
-
+  // -- Create HISTORY.md file --
   spinner.Suffix = " Creating HISTORY.md file..."
   spinner.Start()
 
@@ -199,7 +208,7 @@ func main() {
   historyFile, err := os.Create("HISTORY.md")
   if err != nil {
     fmt.Printf("Error: %v\n", err)
-    return
+    os.Exit(1)
   }
 
   // Write HISTORY.md file
@@ -207,11 +216,12 @@ func main() {
   historyFile.Close()
   if err != nil {
     fmt.Printf("Error: %v\n", err)
-    return
+    os.Exit(1)
   }
 
   spinner.Stop()
 
+  // -- Create README.md file --
   spinner.Suffix = " Creating README.md file..."
   spinner.Start()
 
@@ -219,7 +229,7 @@ func main() {
   readmeFile, err := os.Create("README.md")
   if err != nil {
     fmt.Printf("Error: %v\n", err)
-    return
+    os.Exit(1)
   }
 
   // Sort universe by date
@@ -242,7 +252,7 @@ func main() {
   readmeFile.Close()
   if err != nil {
     fmt.Printf("Error: %v\n", err)
-    return
+    os.Exit(1)
   }
 
   spinner.Stop()
