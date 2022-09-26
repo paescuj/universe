@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [openai/whisper](https://github.com/openai/whisper)
 * [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
 * [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
