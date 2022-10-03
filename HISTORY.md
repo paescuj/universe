@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [build-trust/ockam](https://github.com/build-trust/ockam)
 * [logto-io/logto](https://github.com/logto-io/logto)
 * [Ildaron/Laser_control](https://github.com/Ildaron/Laser_control)
 * [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
