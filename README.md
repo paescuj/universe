@@ -17,38 +17,51 @@
 
 Name | Stargazers | Last Sighting | Composition | Rights
 ---- | ---------- | ------------- | ----------- | ------
-[netdata (netdata)](https://github.com/netdata/netdata) | 60872 | 2022-10-17 00:23 | C | GNU General Public License v3.0
-[spark (apache)](https://github.com/apache/spark) | 34115 | 2022-10-17 00:23 | Scala | Apache License 2.0
+[dura (tkellogg)](https://github.com/tkellogg/dura) | 4051 | 2022-10-17 00:32 | Rust | Other
+[renovate (renovatebot)](https://github.com/renovatebot/renovate) | 9790 | 2022-10-17 00:32 | TypeScript | Other
+[spark (apache)](https://github.com/apache/spark) | 34115 | 2022-10-17 00:31 | Scala | Apache License 2.0
+[universe (paescuj)](https://github.com/paescuj/universe) | 3 | 2022-10-17 00:31 | Go | MIT License
+[next.js (vercel)](https://github.com/vercel/next.js) | 93918 | 2022-10-17 00:31 | JavaScript | MIT License
+[FreeCAD (FreeCAD)](https://github.com/FreeCAD/FreeCAD) | 12367 | 2022-10-17 00:31 | C++ | Other
+[zentaopms (easysoft)](https://github.com/easysoft/zentaopms) | 914 | 2022-10-17 00:31 | PHP | Other
+[matomo (matomo-org)](https://github.com/matomo-org/matomo) | 16906 | 2022-10-17 00:31 | PHP | GNU General Public License v3.0
+[coder (coder)](https://github.com/coder/coder) | 2491 | 2022-10-17 00:30 | Go | GNU Affero General Public License v3.0
+[firecracker (firecracker-microvm)](https://github.com/firecracker-microvm/firecracker) | 19631 | 2022-10-17 00:30 | Rust | Apache License 2.0
+[openpilot (commaai)](https://github.com/commaai/openpilot) | 36112 | 2022-10-17 00:30 | Python | MIT License
+[ClickHouse (ClickHouse)](https://github.com/ClickHouse/ClickHouse) | 25800 | 2022-10-17 00:30 | C++ | Apache License 2.0
+[keptn (keptn)](https://github.com/keptn/keptn) | 1520 | 2022-10-17 00:29 | Go | Apache License 2.0
+[airbyte (airbytehq)](https://github.com/airbytehq/airbyte) | 8283 | 2022-10-17 00:29 | Java | Other
+[InvenTree (inventree)](https://github.com/inventree/InvenTree) | 2104 | 2022-10-17 00:28 | Python | MIT License
+[reactos (reactos)](https://github.com/reactos/reactos) | 11569 | 2022-10-17 00:28 | C | GNU General Public License v2.0
+[helix (helix-editor)](https://github.com/helix-editor/helix) | 14965 | 2022-10-17 00:27 | Rust | Mozilla Public License 2.0
+[UTM (utmapp)](https://github.com/utmapp/UTM) | 15895 | 2022-10-17 00:27 | Swift | Apache License 2.0
+[swc (swc-project)](https://github.com/swc-project/swc) | 24245 | 2022-10-17 00:26 | Rust | Apache License 2.0
+[shardingsphere (apache)](https://github.com/apache/shardingsphere) | 17486 | 2022-10-17 00:26 | Java | Apache License 2.0
+[netdata (netdata)](https://github.com/netdata/netdata) | 60872 | 2022-10-17 00:26 | C | GNU General Public License v3.0
+[citus (citusdata)](https://github.com/citusdata/citus) | 7438 | 2022-10-17 00:25 | C | GNU Affero General Public License v3.0
+[Piped (TeamPiped)](https://github.com/TeamPiped/Piped) | 3127 | 2022-10-17 00:24 | Vue | GNU Affero General Public License v3.0
 [chatwoot (chatwoot)](https://github.com/chatwoot/chatwoot) | 13811 | 2022-10-17 00:22 | Ruby | Other
 [cerbos (cerbos)](https://github.com/cerbos/cerbos) | 669 | 2022-10-17 00:22 | Go | Apache License 2.0
-[portainer (portainer)](https://github.com/portainer/portainer) | 23319 | 2022-10-17 00:21 | Go | zlib License
-[renovate (renovatebot)](https://github.com/renovatebot/renovate) | 9790 | 2022-10-17 00:21 | TypeScript | Other
+[portainer (portainer)](https://github.com/portainer/portainer) | 23320 | 2022-10-17 00:21 | Go | zlib License
 [medusa (medusajs)](https://github.com/medusajs/medusa) | 14381 | 2022-10-17 00:21 | TypeScript | MIT License
 [gitea (go-gitea)](https://github.com/go-gitea/gitea) | 32744 | 2022-10-17 00:20 | Go | MIT License
 [storybook (storybookjs)](https://github.com/storybookjs/storybook) | 74531 | 2022-10-17 00:20 | TypeScript | MIT License
 [metrics (lowlighter)](https://github.com/lowlighter/metrics) | 8581 | 2022-10-17 00:19 | JavaScript | MIT License
 [msw (mswjs)](https://github.com/mswjs/msw) | 10651 | 2022-10-17 00:19 | TypeScript | MIT License
-[helix (helix-editor)](https://github.com/helix-editor/helix) | 14965 | 2022-10-17 00:19 | Rust | Mozilla Public License 2.0
 [routr (fonoster)](https://github.com/fonoster/routr) | 966 | 2022-10-17 00:18 | JavaScript | MIT License
-[next.js (vercel)](https://github.com/vercel/next.js) | 93917 | 2022-10-17 00:18 | JavaScript | MIT License
 [podman (containers)](https://github.com/containers/podman) | 15574 | 2022-10-17 00:17 | Go | Apache License 2.0
-[firecracker (firecracker-microvm)](https://github.com/firecracker-microvm/firecracker) | 19631 | 2022-10-17 00:17 | Rust | Apache License 2.0
 [brew (Homebrew)](https://github.com/Homebrew/brew) | 33686 | 2022-10-17 00:16 | Ruby | BSD 2-Clause "Simplified" License
 [sourcegraph (sourcegraph)](https://github.com/sourcegraph/sourcegraph) | 6999 | 2022-10-17 00:15 | Go | Other
 [aptos-core (aptos-labs)](https://github.com/aptos-labs/aptos-core) | 3967 | 2022-10-17 00:14 | Rust | Apache License 2.0
 [firezone (firezone)](https://github.com/firezone/firezone) | 2948 | 2022-10-17 00:13 | Elixir | Apache License 2.0
 [xournalpp (xournalpp)](https://github.com/xournalpp/xournalpp) | 7302 | 2022-10-17 00:13 | C++ | GNU General Public License v2.0
 [kubespray (kubernetes-sigs)](https://github.com/kubernetes-sigs/kubespray) | 13011 | 2022-10-17 00:12 | Jinja | Apache License 2.0
-[ClickHouse (ClickHouse)](https://github.com/ClickHouse/ClickHouse) | 25800 | 2022-10-17 00:11 | C++ | Apache License 2.0
-[neovim (neovim)](https://github.com/neovim/neovim) | 58714 | 2022-10-17 00:10 | Vim Script | Other
+[neovim (neovim)](https://github.com/neovim/neovim) | 58715 | 2022-10-17 00:10 | Vim Script | Other
 [hoppscotch (hoppscotch)](https://github.com/hoppscotch/hoppscotch) | 47549 | 2022-10-17 00:10 | Vue | MIT License
 [photoprism (photoprism)](https://github.com/photoprism/photoprism) | 22857 | 2022-10-17 00:10 | Go | Other
 [core (home-assistant)](https://github.com/home-assistant/core) | 55327 | 2022-10-17 00:09 | Python | Apache License 2.0
-[matomo (matomo-org)](https://github.com/matomo-org/matomo) | 16906 | 2022-10-17 00:09 | PHP | GNU General Public License v3.0
-[openpilot (commaai)](https://github.com/commaai/openpilot) | 36112 | 2022-10-17 00:09 | Python | MIT License
 [server (MariaDB)](https://github.com/MariaDB/server) | 4491 | 2022-10-17 00:07 | C++ | GNU General Public License v2.0
 [reva (cs3org)](https://github.com/cs3org/reva) | 122 | 2022-10-17 00:06 | Go | Apache License 2.0
-[InvenTree (inventree)](https://github.com/inventree/InvenTree) | 2104 | 2022-10-17 00:05 | Python | MIT License
 [weblate (WeblateOrg)](https://github.com/WeblateOrg/weblate) | 3174 | 2022-10-17 00:04 | Python | GNU General Public License v3.0
 [welcome (AleoHQ)](https://github.com/AleoHQ/welcome) | 160 | 2022-10-17 00:04 | Rust | 
 [godot (godotengine)](https://github.com/godotengine/godot) | 54225 | 2022-10-17 00:03 | C++ | MIT License
@@ -56,7 +69,6 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [rnote (flxzt)](https://github.com/flxzt/rnote) | 2850 | 2022-10-17 00:03 | Rust | GNU General Public License v3.0
 [bun (oven-sh)](https://github.com/oven-sh/bun) | 35126 | 2022-10-17 00:03 | Zig | 
 [seaweedfs (seaweedfs)](https://github.com/seaweedfs/seaweedfs) | 15612 | 2022-10-17 00:03 | Go | Apache License 2.0
-[shardingsphere (apache)](https://github.com/apache/shardingsphere) | 17486 | 2022-10-17 00:02 | Java | Apache License 2.0
 [imagor (cshum)](https://github.com/cshum/imagor) | 2610 | 2022-10-17 00:01 | Go | Apache License 2.0
 [three.js (mrdoob)](https://github.com/mrdoob/three.js) | 86082 | 2022-10-17 00:00 | JavaScript | MIT License
 [gitpod (gitpod-io)](https://github.com/gitpod-io/gitpod) | 9347 | 2022-10-17 00:00 | TypeScript | Other
@@ -64,14 +76,12 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [anki (ankitects)](https://github.com/ankitects/anki) | 12229 | 2022-10-16 23:59 | Rust | Other
 [LunarVim (LunarVim)](https://github.com/LunarVim/LunarVim) | 10998 | 2022-10-16 23:58 | Lua | GNU General Public License v3.0
 [tldr (tldr-pages)](https://github.com/tldr-pages/tldr) | 41072 | 2022-10-16 23:58 | Markdown | Other
-[zentaopms (easysoft)](https://github.com/easysoft/zentaopms) | 914 | 2022-10-16 23:57 | PHP | Other
 [Superalgos (Superalgos)](https://github.com/Superalgos/Superalgos) | 2936 | 2022-10-16 23:56 | JavaScript | Apache License 2.0
 [ampache (ampache)](https://github.com/ampache/ampache) | 3124 | 2022-10-16 23:56 | PHP | GNU Affero General Public License v3.0
 [redpanda (redpanda-data)](https://github.com/redpanda-data/redpanda) | 5002 | 2022-10-16 23:55 | C++ | 
 [Aegis (beemdevelopment)](https://github.com/beemdevelopment/Aegis) | 4066 | 2022-10-16 23:54 | Java | GNU General Public License v3.0
 [foundationdb (apple)](https://github.com/apple/foundationdb) | 11796 | 2022-10-16 23:53 | C++ | Apache License 2.0
 [autocomplete (withfig)](https://github.com/withfig/autocomplete) | 20270 | 2022-10-16 23:45 | TypeScript | MIT License
-[reactos (reactos)](https://github.com/reactos/reactos) | 11569 | 2022-10-16 23:43 | C | GNU General Public License v2.0
 [gyroflow (gyroflow)](https://github.com/gyroflow/gyroflow) | 3709 | 2022-10-16 23:41 | Rust | GNU General Public License v3.0
 [backstage (backstage)](https://github.com/backstage/backstage) | 18738 | 2022-10-16 23:40 | TypeScript | Apache License 2.0
 [Rocket.Chat (RocketChat)](https://github.com/RocketChat/Rocket.Chat) | 33550 | 2022-10-16 23:32 | TypeScript | Other
@@ -83,13 +93,11 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [pancake-frontend (pancakeswap)](https://github.com/pancakeswap/pancake-frontend) | 1983 | 2022-10-16 23:27 | TypeScript | GNU General Public License v3.0
 [cal.com (calcom)](https://github.com/calcom/cal.com) | 13844 | 2022-10-16 23:26 | TypeScript | Other
 [leftwm (leftwm)](https://github.com/leftwm/leftwm) | 1957 | 2022-10-16 23:23 | Rust | MIT License
-[airbyte (airbytehq)](https://github.com/airbytehq/airbyte) | 8283 | 2022-10-16 23:23 | Java | Other
 [dagger (dagger)](https://github.com/dagger/dagger) | 6049 | 2022-10-16 23:22 | Go | Apache License 2.0
 [esphome (esphome)](https://github.com/esphome/esphome) | 5332 | 2022-10-16 23:22 | C++ | Other
 [yunohost (YunoHost)](https://github.com/YunoHost/yunohost) | 1384 | 2022-10-16 23:20 | Python | GNU Affero General Public License v3.0
 [pueue (Nukesor)](https://github.com/Nukesor/pueue) | 3169 | 2022-10-16 23:20 | Rust | MIT License
-[material-ui (mui)](https://github.com/mui/material-ui) | 82029 | 2022-10-16 23:18 | JavaScript | MIT License
-[coder (coder)](https://github.com/coder/coder) | 2491 | 2022-10-16 23:17 | Go | GNU Affero General Public License v3.0
+[material-ui (mui)](https://github.com/mui/material-ui) | 82030 | 2022-10-16 23:18 | JavaScript | MIT License
 [react (facebook)](https://github.com/facebook/react) | 196180 | 2022-10-16 23:17 | JavaScript | MIT License
 [solana (solana-labs)](https://github.com/solana-labs/solana) | 9523 | 2022-10-16 23:16 | Rust | Other
 [kubernetes (kubernetes)](https://github.com/kubernetes/kubernetes) | 92922 | 2022-10-16 23:14 | Go | Apache License 2.0
@@ -110,7 +118,6 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [ockam (build-trust)](https://github.com/build-trust/ockam) | 2558 | 2022-10-16 22:59 | Rust | Apache License 2.0
 [WLED (Aircoookie)](https://github.com/Aircoookie/WLED) | 9647 | 2022-10-16 22:58 | C++ | MIT License
 [containerd (containerd)](https://github.com/containerd/containerd) | 12274 | 2022-10-16 22:56 | Go | Apache License 2.0
-[FreeCAD (FreeCAD)](https://github.com/FreeCAD/FreeCAD) | 12367 | 2022-10-16 22:55 | C++ | Other
 [nushell (nushell)](https://github.com/nushell/nushell) | 21128 | 2022-10-16 22:52 | Rust | MIT License
 [dgraph (dgraph-io)](https://github.com/dgraph-io/dgraph) | 18549 | 2022-10-16 22:51 | Go | Other
 [cockroach (cockroachdb)](https://github.com/cockroachdb/cockroach) | 25865 | 2022-10-16 22:50 | Go | Other
@@ -155,12 +162,12 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [barman (EnterpriseDB)](https://github.com/EnterpriseDB/barman) | 1410 | 2022-10-16 22:04 | Python | GNU General Public License v3.0
 [ngs (ngs-lang)](https://github.com/ngs-lang/ngs) | 1165 | 2022-10-16 22:00 | C | GNU General Public License v3.0
 [questdb (questdb)](https://github.com/questdb/questdb) | 9443 | 2022-10-16 22:00 | Java | Apache License 2.0
-[crossplane (crossplane)](https://github.com/crossplane/crossplane) | 5936 | 2022-10-16 21:58 | Go | Apache License 2.0
+[crossplane (crossplane)](https://github.com/crossplane/crossplane) | 5937 | 2022-10-16 21:58 | Go | Apache License 2.0
 [Leaflet (Leaflet)](https://github.com/Leaflet/Leaflet) | 35864 | 2022-10-16 21:58 | JavaScript | BSD 2-Clause "Simplified" License
 [dexter (iamsrp)](https://github.com/iamsrp/dexter) | 142 | 2022-10-16 21:55 | Python | GNU General Public License v3.0
 [vault (hashicorp)](https://github.com/hashicorp/vault) | 25997 | 2022-10-16 21:54 | Go | Mozilla Public License 2.0
 [darktable (darktable-org)](https://github.com/darktable-org/darktable) | 7039 | 2022-10-16 21:53 | C | GNU General Public License v3.0
-[app-ideas (florinpop17)](https://github.com/florinpop17/app-ideas) | 58631 | 2022-10-16 21:52 |  | MIT License
+[app-ideas (florinpop17)](https://github.com/florinpop17/app-ideas) | 58632 | 2022-10-16 21:52 |  | MIT License
 [temporal (temporalio)](https://github.com/temporalio/temporal) | 5451 | 2022-10-16 21:52 | Go | MIT License
 [openlayers (openlayers)](https://github.com/openlayers/openlayers) | 9467 | 2022-10-16 21:48 | JavaScript | BSD 2-Clause "Simplified" License
 [nextui (nextui-org)](https://github.com/nextui-org/nextui) | 8097 | 2022-10-16 21:47 | TypeScript | MIT License
@@ -172,13 +179,13 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [duf (muesli)](https://github.com/muesli/duf) | 9966 | 2022-10-16 21:36 | Go | Other
 [directus (directus)](https://github.com/directus/directus) | 17948 | 2022-10-16 21:33 | TypeScript | GNU General Public License v3.0
 [pikvm (pikvm)](https://github.com/pikvm/pikvm) | 5139 | 2022-10-16 21:32 |  | GNU General Public License v3.0
-[free-programming-books (EbookFoundation)](https://github.com/EbookFoundation/free-programming-books) | 252003 | 2022-10-16 21:32 |  | Other
+[free-programming-books (EbookFoundation)](https://github.com/EbookFoundation/free-programming-books) | 252004 | 2022-10-16 21:32 |  | Other
 [svgedit (SVG-Edit)](https://github.com/SVG-Edit/svgedit) | 5235 | 2022-10-16 21:30 | JavaScript | MIT License
 [Hyprland (hyprwm)](https://github.com/hyprwm/Hyprland) | 3230 | 2022-10-16 21:26 | C++ | BSD 3-Clause "New" or "Revised" License
 [etcd (etcd-io)](https://github.com/etcd-io/etcd) | 41498 | 2022-10-16 21:25 | Go | Apache License 2.0
 [kitty (kovidgoyal)](https://github.com/kovidgoyal/kitty) | 16300 | 2022-10-16 21:24 | Python | GNU General Public License v3.0
-[novu (novuhq)](https://github.com/novuhq/novu) | 10736 | 2022-10-16 21:21 | TypeScript | MIT License
 [vector (vectordotdev)](https://github.com/vectordotdev/vector) | 11455 | 2022-10-16 21:21 | Rust | Mozilla Public License 2.0
+[novu (novuhq)](https://github.com/novuhq/novu) | 10736 | 2022-10-16 21:21 | TypeScript | MIT License
 [zig (ziglang)](https://github.com/ziglang/zig) | 18026 | 2022-10-16 21:20 | Zig | MIT License
 [crowdsec (crowdsecurity)](https://github.com/crowdsecurity/crowdsec) | 5667 | 2022-10-16 21:20 | Go | MIT License
 [growthbook (growthbook)](https://github.com/growthbook/growthbook) | 3680 | 2022-10-16 21:19 | TypeScript | MIT License
@@ -226,7 +233,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [phoenix (phoenixframework)](https://github.com/phoenixframework/phoenix) | 18686 | 2022-10-16 20:03 | Elixir | MIT License
 [SmartTubeNext (yuliskov)](https://github.com/yuliskov/SmartTubeNext) | 7472 | 2022-10-16 19:59 | Java | Other
 [mixxx (mixxxdj)](https://github.com/mixxxdj/mixxx) | 2999 | 2022-10-16 19:59 | C++ | Other
-[rustdesk (rustdesk)](https://github.com/rustdesk/rustdesk) | 30191 | 2022-10-16 19:58 | Rust | GNU Affero General Public License v3.0
+[rustdesk (rustdesk)](https://github.com/rustdesk/rustdesk) | 30193 | 2022-10-16 19:58 | Rust | GNU Affero General Public License v3.0
 [axios (axios)](https://github.com/axios/axios) | 96660 | 2022-10-16 19:57 | JavaScript | MIT License
 [cortex (cortexproject)](https://github.com/cortexproject/cortex) | 4888 | 2022-10-16 19:55 | Go | Apache License 2.0
 [locust (locustio)](https://github.com/locustio/locust) | 19929 | 2022-10-16 19:55 | Python | MIT License
@@ -245,7 +252,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [rmlint (sahib)](https://github.com/sahib/rmlint) | 1400 | 2022-10-16 19:31 | C | GNU General Public License v3.0
 [beets (beetbox)](https://github.com/beetbox/beets) | 11188 | 2022-10-16 19:30 | Python | MIT License
 [kops (kubernetes)](https://github.com/kubernetes/kops) | 14410 | 2022-10-16 19:29 | Go | Apache License 2.0
-[awesome-go (avelino)](https://github.com/avelino/awesome-go) | 89528 | 2022-10-16 19:29 | Go | MIT License
+[awesome-go (avelino)](https://github.com/avelino/awesome-go) | 89529 | 2022-10-16 19:29 | Go | MIT License
 [bigbluebutton (bigbluebutton)](https://github.com/bigbluebutton/bigbluebutton) | 7692 | 2022-10-16 19:25 | JavaScript | GNU Lesser General Public License v3.0
 [servo (servo)](https://github.com/servo/servo) | 21654 | 2022-10-16 19:21 |  | Mozilla Public License 2.0
 [bootstrap (twbs)](https://github.com/twbs/bootstrap) | 159978 | 2022-10-16 19:17 | JavaScript | MIT License
@@ -257,11 +264,11 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [box86 (ptitSeb)](https://github.com/ptitSeb/box86) | 2298 | 2022-10-16 19:06 | C | MIT License
 [coc.nvim (neoclide)](https://github.com/neoclide/coc.nvim) | 21352 | 2022-10-16 19:02 | TypeScript | Other
 [nats-server (nats-io)](https://github.com/nats-io/nats-server) | 11688 | 2022-10-16 19:00 | Go | Apache License 2.0
-[jest (facebook)](https://github.com/facebook/jest) | 40499 | 2022-10-16 18:58 | TypeScript | MIT License
+[jest (facebook)](https://github.com/facebook/jest) | 40500 | 2022-10-16 18:58 | TypeScript | MIT License
 [signal-cli (AsamK)](https://github.com/AsamK/signal-cli) | 2432 | 2022-10-16 18:47 | Java | GNU General Public License v3.0
 [PayloadsAllTheThings (swisskyrepo)](https://github.com/swisskyrepo/PayloadsAllTheThings) | 41986 | 2022-10-16 18:47 | Python | MIT License
 [argbash (matejak)](https://github.com/matejak/argbash) | 1168 | 2022-10-16 18:44 | M4 | Other
-[dragonfly (dragonflydb)](https://github.com/dragonflydb/dragonfly) | 13613 | 2022-10-16 18:43 | C++ | Other
+[dragonfly (dragonflydb)](https://github.com/dragonflydb/dragonfly) | 13616 | 2022-10-16 18:43 | C++ | Other
 [esbuild (evanw)](https://github.com/evanw/esbuild) | 33571 | 2022-10-16 18:39 | Go | MIT License
 [ceph (ceph)](https://github.com/ceph/ceph) | 11118 | 2022-10-16 18:39 | C++ | Other
 [craft.js (prevwong)](https://github.com/prevwong/craft.js) | 5244 | 2022-10-16 18:39 | TypeScript | MIT License
@@ -273,18 +280,18 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [qutebrowser (qutebrowser)](https://github.com/qutebrowser/qutebrowser) | 8183 | 2022-10-16 18:30 | Python | GNU General Public License v3.0
 [civicrm-core (civicrm)](https://github.com/civicrm/civicrm-core) | 454 | 2022-10-16 18:27 | PHP | GNU Affero General Public License v3.0
 [focalboard (mattermost)](https://github.com/mattermost/focalboard) | 12695 | 2022-10-16 18:21 | TypeScript | Other
-[hashcat (hashcat)](https://github.com/hashcat/hashcat) | 15667 | 2022-10-16 18:21 | C | 
+[hashcat (hashcat)](https://github.com/hashcat/hashcat) | 15668 | 2022-10-16 18:21 | C | 
 [awesome-flipperzero (djsime1)](https://github.com/djsime1/awesome-flipperzero) | 4459 | 2022-10-16 18:18 |  | Creative Commons Zero v1.0 Universal
 [ripgrep (BurntSushi)](https://github.com/BurntSushi/ripgrep) | 33671 | 2022-10-16 18:18 | Rust | The Unlicense
 [moby (moby)](https://github.com/moby/moby) | 64256 | 2022-10-16 18:16 | Go | Apache License 2.0
 [33-js-concepts (leonardomso)](https://github.com/leonardomso/33-js-concepts) | 52255 | 2022-10-16 18:15 | JavaScript | MIT License
 [vaultwarden (dani-garcia)](https://github.com/dani-garcia/vaultwarden) | 19272 | 2022-10-16 18:14 | Rust | GNU General Public License v3.0
 [egui (emilk)](https://github.com/emilk/egui) | 11086 | 2022-10-16 18:10 | Rust | Apache License 2.0
-[consul (hashicorp)](https://github.com/hashicorp/consul) | 25506 | 2022-10-16 18:06 | Go | Mozilla Public License 2.0
+[consul (hashicorp)](https://github.com/hashicorp/consul) | 25507 | 2022-10-16 18:06 | Go | Mozilla Public License 2.0
 [shields (badges)](https://github.com/badges/shields) | 18072 | 2022-10-16 18:04 | JavaScript | Creative Commons Zero v1.0 Universal
 [obs-studio (obsproject)](https://github.com/obsproject/obs-studio) | 42292 | 2022-10-16 18:01 | C | GNU General Public License v2.0
 [toxiproxy (Shopify)](https://github.com/Shopify/toxiproxy) | 8605 | 2022-10-16 17:58 | Go | MIT License
-[starship (starship)](https://github.com/starship/starship) | 29282 | 2022-10-16 17:54 | Rust | ISC License
+[starship (starship)](https://github.com/starship/starship) | 29283 | 2022-10-16 17:54 | Rust | ISC License
 [synapse (matrix-org)](https://github.com/matrix-org/synapse) | 10021 | 2022-10-16 17:50 | Python | Apache License 2.0
 [DevOps-Guide (Tikam02)](https://github.com/Tikam02/DevOps-Guide) | 5322 | 2022-10-16 17:38 | HTML | MIT License
 [awesome-uses (wesbos)](https://github.com/wesbos/awesome-uses) | 4075 | 2022-10-16 17:37 | JavaScript | 
@@ -293,7 +300,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [uBlock (gorhill)](https://github.com/gorhill/uBlock) | 32777 | 2022-10-16 17:30 | JavaScript | GNU General Public License v3.0
 [firefly-iii (firefly-iii)](https://github.com/firefly-iii/firefly-iii) | 9048 | 2022-10-16 17:29 | PHP | GNU Affero General Public License v3.0
 [flutter (flutter)](https://github.com/flutter/flutter) | 145791 | 2022-10-16 17:27 | Dart | BSD 3-Clause "New" or "Revised" License
-[graphql-engine (hasura)](https://github.com/hasura/graphql-engine) | 28203 | 2022-10-16 17:27 | TypeScript | Apache License 2.0
+[graphql-engine (hasura)](https://github.com/hasura/graphql-engine) | 28205 | 2022-10-16 17:27 | TypeScript | Apache License 2.0
 [meilisearch (meilisearch)](https://github.com/meilisearch/meilisearch) | 30163 | 2022-10-16 17:26 | Rust | MIT License
 [falco (falcosecurity)](https://github.com/falcosecurity/falco) | 5273 | 2022-10-16 17:24 | C++ | Apache License 2.0
 [inter (rsms)](https://github.com/rsms/inter) | 14477 | 2022-10-16 17:21 | Python | Other
@@ -305,7 +312,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [linkerd2 (linkerd)](https://github.com/linkerd/linkerd2) | 8943 | 2022-10-16 17:03 | Go | Apache License 2.0
 [echarts (apache)](https://github.com/apache/echarts) | 52970 | 2022-10-16 17:02 | TypeScript | Apache License 2.0
 [htop (htop-dev)](https://github.com/htop-dev/htop) | 4163 | 2022-10-16 17:00 | C | GNU General Public License v2.0
-[typesense (typesense)](https://github.com/typesense/typesense) | 11358 | 2022-10-16 16:57 | C++ | GNU General Public License v3.0
+[typesense (typesense)](https://github.com/typesense/typesense) | 11359 | 2022-10-16 16:57 | C++ | GNU General Public License v3.0
 [nocodb (nocodb)](https://github.com/nocodb/nocodb) | 31614 | 2022-10-16 16:57 | TypeScript | GNU Affero General Public License v3.0
 [typhoon (poseidon)](https://github.com/poseidon/typhoon) | 1720 | 2022-10-16 16:57 | HCL | MIT License
 [lazygit (jesseduffield)](https://github.com/jesseduffield/lazygit) | 30277 | 2022-10-16 16:56 | Go | MIT License
@@ -332,11 +339,10 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [ecapture (ehids)](https://github.com/ehids/ecapture) | 4893 | 2022-10-16 16:02 | C | GNU Affero General Public License v3.0
 [influxdb (influxdata)](https://github.com/influxdata/influxdb) | 24285 | 2022-10-16 16:02 | Go | MIT License
 [theatre (theatre-js)](https://github.com/theatre-js/theatre) | 8142 | 2022-10-16 16:02 | TypeScript | Apache License 2.0
-[vite (vitejs)](https://github.com/vitejs/vite) | 48490 | 2022-10-16 16:00 | TypeScript | MIT License
+[vite (vitejs)](https://github.com/vitejs/vite) | 48491 | 2022-10-16 16:00 | TypeScript | MIT License
 [dbeaver (dbeaver)](https://github.com/dbeaver/dbeaver) | 28717 | 2022-10-16 15:58 | Java | Apache License 2.0
 [pipeline (tektoncd)](https://github.com/tektoncd/pipeline) | 7382 | 2022-10-16 15:58 | Go | Apache License 2.0
-[cs-video-courses (Developer-Y)](https://github.com/Developer-Y/cs-video-courses) | 45969 | 2022-10-16 15:55 |  | 
-[swc (swc-project)](https://github.com/swc-project/swc) | 24245 | 2022-10-16 15:52 | Rust | Apache License 2.0
+[cs-video-courses (Developer-Y)](https://github.com/Developer-Y/cs-video-courses) | 45970 | 2022-10-16 15:55 |  | 
 [awesome-mac (jaywcjlove)](https://github.com/jaywcjlove/awesome-mac) | 53910 | 2022-10-16 15:50 | JavaScript | Creative Commons Zero v1.0 Universal
 [bytebase (bytebase)](https://github.com/bytebase/bytebase) | 4064 | 2022-10-16 15:47 | Go | Other
 [jupyter-book (executablebooks)](https://github.com/executablebooks/jupyter-book) | 3071 | 2022-10-16 15:45 | Python | BSD 3-Clause "New" or "Revised" License
@@ -365,7 +371,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [kroki (yuzutech)](https://github.com/yuzutech/kroki) | 1696 | 2022-10-16 14:51 | JavaScript | MIT License
 [easyeffects (wwmm)](https://github.com/wwmm/easyeffects) | 4066 | 2022-10-16 14:44 | C++ | GNU General Public License v3.0
 [ant-design (ant-design)](https://github.com/ant-design/ant-design) | 82250 | 2022-10-16 14:40 | TypeScript | MIT License
-[tech-interview-handbook (yangshun)](https://github.com/yangshun/tech-interview-handbook) | 79796 | 2022-10-16 14:40 | TypeScript | MIT License
+[tech-interview-handbook (yangshun)](https://github.com/yangshun/tech-interview-handbook) | 79797 | 2022-10-16 14:40 | TypeScript | MIT License
 [calibre-web (janeczku)](https://github.com/janeczku/calibre-web) | 7696 | 2022-10-16 14:37 | JavaScript | GNU General Public License v3.0
 [dioxus (DioxusLabs)](https://github.com/DioxusLabs/dioxus) | 4998 | 2022-10-16 14:36 | Rust | Apache License 2.0
 [navit (navit-gps)](https://github.com/navit-gps/navit) | 476 | 2022-10-16 14:29 | C | Other
@@ -380,7 +386,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [maplibre-gl-js (maplibre)](https://github.com/maplibre/maplibre-gl-js) | 3614 | 2022-10-16 14:11 | TypeScript | Other
 [tabulator (olifolkerd)](https://github.com/olifolkerd/tabulator) | 4968 | 2022-10-16 14:11 | JavaScript | MIT License
 [scorecard (ossf)](https://github.com/ossf/scorecard) | 2967 | 2022-10-16 14:11 | Go | Apache License 2.0
-[satori (vercel)](https://github.com/vercel/satori) | 4224 | 2022-10-16 14:07 | TypeScript | Mozilla Public License 2.0
+[satori (vercel)](https://github.com/vercel/satori) | 4225 | 2022-10-16 14:07 | TypeScript | Mozilla Public License 2.0
 [super-productivity (johannesjo)](https://github.com/johannesjo/super-productivity) | 5748 | 2022-10-16 14:03 | TypeScript | MIT License
 [locutus (freenet)](https://github.com/freenet/locutus) | 1452 | 2022-10-16 14:03 | Rust | Apache License 2.0
 [kind (kubernetes-sigs)](https://github.com/kubernetes-sigs/kind) | 10601 | 2022-10-16 14:00 | Go | Apache License 2.0
@@ -392,18 +398,16 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [glances (nicolargo)](https://github.com/nicolargo/glances) | 21579 | 2022-10-16 13:40 | Python | Other
 [fzf (junegunn)](https://github.com/junegunn/fzf) | 47572 | 2022-10-16 13:37 | Go | MIT License
 [turbo (hotwired)](https://github.com/hotwired/turbo) | 4333 | 2022-10-16 13:36 | TypeScript | MIT License
-[TDengine (taosdata)](https://github.com/taosdata/TDengine) | 19450 | 2022-10-16 13:33 | C | GNU Affero General Public License v3.0
+[TDengine (taosdata)](https://github.com/taosdata/TDengine) | 19451 | 2022-10-16 13:33 | C | GNU Affero General Public License v3.0
 [n8n (n8n-io)](https://github.com/n8n-io/n8n) | 25985 | 2022-10-16 13:26 | TypeScript | Other
 [stimulus (hotwired)](https://github.com/hotwired/stimulus) | 11587 | 2022-10-16 13:26 | TypeScript | MIT License
 [juicefs (juicedata)](https://github.com/juicedata/juicefs) | 6831 | 2022-10-16 13:24 | Go | Apache License 2.0
 [keystone (keystonejs)](https://github.com/keystonejs/keystone) | 7046 | 2022-10-16 13:23 | TypeScript | MIT License
 [Gladys (GladysAssistant)](https://github.com/GladysAssistant/Gladys) | 2192 | 2022-10-16 13:19 | JavaScript | Apache License 2.0
 [faceswap (deepfakes)](https://github.com/deepfakes/faceswap) | 42486 | 2022-10-16 13:17 | Python | GNU General Public License v3.0
-[keptn (keptn)](https://github.com/keptn/keptn) | 1520 | 2022-10-16 13:17 | Go | Apache License 2.0
 [Zettlr (Zettlr)](https://github.com/Zettlr/Zettlr) | 7642 | 2022-10-16 13:07 | TypeScript | GNU General Public License v3.0
 [mautic (mautic)](https://github.com/mautic/mautic) | 5465 | 2022-10-16 13:04 | PHP | Other
 [rotki (rotki)](https://github.com/rotki/rotki) | 1866 | 2022-10-16 13:04 | Python | GNU Affero General Public License v3.0
-[Piped (TeamPiped)](https://github.com/TeamPiped/Piped) | 3126 | 2022-10-16 13:00 | Vue | GNU Affero General Public License v3.0
 [I-Dont-Care-About-Cookies (OhMyGuus)](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) | 1389 | 2022-10-16 12:59 | JavaScript | GNU General Public License v3.0
 [nuxt.js (nuxt)](https://github.com/nuxt/nuxt.js) | 41445 | 2022-10-16 12:51 | JavaScript | Other
 [jq (stedolan)](https://github.com/stedolan/jq) | 23325 | 2022-10-16 12:49 | C | Other
@@ -420,7 +424,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [haystack (deepset-ai)](https://github.com/deepset-ai/haystack) | 5872 | 2022-10-16 12:24 | Python | Apache License 2.0
 [rustlings (rust-lang)](https://github.com/rust-lang/rustlings) | 30645 | 2022-10-16 12:22 | Rust | MIT License
 [watchtower (containrrr)](https://github.com/containrrr/watchtower) | 11923 | 2022-10-16 12:13 | Go | Apache License 2.0
-[vue (vuejs)](https://github.com/vuejs/vue) | 200067 | 2022-10-16 12:13 | TypeScript | MIT License
+[vue (vuejs)](https://github.com/vuejs/vue) | 200068 | 2022-10-16 12:13 | TypeScript | MIT License
 [nerdctl (containerd)](https://github.com/containerd/nerdctl) | 4612 | 2022-10-16 12:10 | Go | Apache License 2.0
 [juice-shop (juice-shop)](https://github.com/juice-shop/juice-shop) | 7295 | 2022-10-16 12:05 | TypeScript | MIT License
 [whisper (openai)](https://github.com/openai/whisper) | 12806 | 2022-10-16 12:04 | Jupyter Notebook | MIT License
@@ -466,12 +470,12 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [go-cyber (cybercongress)](https://github.com/cybercongress/go-cyber) | 329 | 2022-10-16 09:11 | Go | Other
 [jitsi-meet (jitsi)](https://github.com/jitsi/jitsi-meet) | 18731 | 2022-10-16 09:08 | JavaScript | Apache License 2.0
 [angular (angular)](https://github.com/angular/angular) | 84326 | 2022-10-16 08:55 | TypeScript | MIT License
-[PaddleOCR (PaddlePaddle)](https://github.com/PaddlePaddle/PaddleOCR) | 25423 | 2022-10-16 08:51 | Python | Apache License 2.0
+[PaddleOCR (PaddlePaddle)](https://github.com/PaddlePaddle/PaddleOCR) | 25424 | 2022-10-16 08:51 | Python | Apache License 2.0
 [mattermost-server (mattermost)](https://github.com/mattermost/mattermost-server) | 24098 | 2022-10-16 08:47 | Go | Other
 [mantine (mantinedev)](https://github.com/mantinedev/mantine) | 15180 | 2022-10-16 08:22 | TypeScript | MIT License
 [oncall (grafana)](https://github.com/grafana/oncall) | 2310 | 2022-10-16 08:18 | Python | GNU Affero General Public License v3.0
 [Recoil (facebookexperimental)](https://github.com/facebookexperimental/Recoil) | 17814 | 2022-10-16 08:06 | JavaScript | MIT License
-[grype (anchore)](https://github.com/anchore/grype) | 4627 | 2022-10-16 08:01 | Go | Apache License 2.0
+[grype (anchore)](https://github.com/anchore/grype) | 4628 | 2022-10-16 08:01 | Go | Apache License 2.0
 [pulumi (pulumi)](https://github.com/pulumi/pulumi) | 13934 | 2022-10-16 07:54 | Go | Apache License 2.0
 [PeerTube (Chocobozzz)](https://github.com/Chocobozzz/PeerTube) | 11048 | 2022-10-16 07:44 | TypeScript | GNU Affero General Public License v3.0
 [blitz (blitz-js)](https://github.com/blitz-js/blitz) | 12180 | 2022-10-16 07:28 | TypeScript | MIT License
@@ -486,7 +490,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [daml (digital-asset)](https://github.com/digital-asset/daml) | 722 | 2022-10-16 06:13 | Scala | Apache License 2.0
 [minio (minio)](https://github.com/minio/minio) | 35742 | 2022-10-16 06:04 | Go | GNU Affero General Public License v3.0
 [Public-APIs (n0shake)](https://github.com/n0shake/Public-APIs) | 19043 | 2022-10-16 05:55 |  | 
-[solid (solidjs)](https://github.com/solidjs/solid) | 22763 | 2022-10-16 05:51 | TypeScript | MIT License
+[solid (solidjs)](https://github.com/solidjs/solid) | 22764 | 2022-10-16 05:51 | TypeScript | MIT License
 [rrweb (rrweb-io)](https://github.com/rrweb-io/rrweb) | 12235 | 2022-10-16 05:41 | TypeScript | MIT License
 [sherlock (sherlock-project)](https://github.com/sherlock-project/sherlock) | 36441 | 2022-10-16 05:40 | Python | MIT License
 [rclone (rclone)](https://github.com/rclone/rclone) | 35014 | 2022-10-16 05:34 | Go | MIT License
@@ -512,7 +516,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [bit (teambit)](https://github.com/teambit/bit) | 15895 | 2022-10-16 01:40 | TypeScript | Other
 [picsum-photos (DMarby)](https://github.com/DMarby/picsum-photos) | 1918 | 2022-10-16 01:32 | Go | MIT License
 [dashy (Lissy93)](https://github.com/Lissy93/dashy) | 7848 | 2022-10-16 01:31 | Vue | MIT License
-[awesome-selfhosted (awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted) | 105988 | 2022-10-16 01:24 | JavaScript | Other
+[awesome-selfhosted (awesome-selfhosted)](https://github.com/awesome-selfhosted/awesome-selfhosted) | 105989 | 2022-10-16 01:24 | JavaScript | Other
 [coq_nvim (ms-jpq)](https://github.com/ms-jpq/coq_nvim) | 2695 | 2022-10-16 01:18 | Python | GNU General Public License v3.0
 [Signal-Android (signalapp)](https://github.com/signalapp/Signal-Android) | 22916 | 2022-10-16 00:57 | Java | GNU General Public License v3.0
 [akaunting (akaunting)](https://github.com/akaunting/akaunting) | 5601 | 2022-10-16 00:29 | PHP | GNU General Public License v3.0
@@ -531,13 +535,13 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [project-layout (golang-standards)](https://github.com/golang-standards/project-layout) | 35223 | 2022-10-15 21:54 | Makefile | Other
 [lossless-cut (mifi)](https://github.com/mifi/lossless-cut) | 12758 | 2022-10-15 21:45 | JavaScript | GNU General Public License v2.0
 [bottlerocket (bottlerocket-os)](https://github.com/bottlerocket-os/bottlerocket) | 6780 | 2022-10-15 21:42 | Rust | Other
-[system-design-primer (donnemartin)](https://github.com/donnemartin/system-design-primer) | 200063 | 2022-10-15 21:38 | Python | Other
+[system-design-primer (donnemartin)](https://github.com/donnemartin/system-design-primer) | 200064 | 2022-10-15 21:38 | Python | Other
 [build-your-own-x (codecrafters-io)](https://github.com/codecrafters-io/build-your-own-x) | 168286 | 2022-10-15 21:36 |  | 
 [spicetify-cli (spicetify)](https://github.com/spicetify/spicetify-cli) | 12449 | 2022-10-15 21:34 | JavaScript | GNU Lesser General Public License v2.1
 [keda (kedacore)](https://github.com/kedacore/keda) | 5533 | 2022-10-15 21:33 | Go | Apache License 2.0
 [gitignore (github)](https://github.com/github/gitignore) | 139585 | 2022-10-15 21:30 |  | Creative Commons Zero v1.0 Universal
 [daisyui (saadeghi)](https://github.com/saadeghi/daisyui) | 14866 | 2022-10-15 21:10 | Svelte | MIT License
-[tauri (tauri-apps)](https://github.com/tauri-apps/tauri) | 52523 | 2022-10-15 21:07 | Rust | Apache License 2.0
+[tauri (tauri-apps)](https://github.com/tauri-apps/tauri) | 52525 | 2022-10-15 21:07 | Rust | Apache License 2.0
 [ODM (OpenDroneMap)](https://github.com/OpenDroneMap/ODM) | 3803 | 2022-10-15 21:06 | Python | GNU Affero General Public License v3.0
 [gitui (extrawurst)](https://github.com/extrawurst/gitui) | 11025 | 2022-10-15 20:48 | Rust | MIT License
 [actual (actualbudget)](https://github.com/actualbudget/actual) | 5370 | 2022-10-15 20:31 | JavaScript | MIT License
@@ -579,12 +583,11 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [assh (moul)](https://github.com/moul/assh) | 2562 | 2022-10-15 16:47 | Go | MIT License
 [sqlfluff (sqlfluff)](https://github.com/sqlfluff/sqlfluff) | 5128 | 2022-10-15 16:46 | Python | MIT License
 [lume (lumeland)](https://github.com/lumeland/lume) | 814 | 2022-10-15 16:18 | TypeScript | MIT License
-[citus (citusdata)](https://github.com/citusdata/citus) | 7438 | 2022-10-15 16:16 | C | GNU Affero General Public License v3.0
 [benthos (benthosdev)](https://github.com/benthosdev/benthos) | 4853 | 2022-10-15 16:15 | Go | MIT License
 [material-components-web (material-components)](https://github.com/material-components/material-components-web) | 16415 | 2022-10-15 16:10 | TypeScript | MIT License
 [tere (mgunyho)](https://github.com/mgunyho/tere) | 1332 | 2022-10-15 15:34 | Rust | European Union Public License 1.2
 [certified-kubernetes-administrator-course (kodekloudhub)](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) | 4285 | 2022-10-15 15:32 | Shell | 
-[awesome-react (enaqx)](https://github.com/enaqx/awesome-react) | 51579 | 2022-10-15 15:32 |  | 
+[awesome-react (enaqx)](https://github.com/enaqx/awesome-react) | 51580 | 2022-10-15 15:32 |  | 
 [hydra (facebookresearch)](https://github.com/facebookresearch/hydra) | 6416 | 2022-10-15 15:23 | Python | MIT License
 [relay (facebook)](https://github.com/facebook/relay) | 17346 | 2022-10-15 14:58 | Rust | MIT License
 [OSX-KVM (kholia)](https://github.com/kholia/OSX-KVM) | 14741 | 2022-10-15 14:49 | Python | 
@@ -593,12 +596,11 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [imgproxy (imgproxy)](https://github.com/imgproxy/imgproxy) | 6546 | 2022-10-15 14:23 | Go | MIT License
 [archiver (mholt)](https://github.com/mholt/archiver) | 3711 | 2022-10-15 14:11 | Go | MIT License
 [OsmAnd (osmandapp)](https://github.com/osmandapp/OsmAnd) | 3361 | 2022-10-15 14:07 | Java | Other
-[nyxt (atlas-engineer)](https://github.com/atlas-engineer/nyxt) | 7910 | 2022-10-15 14:01 | Common Lisp | 
+[nyxt (atlas-engineer)](https://github.com/atlas-engineer/nyxt) | 7911 | 2022-10-15 14:01 | Common Lisp | 
 [glimesh.tv (Glimesh)](https://github.com/Glimesh/glimesh.tv) | 380 | 2022-10-15 13:56 | Elixir | Other
 [waydroid (waydroid)](https://github.com/waydroid/waydroid) | 4333 | 2022-10-15 13:44 | Python | GNU General Public License v3.0
 [toaruos (klange)](https://github.com/klange/toaruos) | 5169 | 2022-10-15 13:37 | C | University of Illinois/NCSA Open Source License
 [commerce (vercel)](https://github.com/vercel/commerce) | 6308 | 2022-10-15 13:23 | TypeScript | MIT License
-[UTM (utmapp)](https://github.com/utmapp/UTM) | 15895 | 2022-10-15 13:19 | Swift | Apache License 2.0
 [Fomantic-UI (fomantic)](https://github.com/fomantic/Fomantic-UI) | 3065 | 2022-10-15 13:07 | JavaScript | MIT License
 [shoelace (shoelace-style)](https://github.com/shoelace-style/shoelace) | 7397 | 2022-10-15 13:06 | TypeScript | MIT License
 [netmaker (gravitl)](https://github.com/gravitl/netmaker) | 5200 | 2022-10-15 12:59 | Go | Other
@@ -610,7 +612,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [budibase (Budibase)](https://github.com/Budibase/budibase) | 15402 | 2022-10-15 12:23 | JavaScript | Other
 [stylelint (stylelint)](https://github.com/stylelint/stylelint) | 9935 | 2022-10-15 12:19 | JavaScript | MIT License
 [learn-to-cloud (learntocloud)](https://github.com/learntocloud/learn-to-cloud) | 3507 | 2022-10-15 12:15 | HTML | MIT License
-[awesome-piracy (Igglybuff)](https://github.com/Igglybuff/awesome-piracy) | 20193 | 2022-10-15 12:03 | HTML | Creative Commons Zero v1.0 Universal
+[awesome-piracy (Igglybuff)](https://github.com/Igglybuff/awesome-piracy) | 20194 | 2022-10-15 12:03 | HTML | Creative Commons Zero v1.0 Universal
 [coolify (coollabsio)](https://github.com/coollabsio/coolify) | 4789 | 2022-10-15 11:59 | Svelte | Apache License 2.0
 [sweetalert2 (sweetalert2)](https://github.com/sweetalert2/sweetalert2) | 15098 | 2022-10-15 11:58 | JavaScript | MIT License
 [h4cker (The-Art-of-Hacking)](https://github.com/The-Art-of-Hacking/h4cker) | 12167 | 2022-10-15 11:50 | Jupyter Notebook | MIT License
@@ -620,7 +622,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [flipt (flipt-io)](https://github.com/flipt-io/flipt) | 1905 | 2022-10-15 11:08 | Go | GNU General Public License v3.0
 [vizzu-lib (vizzuhq)](https://github.com/vizzuhq/vizzu-lib) | 1610 | 2022-10-15 10:44 | JavaScript | Apache License 2.0
 [usbguard (USBGuard)](https://github.com/USBGuard/usbguard) | 868 | 2022-10-15 10:40 | C++ | GNU General Public License v2.0
-[koodo-reader (troyeguo)](https://github.com/troyeguo/koodo-reader) | 7423 | 2022-10-15 10:30 | JavaScript | GNU Affero General Public License v3.0
+[koodo-reader (troyeguo)](https://github.com/troyeguo/koodo-reader) | 7424 | 2022-10-15 10:30 | JavaScript | GNU Affero General Public License v3.0
 [imagededup (idealo)](https://github.com/idealo/imagededup) | 4194 | 2022-10-15 10:24 | Python | Apache License 2.0
 [harbor (goharbor)](https://github.com/goharbor/harbor) | 18491 | 2022-10-15 10:15 | Go | Apache License 2.0
 [microk8s (canonical)](https://github.com/canonical/microk8s) | 6845 | 2022-10-15 10:07 | Python | Apache License 2.0
@@ -749,7 +751,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [saleor (saleor)](https://github.com/saleor/saleor) | 17036 | 2022-10-14 17:18 | Python | BSD 3-Clause "New" or "Revised" License
 [imgui (ocornut)](https://github.com/ocornut/imgui) | 42223 | 2022-10-14 17:11 | C++ | MIT License
 [opencost (opencost)](https://github.com/opencost/opencost) | 2837 | 2022-10-14 16:59 | Go | Apache License 2.0
-[server (bitwarden)](https://github.com/bitwarden/server) | 10724 | 2022-10-14 16:55 | C# | Other
+[server (bitwarden)](https://github.com/bitwarden/server) | 10725 | 2022-10-14 16:55 | C# | Other
 [oxAuth (GluuFederation)](https://github.com/GluuFederation/oxAuth) | 382 | 2022-10-14 16:53 | Java | MIT License
 [traefik (traefik)](https://github.com/traefik/traefik) | 40047 | 2022-10-14 16:52 | Go | MIT License
 [ale (dense-analysis)](https://github.com/dense-analysis/ale) | 12151 | 2022-10-14 16:30 | Vim Script | BSD 2-Clause "Simplified" License
@@ -812,7 +814,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [supertokens-core (supertokens)](https://github.com/supertokens/supertokens-core) | 7301 | 2022-10-14 10:24 | Java | Apache License 2.0
 [hugo (gohugoio)](https://github.com/gohugoio/hugo) | 63036 | 2022-10-14 10:16 | Go | Apache License 2.0
 [roadrunner (roadrunner-server)](https://github.com/roadrunner-server/roadrunner) | 6784 | 2022-10-14 10:12 | Go | MIT License
-[lax.js (alexfoxy)](https://github.com/alexfoxy/lax.js) | 9278 | 2022-10-14 09:13 | JavaScript | MIT License
+[lax.js (alexfoxy)](https://github.com/alexfoxy/lax.js) | 9279 | 2022-10-14 09:13 | JavaScript | MIT License
 [resoto (someengineering)](https://github.com/someengineering/resoto) | 1188 | 2022-10-14 09:11 | Python | Apache License 2.0
 [tanka (grafana)](https://github.com/grafana/tanka) | 1788 | 2022-10-14 08:55 | Go | Apache License 2.0
 [attila (zutrinken)](https://github.com/zutrinken/attila) | 1252 | 2022-10-14 08:10 | JavaScript | MIT License
@@ -848,7 +850,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [CasaOS (IceWhaleTech)](https://github.com/IceWhaleTech/CasaOS) | 6783 | 2022-10-13 23:33 | Go | Apache License 2.0
 [dive (wagoodman)](https://github.com/wagoodman/dive) | 34064 | 2022-10-13 23:18 | Go | MIT License
 [bats-core (bats-core)](https://github.com/bats-core/bats-core) | 3511 | 2022-10-13 23:16 | Shell | Other
-[algo (trailofbits)](https://github.com/trailofbits/algo) | 26268 | 2022-10-13 23:03 | Jinja | GNU Affero General Public License v3.0
+[algo (trailofbits)](https://github.com/trailofbits/algo) | 26269 | 2022-10-13 23:03 | Jinja | GNU Affero General Public License v3.0
 [testssl.sh (drwetter)](https://github.com/drwetter/testssl.sh) | 6398 | 2022-10-13 22:49 | Shell | GNU General Public License v2.0
 [kapacitor (influxdata)](https://github.com/influxdata/kapacitor) | 2158 | 2022-10-13 22:36 | Go | MIT License
 [spotifyd (Spotifyd)](https://github.com/Spotifyd/spotifyd) | 6450 | 2022-10-13 22:26 | Rust | GNU General Public License v3.0
@@ -1003,7 +1005,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [padloc (padloc)](https://github.com/padloc/padloc) | 1947 | 2022-10-11 13:35 | JavaScript | GNU Affero General Public License v3.0
 [chat (tinode)](https://github.com/tinode/chat) | 9286 | 2022-10-11 12:53 | Go | GNU General Public License v3.0
 [admin (api-platform)](https://github.com/api-platform/admin) | 417 | 2022-10-11 12:40 | TypeScript | MIT License
-[manim (3b1b)](https://github.com/3b1b/manim) | 47481 | 2022-10-11 12:38 | Python | MIT License
+[manim (3b1b)](https://github.com/3b1b/manim) | 47482 | 2022-10-11 12:38 | Python | MIT License
 [cloud-slang (CloudSlang)](https://github.com/CloudSlang/cloud-slang) | 221 | 2022-10-11 12:28 | Java | Apache License 2.0
 [gping (orf)](https://github.com/orf/gping) | 6735 | 2022-10-11 11:12 | Rust | MIT License
 [IOTstack (SensorsIot)](https://github.com/SensorsIot/IOTstack) | 1157 | 2022-10-11 11:06 | Python | GNU General Public License v3.0
@@ -1024,7 +1026,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [pre-commit (pre-commit)](https://github.com/pre-commit/pre-commit) | 8981 | 2022-10-11 00:35 | Python | MIT License
 [eww (elkowar)](https://github.com/elkowar/eww) | 3961 | 2022-10-10 22:25 | Rust | MIT License
 [traefik-certs-dumper (ldez)](https://github.com/ldez/traefik-certs-dumper) | 330 | 2022-10-10 21:48 | Go | Other
-[grav (getgrav)](https://github.com/getgrav/grav) | 13489 | 2022-10-10 21:32 | PHP | MIT License
+[grav (getgrav)](https://github.com/getgrav/grav) | 13490 | 2022-10-10 21:32 | PHP | MIT License
 [trufont (trufont)](https://github.com/trufont/trufont) | 426 | 2022-10-10 21:23 | Python | Other
 [kodiak (chdsbd)](https://github.com/chdsbd/kodiak) | 903 | 2022-10-10 21:22 | Python | GNU Affero General Public License v3.0
 [awesome-html5 (diegocard)](https://github.com/diegocard/awesome-html5) | 2074 | 2022-10-10 20:12 |  | MIT License
@@ -1054,10 +1056,8 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [awesome-docker (veggiemonk)](https://github.com/veggiemonk/awesome-docker) | 23117 | 2022-10-10 09:55 |  | Apache License 2.0
 [open-color (yeun)](https://github.com/yeun/open-color) | 4750 | 2022-10-10 08:07 | Handlebars | MIT License
 [space-cloud (spacecloud-io)](https://github.com/spacecloud-io/space-cloud) | 3635 | 2022-10-10 07:48 | Go | Apache License 2.0
-[universe (paescuj)](https://github.com/paescuj/universe) | 3 | 2022-10-10 07:34 | Go | MIT License
 [wifi-cracking (brannondorsey)](https://github.com/brannondorsey/wifi-cracking) | 10064 | 2022-10-10 07:13 |  | MIT License
 [openmeetings (apache)](https://github.com/apache/openmeetings) | 551 | 2022-10-10 05:08 | Java | Other
-[dura (tkellogg)](https://github.com/tkellogg/dura) | 4051 | 2022-10-10 00:30 | Rust | Other
 [exa (ogham)](https://github.com/ogham/exa) | 19512 | 2022-10-09 21:25 | Rust | MIT License
 [bud (livebud)](https://github.com/livebud/bud) | 4784 | 2022-10-09 21:00 | Go | MIT License
 [jimp (oliver-moran)](https://github.com/oliver-moran/jimp) | 12212 | 2022-10-09 20:44 | JavaScript | MIT License
@@ -1109,8 +1109,8 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [automerge (automerge)](https://github.com/automerge/automerge) | 13938 | 2022-10-07 16:45 | JavaScript | MIT License
 [spec (Domain-Connect)](https://github.com/Domain-Connect/spec) | 51 | 2022-10-07 14:41 | Rich Text Format | MIT License
 [xi-editor (xi-editor)](https://github.com/xi-editor/xi-editor) | 19643 | 2022-10-07 14:32 | Rust | Apache License 2.0
-[expressa (thomas4019)](https://github.com/thomas4019/expressa) | 397 | 2022-10-07 14:24 | JavaScript | MIT License
 [flagr (openflagr)](https://github.com/openflagr/flagr) | 2025 | 2022-10-07 14:24 | Go | Apache License 2.0
+[expressa (thomas4019)](https://github.com/thomas4019/expressa) | 397 | 2022-10-07 14:24 | JavaScript | MIT License
 [android-foss (offa)](https://github.com/offa/android-foss) | 2360 | 2022-10-07 13:55 | Shell | GNU General Public License v3.0
 [lotion (Dashibase)](https://github.com/Dashibase/lotion) | 2431 | 2022-10-07 13:51 | Vue | GNU General Public License v3.0
 [smos (NorfairKing)](https://github.com/NorfairKing/smos) | 245 | 2022-10-07 13:02 | Haskell | MIT License
@@ -1135,7 +1135,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [Awesome-UNIX (sirredbeard)](https://github.com/sirredbeard/Awesome-UNIX) | 1220 | 2022-10-06 14:13 |  | Other
 [podinfo (stefanprodan)](https://github.com/stefanprodan/podinfo) | 3349 | 2022-10-06 13:17 | Go | Apache License 2.0
 [proxify (projectdiscovery)](https://github.com/projectdiscovery/proxify) | 1772 | 2022-10-06 11:01 | Go | MIT License
-[project-based-learning (practical-tutorials)](https://github.com/practical-tutorials/project-based-learning) | 79258 | 2022-10-06 09:23 |  | MIT License
+[project-based-learning (practical-tutorials)](https://github.com/practical-tutorials/project-based-learning) | 79259 | 2022-10-06 09:23 |  | MIT License
 [one (OpenNebula)](https://github.com/OpenNebula/one) | 924 | 2022-10-06 09:08 | JavaScript | Apache License 2.0
 [preline (htmlstreamofficial)](https://github.com/htmlstreamofficial/preline) | 973 | 2022-10-06 09:05 | JavaScript | MIT License
 [YouCompleteMe (ycm-core)](https://github.com/ycm-core/YouCompleteMe) | 24330 | 2022-10-06 09:02 | Python | GNU General Public License v3.0
@@ -1206,8 +1206,8 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [tads-boilerplate (thomvaill)](https://github.com/thomvaill/tads-boilerplate) | 609 | 2022-10-03 13:04 | Shell | MIT License
 [ble.sh (akinomyoga)](https://github.com/akinomyoga/ble.sh) | 1015 | 2022-10-03 11:31 | Shell | BSD 3-Clause "New" or "Revised" License
 [bulma (jgthms)](https://github.com/jgthms/bulma) | 46242 | 2022-10-03 11:08 | CSS | MIT License
-[YubiKey-Guide (drduh)](https://github.com/drduh/YubiKey-Guide) | 8573 | 2022-10-03 10:17 | Shell | MIT License
-[blurhash (woltapp)](https://github.com/woltapp/blurhash) | 11153 | 2022-10-03 09:27 | C | MIT License
+[YubiKey-Guide (drduh)](https://github.com/drduh/YubiKey-Guide) | 8574 | 2022-10-03 10:17 | Shell | MIT License
+[blurhash (woltapp)](https://github.com/woltapp/blurhash) | 11154 | 2022-10-03 09:27 | C | MIT License
 [sonic (valeriansaliou)](https://github.com/valeriansaliou/sonic) | 13793 | 2022-10-03 09:27 | Rust | Mozilla Public License 2.0
 [dockerfiles (vimagick)](https://github.com/vimagick/dockerfiles) | 2886 | 2022-10-03 06:43 | Dockerfile | 
 [javascript (airbnb)](https://github.com/airbnb/javascript) | 127881 | 2022-10-03 05:08 | JavaScript | MIT License
@@ -1310,7 +1310,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [thesisdown (ismayc)](https://github.com/ismayc/thesisdown) | 719 | 2022-09-25 21:37 | TeX | Other
 [magic-trace (janestreet)](https://github.com/janestreet/magic-trace) | 3869 | 2022-09-25 20:00 | OCaml | MIT License
 [fusuma (hiroppy)](https://github.com/hiroppy/fusuma) | 5233 | 2022-09-25 19:37 | JavaScript | 
-[the-book-of-secret-knowledge (trimstray)](https://github.com/trimstray/the-book-of-secret-knowledge) | 80394 | 2022-09-25 18:56 |  | MIT License
+[the-book-of-secret-knowledge (trimstray)](https://github.com/trimstray/the-book-of-secret-knowledge) | 80396 | 2022-09-25 18:56 |  | MIT License
 [nq (leahneukirchen)](https://github.com/leahneukirchen/nq) | 2664 | 2022-09-25 17:05 | C | Other
 [Addon (ClearURLs)](https://github.com/ClearURLs/Addon) | 3270 | 2022-09-25 15:18 | JavaScript | GNU Lesser General Public License v3.0
 [buku (jarun)](https://github.com/jarun/buku) | 5327 | 2022-09-25 14:44 | Python | GNU General Public License v3.0
@@ -1603,7 +1603,7 @@ Name | Stargazers | Last Sighting | Composition | Rights
 [streama (streamaserver)](https://github.com/streamaserver/streama) | 9173 | 2022-07-11 22:53 | JavaScript | MIT License
 [security-101-for-saas-startups (forter)](https://github.com/forter/security-101-for-saas-startups) | 4459 | 2022-07-11 18:03 |  | Other
 [plymouth-themes (adi1090x)](https://github.com/adi1090x/plymouth-themes) | 1109 | 2022-07-11 14:49 | Shell | GNU General Public License v3.0
-[elastdocker (sherifabdlnaby)](https://github.com/sherifabdlnaby/elastdocker) | 1331 | 2022-07-09 15:50 | Dockerfile | MIT License
+[elastdocker (sherifabdlnaby)](https://github.com/sherifabdlnaby/elastdocker) | 1332 | 2022-07-09 15:50 | Dockerfile | MIT License
 [d3 (d3)](https://github.com/d3/d3) | 103142 | 2022-07-09 14:42 | JavaScript | ISC License
 [promptui (manifoldco)](https://github.com/manifoldco/promptui) | 5132 | 2022-07-08 22:27 | Go | BSD 3-Clause "New" or "Revised" License
 [modern-normalize (sindresorhus)](https://github.com/sindresorhus/modern-normalize) | 4583 | 2022-07-08 12:29 | TypeScript | MIT License
