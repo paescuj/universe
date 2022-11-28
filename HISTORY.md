@@ -1,5 +1,13 @@
 # List of all my starred GitHub repositories
 
+* [OpenFlowLabs/spix](https://github.com/OpenFlowLabs/spix)
+* [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
+* [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
+* [runfinch/finch](https://github.com/runfinch/finch)
+* [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)
+* [paescuj/jaa](https://github.com/paescuj/jaa)
+* [cachix/devenv](https://github.com/cachix/devenv)
+* [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
 * [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy)
 * [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path)
 * [antfu/ni](https://github.com/antfu/ni)
