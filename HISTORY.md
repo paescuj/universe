@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [WebReflection/uhtml](https://github.com/WebReflection/uhtml)
+* [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
+* [vitest-dev/vscode](https://github.com/vitest-dev/vscode)
+* [charlax/engineering-management](https://github.com/charlax/engineering-management)
 * [OpenFlowLabs/spix](https://github.com/OpenFlowLabs/spix)
 * [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 * [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
@@ -140,7 +144,7 @@
 * [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend)
 * [casdoor/casdoor](https://github.com/casdoor/casdoor)
 * [rxyhn/yoru](https://github.com/rxyhn/yoru)
-* [ehids/ecapture](https://github.com/ehids/ecapture)
+* [gojue/ecapture](https://github.com/gojue/ecapture)
 * [eta-dev/eta](https://github.com/eta-dev/eta)
 * [mswjs/msw](https://github.com/mswjs/msw)
 * [Lissy93/dashy](https://github.com/Lissy93/dashy)
@@ -1217,7 +1221,6 @@
 * [markonm/traces.vim](https://github.com/markonm/traces.vim)
 * [passff/passff](https://github.com/passff/passff)
 * [MikeMcQuaid/strap](https://github.com/MikeMcQuaid/strap)
-* [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase)
 * [dev-sec/puppet-os-hardening](https://github.com/dev-sec/puppet-os-hardening)
 * [jpmens/jo](https://github.com/jpmens/jo)
 * [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris)
