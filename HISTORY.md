@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+* [ckeditor/github-writer](https://github.com/ckeditor/github-writer)
+* [ngneat/falso](https://github.com/ngneat/falso)
+* [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity)
+* [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
 * [WebReflection/uhtml](https://github.com/WebReflection/uhtml)
 * [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 * [vitest-dev/vscode](https://github.com/vitest-dev/vscode)
@@ -362,7 +367,6 @@
 * [earthly/earthly](https://github.com/earthly/earthly)
 * [returntocorp/semgrep](https://github.com/returntocorp/semgrep)
 * [egoist/tsup](https://github.com/egoist/tsup)
-* [tenacityteam/tenacity-legacy](https://github.com/tenacityteam/tenacity-legacy)
 * [mantinedev/mantine](https://github.com/mantinedev/mantine)
 * [ossf/scorecard](https://github.com/ossf/scorecard)
 * [saleor/saleor](https://github.com/saleor/saleor)
@@ -1353,7 +1357,6 @@
 * [cyrusimap/cyrus-imapd](https://github.com/cyrusimap/cyrus-imapd)
 * [openbmc/openbmc](https://github.com/openbmc/openbmc)
 * [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser)
-* [onivim/oni2](https://github.com/onivim/oni2)
 * [spf13/cobra](https://github.com/spf13/cobra)
 * [dylanaraps/fff](https://github.com/dylanaraps/fff)
 * [twpayne/chezmoi](https://github.com/twpayne/chezmoi)
