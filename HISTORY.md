@@ -1,5 +1,12 @@
 # List of all my starred GitHub repositories
 
+* [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
+* [hmartiro/riffusion-inference](https://github.com/hmartiro/riffusion-inference)
+* [google/osv-scanner](https://github.com/google/osv-scanner)
+* [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui)
+* [pola-rs/polars](https://github.com/pola-rs/polars)
+* [webfansplz/vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector)
+* [shinework/photoshot](https://github.com/shinework/photoshot)
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 * [ckeditor/github-writer](https://github.com/ckeditor/github-writer)
 * [ngneat/falso](https://github.com/ngneat/falso)
@@ -1162,7 +1169,6 @@
 * [hauxir/imgpush](https://github.com/hauxir/imgpush)
 * [andkret/Cookbook](https://github.com/andkret/Cookbook)
 * [citusdata/citus](https://github.com/citusdata/citus)
-* [gorilla/mux](https://github.com/gorilla/mux)
 * [raspberrypi/documentation](https://github.com/raspberrypi/documentation)
 * [prometheus/alertmanager](https://github.com/prometheus/alertmanager)
 * [fastlane/fastlane](https://github.com/fastlane/fastlane)
