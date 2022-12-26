@@ -1,7 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [mprimi/portable-secret](https://github.com/mprimi/portable-secret)
+* [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+* [TanStack/router](https://github.com/TanStack/router)
+* [directus/file-metadata](https://github.com/directus/file-metadata)
 * [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
-* [hmartiro/riffusion-inference](https://github.com/hmartiro/riffusion-inference)
+* [riffusion/riffusion](https://github.com/riffusion/riffusion)
 * [google/osv-scanner](https://github.com/google/osv-scanner)
 * [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui)
 * [pola-rs/polars](https://github.com/pola-rs/polars)
@@ -87,7 +91,6 @@
 * [vercel/satori](https://github.com/vercel/satori)
 * [sindresorhus/emittery](https://github.com/sindresorhus/emittery)
 * [greasemonkey/greasemonkey](https://github.com/greasemonkey/greasemonkey)
-* [checkly/headless-recorder](https://github.com/checkly/headless-recorder)
 * [DevExpress/testcafe](https://github.com/DevExpress/testcafe)
 * [padloc/padloc](https://github.com/padloc/padloc)
 * [apache/apisix](https://github.com/apache/apisix)
@@ -1864,7 +1867,6 @@
 * [torvalds/linux](https://github.com/torvalds/linux)
 * [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
 * [overleaf/overleaf](https://github.com/overleaf/overleaf)
-* [atom/atom](https://github.com/atom/atom)
 * [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 * [animate-css/animate.css](https://github.com/animate-css/animate.css)
 * [Icinga/icinga2](https://github.com/Icinga/icinga2)
