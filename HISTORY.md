@@ -1,5 +1,13 @@
 # List of all my starred GitHub repositories
 
+* [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
+* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+* [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
+* [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs)
+* [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture)
+* [angus-c/just](https://github.com/angus-c/just)
+* [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
+* [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk)
 * [skiffos/SkiffOS](https://github.com/skiffos/SkiffOS)
 * [jart/blink](https://github.com/jart/blink)
 * [typicode/husky](https://github.com/typicode/husky)
@@ -28,7 +36,6 @@
 * [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
 * [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 * [runfinch/finch](https://github.com/runfinch/finch)
-* [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx)
 * [paescuj/jaa](https://github.com/paescuj/jaa)
 * [cachix/devenv](https://github.com/cachix/devenv)
 * [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db)
