@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
+* [anvaka/npmgraph.an](https://github.com/anvaka/npmgraph.an)
+* [dessant/buster](https://github.com/dessant/buster)
+* [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
 * [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
@@ -454,7 +458,7 @@
 * [owncloud/ocis](https://github.com/owncloud/ocis)
 * [calcom/cal.com](https://github.com/calcom/cal.com)
 * [ckeditor/ckeditor5](https://github.com/ckeditor/ckeditor5)
-* [semi-technologies/weaviate](https://github.com/semi-technologies/weaviate)
+* [weaviate/weaviate](https://github.com/weaviate/weaviate)
 * [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy)
 * [nordicgiant2/awesome-landing-page](https://github.com/nordicgiant2/awesome-landing-page)
 * [amark/gun](https://github.com/amark/gun)
@@ -1642,7 +1646,7 @@
 * [nhn/tui.editor](https://github.com/nhn/tui.editor)
 * [coinpride/CryptoList](https://github.com/coinpride/CryptoList)
 * [Tunnelblick/Tunnelblick](https://github.com/Tunnelblick/Tunnelblick)
-* [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+* [nuxt/nuxt](https://github.com/nuxt/nuxt)
 * [browsh-org/browsh](https://github.com/browsh-org/browsh)
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
 * [themerdev/themer](https://github.com/themerdev/themer)
