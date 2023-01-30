@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro)
+* [pnpm/pnpm](https://github.com/pnpm/pnpm)
 * [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai)
 * [anvaka/npmgraph.an](https://github.com/anvaka/npmgraph.an)
 * [dessant/buster](https://github.com/dessant/buster)
@@ -1468,7 +1470,7 @@
 * [trufont/trufont](https://github.com/trufont/trufont)
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
 * [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
-* [loft-sh/devspace](https://github.com/loft-sh/devspace)
+* [devspace-sh/devspace](https://github.com/devspace-sh/devspace)
 * [luong-komorebi/Begin-Latex-in-minutes](https://github.com/luong-komorebi/Begin-Latex-in-minutes)
 * [dspinellis/latex-advice](https://github.com/dspinellis/latex-advice)
 * [mjavascript/mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript)
