@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [blenderskool/blaze](https://github.com/blenderskool/blaze)
+* [edgedb/edgedb](https://github.com/edgedb/edgedb)
+* [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas)
+* [arc53/DocsGPT](https://github.com/arc53/DocsGPT)
 * [studio-freight/lenis](https://github.com/studio-freight/lenis)
 * [hairmare/almalinux-image-with-actions](https://github.com/hairmare/almalinux-image-with-actions)
 * [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
@@ -1418,7 +1422,6 @@
 * [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)
 * [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics)
 * [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator)
-* [withspectrum/spectrum](https://github.com/withspectrum/spectrum)
 * [cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)
 * [zadam/trilium](https://github.com/zadam/trilium)
 * [bagder/http3-explained](https://github.com/bagder/http3-explained)
