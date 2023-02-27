@@ -1,5 +1,12 @@
 # List of all my starred GitHub repositories
 
+* [mjl-/mox](https://github.com/mjl-/mox)
+* [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)
+* [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
+* [sassman/t-rec-rs](https://github.com/sassman/t-rec-rs)
+* [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset)
+* [paescuj/universe](https://github.com/paescuj/universe)
+* [mozilla-mobile/firefox-android](https://github.com/mozilla-mobile/firefox-android)
 * [clappr/clappr](https://github.com/clappr/clappr)
 * [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
 * [zloirock/core-js](https://github.com/zloirock/core-js)
@@ -216,7 +223,6 @@
 * [kedacore/keda](https://github.com/kedacore/keda)
 * [ellie/atuin](https://github.com/ellie/atuin)
 * [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive)
-* [paescuj/universe](https://github.com/paescuj/universe)
 * [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 * [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 * [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
@@ -1164,7 +1170,6 @@
 * [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
 * [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 * [authelia/authelia](https://github.com/authelia/authelia)
-* [mozilla-mobile/fenix](https://github.com/mozilla-mobile/fenix)
 * [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
