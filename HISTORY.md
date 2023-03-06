@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server)
+* [Infisical/infisical](https://github.com/Infisical/infisical)
+* [rijkvanzanten/gh-action-linear](https://github.com/rijkvanzanten/gh-action-linear)
+* [trytouca/trytouca](https://github.com/trytouca/trytouca)
+* [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)
 * [mjl-/mox](https://github.com/mjl-/mox)
 * [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth)
 * [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker)
@@ -77,7 +82,7 @@
 * [cozodb/cozo](https://github.com/cozodb/cozo)
 * [teaxyz/cli](https://github.com/teaxyz/cli)
 * [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-* [memphisdev/memphis-broker](https://github.com/memphisdev/memphis-broker)
+* [memphisdev/memphis](https://github.com/memphisdev/memphis)
 * [qarmin/czkawka](https://github.com/qarmin/czkawka)
 * [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
 * [safing/portmaster](https://github.com/safing/portmaster)
@@ -1573,7 +1578,7 @@
 * [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 * [exegesis-js/exegesis](https://github.com/exegesis-js/exegesis)
 * [Homebrew/brew](https://github.com/Homebrew/brew)
-* [netlify/netlify-cms](https://github.com/netlify/netlify-cms)
+* [decaporg/decap-cms](https://github.com/decaporg/decap-cms)
 * [gohugoio/hugo](https://github.com/gohugoio/hugo)
 * [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
 * [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
