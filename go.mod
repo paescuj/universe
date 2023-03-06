@@ -7,7 +7,7 @@ require (
 	github.com/google/go-github/v50 v50.0.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/shurcooL/githubv4 v0.0.0-20230215024106-420ad0987b9b
-	golang.org/x/oauth2 v0.5.0
+	golang.org/x/oauth2 v0.6.0
 )
 
 require (
@@ -20,9 +20,9 @@ require (
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/shurcooL/graphql v0.0.0-20220606043923-3cf50f8a0a29 // indirect
 	golang.org/x/crypto v0.5.0 // indirect
-	golang.org/x/net v0.6.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/term v0.5.0 // indirect
+	golang.org/x/net v0.8.0 // indirect
+	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/term v0.6.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
