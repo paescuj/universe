@@ -3,7 +3,7 @@ module github.com/paescuj/universe
 go 1.19
 
 require (
-	github.com/briandowns/spinner v1.21.0
+	github.com/briandowns/spinner v1.23.0
 	github.com/google/go-github/v50 v50.0.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/shurcooL/githubv4 v0.0.0-20230215024106-420ad0987b9b
