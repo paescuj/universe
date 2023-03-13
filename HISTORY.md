@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2)
+* [flet-dev/flet](https://github.com/flet-dev/flet)
 * [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server)
 * [Infisical/infisical](https://github.com/Infisical/infisical)
 * [rijkvanzanten/gh-action-linear](https://github.com/rijkvanzanten/gh-action-linear)
@@ -938,7 +940,7 @@
 * [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings)
 * [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
 * [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket)
-* [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim)
+* [nordtheme/vim](https://github.com/nordtheme/vim)
 * [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman)
 * [apache/shardingsphere](https://github.com/apache/shardingsphere)
 * [OpenNebula/one](https://github.com/OpenNebula/one)
@@ -1561,7 +1563,6 @@
 * [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh)
 * [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
 * [csstools/sanitize.css](https://github.com/csstools/sanitize.css)
-* [dragonflyoss/Dragonfly](https://github.com/dragonflyoss/Dragonfly)
 * [doczjs/docz](https://github.com/doczjs/docz)
 * [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
