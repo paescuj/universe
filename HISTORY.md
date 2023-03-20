@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
 * [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2)
 * [flet-dev/flet](https://github.com/flet-dev/flet)
 * [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server)
@@ -1188,7 +1189,7 @@
 * [sqshq/sampler](https://github.com/sqshq/sampler)
 * [swaggo/swag](https://github.com/swaggo/swag)
 * [spack/spack](https://github.com/spack/spack)
-* [cube-js/cube.js](https://github.com/cube-js/cube.js)
+* [cube-js/cube](https://github.com/cube-js/cube)
 * [casbin/casbin-server](https://github.com/casbin/casbin-server)
 * [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)
 * [taosdata/TDengine](https://github.com/taosdata/TDengine)
@@ -1264,7 +1265,7 @@
 * [gerbera/gerbera](https://github.com/gerbera/gerbera)
 * [viliusle/miniPaint](https://github.com/viliusle/miniPaint)
 * [djhworld/simple-computer](https://github.com/djhworld/simple-computer)
-* [Peltoche/lsd](https://github.com/Peltoche/lsd)
+* [lsd-rs/lsd](https://github.com/lsd-rs/lsd)
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 * [snipe/snipe-it](https://github.com/snipe/snipe-it)
 * [toggl-open-source/toggldesktop](https://github.com/toggl-open-source/toggldesktop)
@@ -1900,7 +1901,6 @@
 * [systemd/systemd](https://github.com/systemd/systemd)
 * [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
 * [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-* [wayland-project/wayland](https://github.com/wayland-project/wayland)
 * [mopidy/mopidy](https://github.com/mopidy/mopidy)
 * [neovim/neovim](https://github.com/neovim/neovim)
 * [cloudius-systems/osv](https://github.com/cloudius-systems/osv)
