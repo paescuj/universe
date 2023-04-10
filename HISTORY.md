@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo)
+* [terrastruct/d2](https://github.com/terrastruct/d2)
 * [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)
 * [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey)
 * [nsarrazin/serge](https://github.com/nsarrazin/serge)
