@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 * [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo)
 * [terrastruct/d2](https://github.com/terrastruct/d2)
 * [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)
@@ -730,7 +731,7 @@
 * [benthosdev/benthos](https://github.com/benthosdev/benthos)
 * [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 * [openelb/openelb](https://github.com/openelb/openelb)
-* [aceking007/100ProjectsOfCode](https://github.com/aceking007/100ProjectsOfCode)
+* [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
 * [longhorn/longhorn](https://github.com/longhorn/longhorn)
 * [bytedance/IconPark](https://github.com/bytedance/IconPark)
 * [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd)
@@ -824,7 +825,7 @@
 * [traggo/server](https://github.com/traggo/server)
 * [geekuillaume/soundsync](https://github.com/geekuillaume/soundsync)
 * [Koha-Community/Koha](https://github.com/Koha-Community/Koha)
-* [raphaelreyna/oneshot](https://github.com/raphaelreyna/oneshot)
+* [oneshot-uno/oneshot](https://github.com/oneshot-uno/oneshot)
 * [kopia/kopia](https://github.com/kopia/kopia)
 * [Ignitetechnologies/Privilege-Escalation](https://github.com/Ignitetechnologies/Privilege-Escalation)
 * [kentcdodds/bookshelf](https://github.com/kentcdodds/bookshelf)
