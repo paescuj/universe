@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
+* [qdrant/qdrant](https://github.com/qdrant/qdrant)
+* [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly)
 * [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)
 * [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo)
 * [terrastruct/d2](https://github.com/terrastruct/d2)
@@ -255,7 +258,7 @@
 * [Zaplib/zaplib](https://github.com/Zaplib/zaplib)
 * [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 * [bpmn-io/bpmn-js](https://github.com/bpmn-io/bpmn-js)
-* [atomicdata-dev/atomic-data-rust](https://github.com/atomicdata-dev/atomic-data-rust)
+* [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server)
 * [PostgREST/postgrest](https://github.com/PostgREST/postgrest)
 * [kestra-io/kestra](https://github.com/kestra-io/kestra)
 * [dagger/dagger](https://github.com/dagger/dagger)
@@ -1843,7 +1846,6 @@
 * [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
 * [streamaserver/streama](https://github.com/streamaserver/streama)
 * [wekan/wekan](https://github.com/wekan/wekan)
-* [igoradamenko/awsm.css](https://github.com/igoradamenko/awsm.css)
 * [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [mhinz/vim-galore](https://github.com/mhinz/vim-galore)
 * [go-gitea/gitea](https://github.com/go-gitea/gitea)
