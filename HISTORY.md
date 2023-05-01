@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
+* [lewish/asciiflow](https://github.com/lewish/asciiflow)
+* [freedmand/semantra](https://github.com/freedmand/semantra)
+* [acaudwell/Gource](https://github.com/acaudwell/Gource)
 * [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
 * [qdrant/qdrant](https://github.com/qdrant/qdrant)
 * [LinwoodDev/Butterfly](https://github.com/LinwoodDev/Butterfly)
