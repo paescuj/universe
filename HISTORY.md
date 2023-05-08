@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [vuejs/language-tools](https://github.com/vuejs/language-tools)
 * [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
 * [lewish/asciiflow](https://github.com/lewish/asciiflow)
 * [freedmand/semantra](https://github.com/freedmand/semantra)
@@ -68,7 +69,6 @@
 * [Samsar4/Ethical-Hacking-Labs](https://github.com/Samsar4/Ethical-Hacking-Labs)
 * [riffusion/riffusion](https://github.com/riffusion/riffusion)
 * [google/osv-scanner](https://github.com/google/osv-scanner)
-* [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui)
 * [pola-rs/polars](https://github.com/pola-rs/polars)
 * [webfansplz/vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector)
 * [shinework/photoshot](https://github.com/shinework/photoshot)
