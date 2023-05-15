@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
 * [vuejs/language-tools](https://github.com/vuejs/language-tools)
 * [ratfactor/ziglings](https://github.com/ratfactor/ziglings)
 * [lewish/asciiflow](https://github.com/lewish/asciiflow)
