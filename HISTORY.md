@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [microsoft/devicescript](https://github.com/microsoft/devicescript)
+* [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)
 * [toverainc/willow](https://github.com/toverainc/willow)
 * [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui)
 * [tus/tus-js-client](https://github.com/tus/tus-js-client)
@@ -1305,7 +1307,7 @@
 * [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 * [open-source-labs/ReacType](https://github.com/open-source-labs/ReacType)
 * [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
-* [stedolan/jq](https://github.com/stedolan/jq)
+* [jqlang/jq](https://github.com/jqlang/jq)
 * [go101/go101](https://github.com/go101/go101)
 * [nodemailer/wildduck](https://github.com/nodemailer/wildduck)
 * [huginn/huginn](https://github.com/huginn/huginn)
@@ -1586,7 +1588,6 @@
 * [doczjs/docz](https://github.com/doczjs/docz)
 * [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 * [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-* [browserify/browserify](https://github.com/browserify/browserify)
 * [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters)
 * [s-matyukevich/raspberry-pi-os](https://github.com/s-matyukevich/raspberry-pi-os)
 * [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)
