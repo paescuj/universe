@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms)
+* [CrowdDotDev/crowd.dev](https://github.com/CrowdDotDev/crowd.dev)
+* [documenso/documenso](https://github.com/documenso/documenso)
 * [microsoft/devicescript](https://github.com/microsoft/devicescript)
 * [bregman-arie/sre-checklist](https://github.com/bregman-arie/sre-checklist)
 * [toverainc/willow](https://github.com/toverainc/willow)
@@ -29,7 +32,6 @@
 * [flet-dev/flet](https://github.com/flet-dev/flet)
 * [stalwartlabs/smtp-server](https://github.com/stalwartlabs/smtp-server)
 * [Infisical/infisical](https://github.com/Infisical/infisical)
-* [rijkvanzanten/gh-action-linear](https://github.com/rijkvanzanten/gh-action-linear)
 * [trytouca/trytouca](https://github.com/trytouca/trytouca)
 * [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim)
 * [mjl-/mox](https://github.com/mjl-/mox)
@@ -1175,7 +1177,7 @@
 * [rclone/rclone](https://github.com/rclone/rclone)
 * [palantir/blueprint](https://github.com/palantir/blueprint)
 * [digital-asset/daml](https://github.com/digital-asset/daml)
-* [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server)
+* [mattermost/mattermost](https://github.com/mattermost/mattermost)
 * [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui)
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
 * [starship/starship](https://github.com/starship/starship)
