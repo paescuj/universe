@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)
+* [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
+* [kaelzhang/node-ignore](https://github.com/kaelzhang/node-ignore)
+* [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig)
+* [openobserve/openobserve](https://github.com/openobserve/openobserve)
 * [libsql/libsql](https://github.com/libsql/libsql)
 * [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)
 * [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx)
@@ -1705,7 +1710,7 @@
 * [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup)
 * [huyingjie/Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist)
 * [zutrinken/attila](https://github.com/zutrinken/attila)
-* [fanout/pushpin](https://github.com/fanout/pushpin)
+* [fastly/pushpin](https://github.com/fastly/pushpin)
 * [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
 * [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything)
 * [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
