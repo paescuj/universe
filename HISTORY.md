@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [gibbok/typescript-book](https://github.com/gibbok/typescript-book)
+* [axllent/mailpit](https://github.com/axllent/mailpit)
 * [msgbyte/tailchat](https://github.com/msgbyte/tailchat)
 * [bigcapitalhq/bigcapital](https://github.com/bigcapitalhq/bigcapital)
 * [dyrector-io/dyrectorio](https://github.com/dyrector-io/dyrectorio)
@@ -1128,7 +1130,7 @@
 * [faiproject/fai](https://github.com/faiproject/fai)
 * [theforeman/foreman](https://github.com/theforeman/foreman)
 * [juju/juju](https://github.com/juju/juju)
-* [lxc/lxd](https://github.com/lxc/lxd)
+* [canonical/lxd](https://github.com/canonical/lxd)
 * [nornir-automation/nornir](https://github.com/nornir-automation/nornir)
 * [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold)
 * [koekeishiya/yabai](https://github.com/koekeishiya/yabai)
