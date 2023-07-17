@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl)
+* [s-brez/trading-server](https://github.com/s-brez/trading-server)
 * [gibbok/typescript-book](https://github.com/gibbok/typescript-book)
 * [axllent/mailpit](https://github.com/axllent/mailpit)
 * [msgbyte/tailchat](https://github.com/msgbyte/tailchat)
