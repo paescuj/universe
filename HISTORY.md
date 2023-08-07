@@ -1,5 +1,12 @@
 # List of all my starred GitHub repositories
 
+* [lagonapp/lagon](https://github.com/lagonapp/lagon)
+* [cloudflare/workerd](https://github.com/cloudflare/workerd)
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch)
+* [khoj-ai/khoj](https://github.com/khoj-ai/khoj)
+* [bytecodealliance/componentize-js](https://github.com/bytecodealliance/componentize-js)
+* [wasmerio/wasmer-js](https://github.com/wasmerio/wasmer-js)
+* [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 * [PRQL/prql](https://github.com/PRQL/prql)
 * [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent)
 * [shikijs/shiki](https://github.com/shikijs/shiki)
@@ -696,7 +703,7 @@
 * [trapexit/mergerfs](https://github.com/trapexit/mergerfs)
 * [ironicbadger/pms-wiki](https://github.com/ironicbadger/pms-wiki)
 * [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes)
-* [hay-kot/mealie](https://github.com/hay-kot/mealie)
+* [mealie-recipes/mealie](https://github.com/mealie-recipes/mealie)
 * [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
 * [arp242/uni](https://github.com/arp242/uni)
 * [evilsocket/uroboros](https://github.com/evilsocket/uroboros)
