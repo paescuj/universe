@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [docusealco/docuseal](https://github.com/docusealco/docuseal)
+* [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+* [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu)
+* [antfu/shikiji](https://github.com/antfu/shikiji)
+* [seata/seata](https://github.com/seata/seata)
+* [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue)
 * [lagonapp/lagon](https://github.com/lagonapp/lagon)
 * [cloudflare/workerd](https://github.com/cloudflare/workerd)
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch)
@@ -1743,7 +1749,7 @@
 * [zutrinken/attila](https://github.com/zutrinken/attila)
 * [fastly/pushpin](https://github.com/fastly/pushpin)
 * [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
-* [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything)
+* [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)
 * [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
 * [hql287/Manta](https://github.com/hql287/Manta)
 * [reactos/reactos](https://github.com/reactos/reactos)
