@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
+* [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
+* [varunshenoy/opendream](https://github.com/varunshenoy/opendream)
+* [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os)
+* [webpro/knip](https://github.com/webpro/knip)
+* [Dave136/vue-email](https://github.com/Dave136/vue-email)
 * [docusealco/docuseal](https://github.com/docusealco/docuseal)
 * [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 * [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu)
@@ -44,7 +50,7 @@
 * [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm)
 * [steven-tey/novel](https://github.com/steven-tey/novel)
 * [getlago/lago-api](https://github.com/getlago/lago-api)
-* [webstudio-is/webstudio](https://github.com/webstudio-is/webstudio)
+* [webstudio-is/webstudio-community](https://github.com/webstudio-is/webstudio-community)
 * [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 * [kaelzhang/node-ignore](https://github.com/kaelzhang/node-ignore)
 * [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig)
@@ -1829,7 +1835,6 @@
 * [home-assistant/core](https://github.com/home-assistant/core)
 * [webpack/webpack](https://github.com/webpack/webpack)
 * [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
-* [gravitational/workshop](https://github.com/gravitational/workshop)
 * [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 * [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy)
 * [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
