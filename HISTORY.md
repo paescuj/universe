@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [vuejs/core](https://github.com/vuejs/core)
 * [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 * [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
 * [varunshenoy/opendream](https://github.com/varunshenoy/opendream)
