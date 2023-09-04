@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [continuedev/continue](https://github.com/continuedev/continue)
+* [nuxtlabs/remark-mdc](https://github.com/nuxtlabs/remark-mdc)
+* [mehdihadeli/go-ecommerce-microservices](https://github.com/mehdihadeli/go-ecommerce-microservices)
 * [vuejs/core](https://github.com/vuejs/core)
 * [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud)
 * [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack)
