@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [TryQuiet/quiet](https://github.com/TryQuiet/quiet)
+* [tldraw/tldraw](https://github.com/tldraw/tldraw)
 * [opentffoundation/opentf](https://github.com/opentffoundation/opentf)
 * [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
 * [intlify/vue-i18n-next](https://github.com/intlify/vue-i18n-next)
@@ -325,7 +327,7 @@
 * [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 * [riramar/Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 * [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
-* [freenet/locutus](https://github.com/freenet/locutus)
+* [freenet/freenet-core](https://github.com/freenet/freenet-core)
 * [inventree/InvenTree](https://github.com/inventree/InvenTree)
 * [ziglang/zig](https://github.com/ziglang/zig)
 * [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs)
