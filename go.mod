@@ -4,7 +4,6 @@ go 1.19
 
 require (
 	github.com/briandowns/spinner v1.23.0
-	github.com/google/go-github/v50 v50.2.0
 	github.com/google/go-github/v55 v55.0.0
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79
 	github.com/shurcooL/githubv4 v0.0.0-20230704064427-599ae7bbf278
@@ -12,7 +11,7 @@ require (
 )
 
 require (
-	github.com/ProtonMail/go-crypto v0.0.0-20230828082145-3c4c8a2d2371 // indirect
+	github.com/ProtonMail/go-crypto v0.0.0-20230923063757-afb1ddc0824c // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/fatih/color v1.15.0 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
