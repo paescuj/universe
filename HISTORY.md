@@ -1,5 +1,14 @@
 # List of all my starred GitHub repositories
 
+* [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate)
+* [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+* [getsentry/sentry](https://github.com/getsentry/sentry)
+* [directus-community/agency-os](https://github.com/directus-community/agency-os)
+* [m-bain/whisperX](https://github.com/m-bain/whisperX)
+* [drifting-in-space/plane](https://github.com/drifting-in-space/plane)
+* [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
+* [jetporch/jetporch](https://github.com/jetporch/jetporch)
+* [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
 * [tinylibs/tinypool](https://github.com/tinylibs/tinypool)
 * [capnproto/capnproto](https://github.com/capnproto/capnproto)
 * [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
