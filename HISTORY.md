@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [ydb-platform/ydb](https://github.com/ydb-platform/ydb)
+* [abiosoft/colima](https://github.com/abiosoft/colima)
+* [kepano/flexoki](https://github.com/kepano/flexoki)
+* [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
 * [AirCodeLabs/documate](https://github.com/AirCodeLabs/documate)
 * [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
 * [getsentry/sentry](https://github.com/getsentry/sentry)
@@ -271,7 +275,7 @@
 * [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web)
 * [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 * [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
-* [meienberger/runtipi](https://github.com/meienberger/runtipi)
+* [runtipi/runtipi](https://github.com/runtipi/runtipi)
 * [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH)
 * [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
 * [skarab42/vite-plugin-vitest-typescript-assert](https://github.com/skarab42/vite-plugin-vitest-typescript-assert)
@@ -371,7 +375,7 @@
 * [ctk-hq/ctk](https://github.com/ctk-hq/ctk)
 * [livebook-dev/livebook](https://github.com/livebook-dev/livebook)
 * [growthbook/growthbook](https://github.com/growthbook/growthbook)
-* [vidstack/vidstack](https://github.com/vidstack/vidstack)
+* [vidstack/player](https://github.com/vidstack/player)
 * [antfu/vitesse](https://github.com/antfu/vitesse)
 * [zellij-org/zellij](https://github.com/zellij-org/zellij)
 * [gristlabs/grist-core](https://github.com/gristlabs/grist-core)
