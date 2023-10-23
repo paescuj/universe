@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [colinhacks/zod](https://github.com/colinhacks/zod)
+* [Planetary-Computers/autotab-starter](https://github.com/Planetary-Computers/autotab-starter)
+* [Alex313031/thorium](https://github.com/Alex313031/thorium)
+* [nodejs/node](https://github.com/nodejs/node)
+* [br41nslug/directus-extension-3d-viewer](https://github.com/br41nslug/directus-extension-3d-viewer)
 * [ydb-platform/ydb](https://github.com/ydb-platform/ydb)
 * [abiosoft/colima](https://github.com/abiosoft/colima)
 * [kepano/flexoki](https://github.com/kepano/flexoki)
@@ -228,7 +233,7 @@
 * [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy)
 * [kubefirst/kubefirst](https://github.com/kubefirst/kubefirst)
 * [shikijs/twoslash](https://github.com/shikijs/twoslash)
-* [answerdev/answer](https://github.com/answerdev/answer)
+* [apache/incubator-answer](https://github.com/apache/incubator-answer)
 * [stretchr/testify](https://github.com/stretchr/testify)
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 * [lima-vm/lima](https://github.com/lima-vm/lima)
@@ -751,7 +756,7 @@
 * [evilsocket/uroboros](https://github.com/evilsocket/uroboros)
 * [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp)
 * [sfsam/Itsycal](https://github.com/sfsam/Itsycal)
-* [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
+* [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)
 * [esphome/esphome](https://github.com/esphome/esphome)
 * [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon)
 * [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
