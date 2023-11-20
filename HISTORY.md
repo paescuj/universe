@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink)
+* [activepieces/activepieces](https://github.com/activepieces/activepieces)
+* [loro-dev/loro](https://github.com/loro-dev/loro)
+* [alphacep/vosk-api](https://github.com/alphacep/vosk-api)
+* [0xType/0xProto](https://github.com/0xType/0xProto)
 * [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)
 * [microsoft/inshellisense](https://github.com/microsoft/inshellisense)
 * [ekzhang/sshx](https://github.com/ekzhang/sshx)
