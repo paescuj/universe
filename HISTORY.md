@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [infinyon/fluvio](https://github.com/infinyon/fluvio)
+* [farm-fe/farm](https://github.com/farm-fe/farm)
+* [vikejs/vike](https://github.com/vikejs/vike)
+* [lost-pixel/lost-pixel](https://github.com/lost-pixel/lost-pixel)
 * [polarsource/polar](https://github.com/polarsource/polar)
 * [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web)
 * [zoonk/uneebee](https://github.com/zoonk/uneebee)
@@ -1587,7 +1591,6 @@
 * [eslint/eslint](https://github.com/eslint/eslint)
 * [htmlhint/HTMLHint](https://github.com/htmlhint/HTMLHint)
 * [stylelint/stylelint](https://github.com/stylelint/stylelint)
-* [square/keywhiz](https://github.com/square/keywhiz)
 * [cyberark/conjur](https://github.com/cyberark/conjur)
 * [pulumi/pulumi](https://github.com/pulumi/pulumi)
 * [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
