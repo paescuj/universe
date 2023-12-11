@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [volarjs/volar.js](https://github.com/volarjs/volar.js)
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+* [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
+* [mmkal/expect-type](https://github.com/mmkal/expect-type)
+* [cap-so/cap](https://github.com/cap-so/cap)
 * [infinyon/fluvio](https://github.com/infinyon/fluvio)
 * [farm-fe/farm](https://github.com/farm-fe/farm)
 * [vikejs/vike](https://github.com/vikejs/vike)
@@ -1609,7 +1614,7 @@
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 * [mahmoud/boltons](https://github.com/mahmoud/boltons)
 * [iovisor/bpftrace](https://github.com/iovisor/bpftrace)
-* [sirredbeard/Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX)
+* [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix)
 * [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
 * [trufont/trufont](https://github.com/trufont/trufont)
 * [tonsky/FiraCode](https://github.com/tonsky/FiraCode)
