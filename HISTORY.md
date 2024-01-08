@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [janhq/jan](https://github.com/janhq/jan)
+* [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 * [valhalla/valhalla](https://github.com/valhalla/valhalla)
 * [fleetdm/fleet](https://github.com/fleetdm/fleet)
 * [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
@@ -607,7 +609,7 @@
 * [yewstack/yew](https://github.com/yewstack/yew)
 * [cilium/cilium](https://github.com/cilium/cilium)
 * [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse)
-* [megaease/easegress](https://github.com/megaease/easegress)
+* [easegress-io/easegress](https://github.com/easegress-io/easegress)
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim)
 * [Rikj000/MoniGoMani](https://github.com/Rikj000/MoniGoMani)
 * [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
@@ -1130,7 +1132,6 @@
 * [muesli/crunchy](https://github.com/muesli/crunchy)
 * [neovide/neovide](https://github.com/neovide/neovide)
 * [sighupio/permission-manager](https://github.com/sighupio/permission-manager)
-* [gesquive/dispatch](https://github.com/gesquive/dispatch)
 * [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)
 * [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
 * [ansible/awx](https://github.com/ansible/awx)
@@ -1322,7 +1323,7 @@
 * [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)
 * [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli)
 * [authelia/authelia](https://github.com/authelia/authelia)
-* [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror)
+* [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror)
 * [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 * [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 * [flarum/framework](https://github.com/flarum/framework)
