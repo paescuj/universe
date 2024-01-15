@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
+* [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
+* [tconbeer/harlequin](https://github.com/tconbeer/harlequin)
 * [janhq/jan](https://github.com/janhq/jan)
 * [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 * [valhalla/valhalla](https://github.com/valhalla/valhalla)
