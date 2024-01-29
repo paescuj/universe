@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [zed-industries/zed](https://github.com/zed-industries/zed)
+* [ether/etherpad-lite](https://github.com/ether/etherpad-lite)
 * [jdx/mise](https://github.com/jdx/mise)
 * [twoslashes/twoslash](https://github.com/twoslashes/twoslash)
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe)
@@ -104,7 +106,6 @@
 * [docusealco/docuseal](https://github.com/docusealco/docuseal)
 * [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
 * [hackclub/putting-the-you-in-cpu](https://github.com/hackclub/putting-the-you-in-cpu)
-* [antfu/shikiji](https://github.com/antfu/shikiji)
 * [apache/incubator-seata](https://github.com/apache/incubator-seata)
 * [radix-vue/radix-vue](https://github.com/radix-vue/radix-vue)
 * [lagonapp/lagon](https://github.com/lagonapp/lagon)
