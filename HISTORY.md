@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [lumen-notes/lumen](https://github.com/lumen-notes/lumen)
 * [zed-industries/zed](https://github.com/zed-industries/zed)
 * [ether/etherpad-lite](https://github.com/ether/etherpad-lite)
 * [jdx/mise](https://github.com/jdx/mise)
@@ -278,7 +279,7 @@
 * [tigrisdata-archive/tigris](https://github.com/tigrisdata-archive/tigris)
 * [fluxcd/flux2](https://github.com/fluxcd/flux2)
 * [karmada-io/karmada](https://github.com/karmada-io/karmada)
-* [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner)
+* [Sanster/IOPaint](https://github.com/Sanster/IOPaint)
 * [refinedev/refine](https://github.com/refinedev/refine)
 * [trpc/trpc](https://github.com/trpc/trpc)
 * [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator)
@@ -1633,7 +1634,7 @@
 * [photoprism/photoprism](https://github.com/photoprism/photoprism)
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 * [mahmoud/boltons](https://github.com/mahmoud/boltons)
-* [iovisor/bpftrace](https://github.com/iovisor/bpftrace)
+* [bpftrace/bpftrace](https://github.com/bpftrace/bpftrace)
 * [sirredbeard/awesome-unix](https://github.com/sirredbeard/awesome-unix)
 * [enochtangg/quick-SQL-cheatsheet](https://github.com/enochtangg/quick-SQL-cheatsheet)
 * [trufont/trufont](https://github.com/trufont/trufont)
@@ -1892,7 +1893,6 @@
 * [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 * [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole)
 * [home-assistant/core](https://github.com/home-assistant/core)
-* [webpack/webpack](https://github.com/webpack/webpack)
 * [dexteryy/spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev)
 * [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 * [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy)
