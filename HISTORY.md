@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [gorules/zen](https://github.com/gorules/zen)
+* [jsonata-js/jsonata](https://github.com/jsonata-js/jsonata)
+* [apple/pkl](https://github.com/apple/pkl)
+* [enso-org/enso](https://github.com/enso-org/enso)
 * [lumen-notes/lumen](https://github.com/lumen-notes/lumen)
 * [zed-industries/zed](https://github.com/zed-industries/zed)
 * [ether/etherpad-lite](https://github.com/ether/etherpad-lite)
@@ -379,7 +383,7 @@
 * [kuprel/min-dalle](https://github.com/kuprel/min-dalle)
 * [denoland/fresh](https://github.com/denoland/fresh)
 * [digitallyinduced/thin-backend](https://github.com/digitallyinduced/thin-backend)
-* [casbin/casdoor](https://github.com/casbin/casdoor)
+* [casdoor/casdoor](https://github.com/casdoor/casdoor)
 * [rxyhn/yoru](https://github.com/rxyhn/yoru)
 * [gojue/ecapture](https://github.com/gojue/ecapture)
 * [eta-dev/eta](https://github.com/eta-dev/eta)
@@ -563,7 +567,7 @@
 * [podtato-head/podtato-head](https://github.com/podtato-head/podtato-head)
 * [mgdm/htmlq](https://github.com/mgdm/htmlq)
 * [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
-* [go-vikunja/api](https://github.com/go-vikunja/api)
+* [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
 * [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture)
 * [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 * [DannyBen/bashly](https://github.com/DannyBen/bashly)
