@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [alexpovel/srgn](https://github.com/alexpovel/srgn)
+* [bruin-data/ingestr](https://github.com/bruin-data/ingestr)
 * [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow)
 * [readysettech/readyset](https://github.com/readysettech/readyset)
 * [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
@@ -229,7 +231,7 @@
 * [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard)
 * [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 * [shobrook/adrenaline](https://github.com/shobrook/adrenaline)
-* [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs)
+* [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs)
 * [amitshekhariitbhu/go-backend-clean-architecture](https://github.com/amitshekhariitbhu/go-backend-clean-architecture)
 * [angus-c/just](https://github.com/angus-c/just)
 * [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll)
@@ -360,7 +362,7 @@
 * [xojs/xo](https://github.com/xojs/xo)
 * [Authing/Authing](https://github.com/Authing/Authing)
 * [immich-app/immich](https://github.com/immich-app/immich)
-* [someengineering/resoto](https://github.com/someengineering/resoto)
+* [someengineering/fixinventory](https://github.com/someengineering/fixinventory)
 * [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
 * [novuhq/novu](https://github.com/novuhq/novu)
 * [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
