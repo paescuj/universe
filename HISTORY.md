@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [anymaniax/orval](https://github.com/anymaniax/orval)
+* [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown)
+* [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
+* [ente-io/ente](https://github.com/ente-io/ente)
 * [alexpovel/srgn](https://github.com/alexpovel/srgn)
 * [bruin-data/ingestr](https://github.com/bruin-data/ingestr)
 * [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow)
@@ -1794,7 +1798,7 @@
 * [daxeel/blockshell](https://github.com/daxeel/blockshell)
 * [rmusser01/Infosec_Reference](https://github.com/rmusser01/Infosec_Reference)
 * [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101)
-* [posativ/isso](https://github.com/posativ/isso)
+* [isso-comments/isso](https://github.com/isso-comments/isso)
 * [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js)
