@@ -1,7 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [wasmerio/winterjs](https://github.com/wasmerio/winterjs)
+* [slint-ui/slint](https://github.com/slint-ui/slint)
+* [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
 * [anymaniax/orval](https://github.com/anymaniax/orval)
-* [rolldown-rs/rolldown](https://github.com/rolldown-rs/rolldown)
+* [rolldown/rolldown](https://github.com/rolldown/rolldown)
 * [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
 * [ente-io/ente](https://github.com/ente-io/ente)
 * [alexpovel/srgn](https://github.com/alexpovel/srgn)
@@ -890,7 +893,7 @@
 * [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage)
 * [dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering)
 * [Normation/rudder](https://github.com/Normation/rudder)
-* [dylanratcliffe/onceover](https://github.com/dylanratcliffe/onceover)
+* [voxpupuli/onceover](https://github.com/voxpupuli/onceover)
 * [openDsh/dash](https://github.com/openDsh/dash)
 * [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)
 * [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible)
