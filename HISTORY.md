@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph)
+* [google/wireit](https://github.com/google/wireit)
+* [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+* [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)
+* [dev-zero/gooniebox](https://github.com/dev-zero/gooniebox)
 * [MewPurPur/GodSVG](https://github.com/MewPurPur/GodSVG)
 * [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat)
 * [bytecodealliance/wizer](https://github.com/bytecodealliance/wizer)
@@ -375,7 +380,7 @@
 * [openai/whisper](https://github.com/openai/whisper)
 * [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
 * [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-* [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
+* [QwikDev/qwik](https://github.com/QwikDev/qwik)
 * [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
 * [coroot/coroot](https://github.com/coroot/coroot)
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
