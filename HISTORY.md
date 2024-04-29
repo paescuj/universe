@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)
 * [amalshaji/portr](https://github.com/amalshaji/portr)
 * [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
 * [lycheeverse/lychee](https://github.com/lycheeverse/lychee)
@@ -77,7 +78,6 @@
 * [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl)
 * [hrvach/deskhop](https://github.com/hrvach/deskhop)
 * [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
-* [movie-web/movie-web](https://github.com/movie-web/movie-web)
 * [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 * [keptn/lifecycle-toolkit](https://github.com/keptn/lifecycle-toolkit)
 * [be5invis/Iosevka](https://github.com/be5invis/Iosevka)
@@ -297,7 +297,7 @@
 * [google/osv-scanner](https://github.com/google/osv-scanner)
 * [pola-rs/polars](https://github.com/pola-rs/polars)
 * [webfansplz/vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector)
-* [shinework/photoshot](https://github.com/shinework/photoshot)
+* [baptadn/photoshot](https://github.com/baptadn/photoshot)
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 * [ckeditor/github-writer](https://github.com/ckeditor/github-writer)
 * [ngneat/falso](https://github.com/ngneat/falso)
