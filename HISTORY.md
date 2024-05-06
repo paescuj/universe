@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [reorproject/reor](https://github.com/reorproject/reor)
+* [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng)
+* [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor)
 * [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu)
 * [amalshaji/portr](https://github.com/amalshaji/portr)
 * [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
@@ -117,7 +120,7 @@
 * [everywall/ladder](https://github.com/everywall/ladder)
 * [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
 * [bensadeh/tailspin](https://github.com/bensadeh/tailspin)
-* [keyval-dev/odigos](https://github.com/keyval-dev/odigos)
+* [odigos-io/odigos](https://github.com/odigos-io/odigos)
 * [BuilderIO/builder](https://github.com/BuilderIO/builder)
 * [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign)
 * [vuejs/vitepress](https://github.com/vuejs/vitepress)
