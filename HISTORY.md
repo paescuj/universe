@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [discoveryjs/discovery](https://github.com/discoveryjs/discovery)
 * [glanceapp/glance](https://github.com/glanceapp/glance)
 * [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 * [reorproject/reor](https://github.com/reorproject/reor)
@@ -141,7 +142,7 @@
 * [getsentry/sentry](https://github.com/getsentry/sentry)
 * [directus-labs/agency-os](https://github.com/directus-labs/agency-os)
 * [m-bain/whisperX](https://github.com/m-bain/whisperX)
-* [drifting-in-space/plane](https://github.com/drifting-in-space/plane)
+* [jamsocket/plane](https://github.com/jamsocket/plane)
 * [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date)
 * [jetporch/jetporch](https://github.com/jetporch/jetporch)
 * [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker)
