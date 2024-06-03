@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram)
 * [mfontanini/presenterm](https://github.com/mfontanini/presenterm)
 * [dream-num/univer](https://github.com/dream-num/univer)
 * [usebruno/bruno](https://github.com/usebruno/bruno)
@@ -924,7 +925,7 @@
 * [flyway/flyway](https://github.com/flyway/flyway)
 * [gofiber/fiber](https://github.com/gofiber/fiber)
 * [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy)
-* [benthosdev/benthos](https://github.com/benthosdev/benthos)
+* [redpanda-data/connect](https://github.com/redpanda-data/connect)
 * [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers)
 * [openelb/openelb](https://github.com/openelb/openelb)
 * [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode)
