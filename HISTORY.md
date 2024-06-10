@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [hcengineering/platform](https://github.com/hcengineering/platform)
+* [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)
+* [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
 * [wintermute-cell/ngrrram](https://github.com/wintermute-cell/ngrrram)
 * [mfontanini/presenterm](https://github.com/mfontanini/presenterm)
 * [dream-num/univer](https://github.com/dream-num/univer)
@@ -455,7 +458,7 @@
 * [coder/coder](https://github.com/coder/coder)
 * [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 * [RasaHQ/rasa](https://github.com/RasaHQ/rasa)
-* [AleoHQ/welcome](https://github.com/AleoHQ/welcome)
+* [ProvableHQ/welcome](https://github.com/ProvableHQ/welcome)
 * [opencost/opencost](https://github.com/opencost/opencost)
 * [ai/nanoid](https://github.com/ai/nanoid)
 * [neondatabase/neon](https://github.com/neondatabase/neon)
@@ -1967,7 +1970,6 @@
 * [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [envoyproxy/envoy](https://github.com/envoyproxy/envoy)
 * [popcorn-official/popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
-* [vuejs/vue](https://github.com/vuejs/vue)
 * [postcss/postcss](https://github.com/postcss/postcss)
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 * [mpv-player/mpv](https://github.com/mpv-player/mpv)
