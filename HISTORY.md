@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [blokkli/editor](https://github.com/blokkli/editor)
+* [lexbor/lexbor](https://github.com/lexbor/lexbor)
+* [nuxt-modules/mdc](https://github.com/nuxt-modules/mdc)
 * [hcengineering/platform](https://github.com/hcengineering/platform)
 * [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors)
 * [VikParuchuri/marker](https://github.com/VikParuchuri/marker)
@@ -278,7 +281,7 @@
 * [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
 * [zloirock/core-js](https://github.com/zloirock/core-js)
 * [getlago/lago](https://github.com/getlago/lago)
-* [natemoo-re/clack](https://github.com/natemoo-re/clack)
+* [bombshell-dev/clack](https://github.com/bombshell-dev/clack)
 * [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser)
 * [blenderskool/blaze](https://github.com/blenderskool/blaze)
 * [edgedb/edgedb](https://github.com/edgedb/edgedb)
