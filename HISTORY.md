@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [cyco130/detype](https://github.com/cyco130/detype)
 * [blokkli/editor](https://github.com/blokkli/editor)
 * [lexbor/lexbor](https://github.com/lexbor/lexbor)
 * [nuxt-modules/mdc](https://github.com/nuxt-modules/mdc)
