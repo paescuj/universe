@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
 * [keephq/keep](https://github.com/keephq/keep)
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev)
 * [directus-labs/extensions](https://github.com/directus-labs/extensions)
@@ -1098,7 +1099,7 @@
 * [phuocng/html-dom](https://github.com/phuocng/html-dom)
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 * [eclipse-theia/theia](https://github.com/eclipse-theia/theia)
-* [go-micro/go-micro](https://github.com/go-micro/go-micro)
+* [micro/go-micro](https://github.com/micro/go-micro)
 * [austingebauer/go-leetcode](https://github.com/austingebauer/go-leetcode)
 * [vrothberg/vgrep](https://github.com/vrothberg/vgrep)
 * [jbowens/codenames](https://github.com/jbowens/codenames)
