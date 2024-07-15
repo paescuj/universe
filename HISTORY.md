@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [techschool/simplebank](https://github.com/techschool/simplebank)
 * [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3)
 * [keephq/keep](https://github.com/keephq/keep)
 * [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev)
@@ -986,7 +987,7 @@
 * [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar)
 * [ocornut/imgui](https://github.com/ocornut/imgui)
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide)
-* [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book)
+* [jupyter-book/jupyter-book](https://github.com/jupyter-book/jupyter-book)
 * [getgrav/grav](https://github.com/getgrav/grav)
 * [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything)
 * [madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
