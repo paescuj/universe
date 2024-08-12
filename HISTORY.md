@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [teableio/teable](https://github.com/teableio/teable)
+* [openziti/ziti](https://github.com/openziti/ziti)
 * [Schniz/fnm](https://github.com/Schniz/fnm)
 * [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv)
 * [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
@@ -179,7 +181,7 @@
 * [TryQuiet/quiet](https://github.com/TryQuiet/quiet)
 * [tldraw/tldraw](https://github.com/tldraw/tldraw)
 * [opentofu/opentofu](https://github.com/opentofu/opentofu)
-* [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+* [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest)
 * [intlify/vue-i18n](https://github.com/intlify/vue-i18n)
 * [dprint/dprint](https://github.com/dprint/dprint)
 * [stacksjs/stacks](https://github.com/stacksjs/stacks)
@@ -1681,7 +1683,7 @@
 * [mas-cli/mas](https://github.com/mas-cli/mas)
 * [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)
 * [SystemsApproach/book](https://github.com/SystemsApproach/book)
-* [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug)
+* [git-bug/git-bug](https://github.com/git-bug/git-bug)
 * [storybookjs/storybook](https://github.com/storybookjs/storybook)
 * [superdesk/superdesk](https://github.com/superdesk/superdesk)
 * [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM)
