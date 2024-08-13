@@ -2,7 +2,7 @@ module github.com/paescuj/universe
 
 go 1.21
 
-toolchain go1.22.4
+toolchain go1.23.0
 
 require (
 	github.com/briandowns/spinner v1.23.1
