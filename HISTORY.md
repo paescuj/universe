@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [apify/crawlee](https://github.com/apify/crawlee)
+* [meshery/meshery](https://github.com/meshery/meshery)
+* [kedro-org/kedro](https://github.com/kedro-org/kedro)
+* [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream)
+* [electric-sql/pglite](https://github.com/electric-sql/pglite)
 * [teableio/teable](https://github.com/teableio/teable)
 * [openziti/ziti](https://github.com/openziti/ziti)
 * [Schniz/fnm](https://github.com/Schniz/fnm)
@@ -385,7 +390,7 @@
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 * [lima-vm/lima](https://github.com/lima-vm/lima)
 * [linkeddata/dokieli](https://github.com/linkeddata/dokieli)
-* [vercel/turbo](https://github.com/vercel/turbo)
+* [vercel/turborepo](https://github.com/vercel/turborepo)
 * [dunglas/mercure](https://github.com/dunglas/mercure)
 * [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app)
 * [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
@@ -890,7 +895,7 @@
 * [nwtgck/piping-server](https://github.com/nwtgck/piping-server)
 * [harvester/harvester](https://github.com/harvester/harvester)
 * [PeterL1n/BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)
-* [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop)
+* [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop)
 * [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify)
 * [ewan-m/fontastik](https://github.com/ewan-m/fontastik)
 * [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop)
