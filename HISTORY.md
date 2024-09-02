@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
+* [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
+* [chartdb/chartdb](https://github.com/chartdb/chartdb)
+* [Permify/permify](https://github.com/Permify/permify)
+* [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
+* [umami-software/umami](https://github.com/umami-software/umami)
 * [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 * [DiceDB/dice](https://github.com/DiceDB/dice)
 * [apify/crawlee](https://github.com/apify/crawlee)
@@ -759,7 +765,7 @@
 * [ZENALC/algobot](https://github.com/ZENALC/algobot)
 * [jesse-ai/jesse](https://github.com/jesse-ai/jesse)
 * [treeverse/lakeFS](https://github.com/treeverse/lakeFS)
-* [mattermost/focalboard](https://github.com/mattermost/focalboard)
+* [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard)
 * [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad)
 * [NvChad/NvChad](https://github.com/NvChad/NvChad)
 * [uutils/coreutils](https://github.com/uutils/coreutils)
