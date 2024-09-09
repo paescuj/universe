@@ -1,5 +1,12 @@
 # List of all my starred GitHub repositories
 
+* [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
+* [opensourcepledge/osspledge.com](https://github.com/opensourcepledge/osspledge.com)
+* [parcelvoy/platform](https://github.com/parcelvoy/platform)
+* [Freika/dawarich](https://github.com/Freika/dawarich)
+* [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
+* [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app)
+* [Akryum/moquerie](https://github.com/Akryum/moquerie)
 * [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy)
 * [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns)
 * [chartdb/chartdb](https://github.com/chartdb/chartdb)
@@ -1826,7 +1833,7 @@
 * [zutrinken/attila](https://github.com/zutrinken/attila)
 * [fastly/pushpin](https://github.com/fastly/pushpin)
 * [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl)
-* [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)
+* [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything)
 * [ionic-team/ionicons](https://github.com/ionic-team/ionicons)
 * [reactos/reactos](https://github.com/reactos/reactos)
 * [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles)
