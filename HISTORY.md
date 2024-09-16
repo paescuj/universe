@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
+* [NeonGeckoCom/NeonCore](https://github.com/NeonGeckoCom/NeonCore)
+* [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+* [versotile-org/verso](https://github.com/versotile-org/verso)
+* [josephburnett/jd](https://github.com/josephburnett/jd)
+* [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)
 * [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
 * [opensourcepledge/osspledge.com](https://github.com/opensourcepledge/osspledge.com)
 * [parcelvoy/platform](https://github.com/parcelvoy/platform)
@@ -1883,7 +1889,6 @@
 * [wwmm/easyeffects](https://github.com/wwmm/easyeffects)
 * [facebook/PathPicker](https://github.com/facebook/PathPicker)
 * [nvbn/thefuck](https://github.com/nvbn/thefuck)
-* [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core)
 * [albertlauncher/albert](https://github.com/albertlauncher/albert)
 * [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher)
 * [wallabag/wallabag](https://github.com/wallabag/wallabag)
