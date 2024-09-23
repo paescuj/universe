@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+* [tungbq/devops-basics](https://github.com/tungbq/devops-basics)
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
 * [NeonGeckoCom/NeonCore](https://github.com/NeonGeckoCom/NeonCore)
 * [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
@@ -7,7 +9,7 @@
 * [josephburnett/jd](https://github.com/josephburnett/jd)
 * [HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)
 * [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
-* [opensourcepledge/osspledge.com](https://github.com/opensourcepledge/osspledge.com)
+* [opensourcepledge/opensourcepledge.com](https://github.com/opensourcepledge/opensourcepledge.com)
 * [parcelvoy/platform](https://github.com/parcelvoy/platform)
 * [Freika/dawarich](https://github.com/Freika/dawarich)
 * [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
