@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [exo-explore/exo](https://github.com/exo-explore/exo)
+* [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe)
+* [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+* [sxzz/ast-explorer](https://github.com/sxzz/ast-explorer)
 * [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
 * [tungbq/devops-basics](https://github.com/tungbq/devops-basics)
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding)
