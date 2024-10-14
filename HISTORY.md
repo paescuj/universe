@@ -1,6 +1,11 @@
 # List of all my starred GitHub repositories
 
-* [johnsoncodehk/native-signals](https://github.com/johnsoncodehk/native-signals)
+* [formbricks/formbricks](https://github.com/formbricks/formbricks)
+* [cline/cline](https://github.com/cline/cline)
+* [deskflow/deskflow](https://github.com/deskflow/deskflow)
+* [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
+* [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+* [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals)
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 * [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 * [keploy/keploy](https://github.com/keploy/keploy)
@@ -420,7 +425,7 @@
 * [stretchr/testify](https://github.com/stretchr/testify)
 * [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 * [lima-vm/lima](https://github.com/lima-vm/lima)
-* [linkeddata/dokieli](https://github.com/linkeddata/dokieli)
+* [dokieli/dokieli](https://github.com/dokieli/dokieli)
 * [vercel/turborepo](https://github.com/vercel/turborepo)
 * [dunglas/mercure](https://github.com/dunglas/mercure)
 * [mdSilo/mdSilo-app](https://github.com/mdSilo/mdSilo-app)
