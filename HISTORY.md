@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [asterinas/asterinas](https://github.com/asterinas/asterinas)
+* [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)
+* [KermanX/tree-shaker](https://github.com/KermanX/tree-shaker)
+* [StractOrg/stract](https://github.com/StractOrg/stract)
+* [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
 * [tomayac/SVGcode](https://github.com/tomayac/SVGcode)
 * [tahoma2d/tahoma2d](https://github.com/tahoma2d/tahoma2d)
 * [synfig/synfig](https://github.com/synfig/synfig)
@@ -515,7 +520,6 @@
 * [kuprel/min-dalle](https://github.com/kuprel/min-dalle)
 * [denoland/fresh](https://github.com/denoland/fresh)
 * [casdoor/casdoor](https://github.com/casdoor/casdoor)
-* [raexera/yoru](https://github.com/raexera/yoru)
 * [gojue/ecapture](https://github.com/gojue/ecapture)
 * [eta-dev/eta](https://github.com/eta-dev/eta)
 * [mswjs/msw](https://github.com/mswjs/msw)
@@ -632,7 +636,7 @@
 * [wailsapp/wails](https://github.com/wailsapp/wails)
 * [wader/fq](https://github.com/wader/fq)
 * [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
-* [jina-ai/jina](https://github.com/jina-ai/jina)
+* [jina-ai/serve](https://github.com/jina-ai/serve)
 * [hashcat/hashcat](https://github.com/hashcat/hashcat)
 * [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit)
 * [rui314/mold](https://github.com/rui314/mold)
