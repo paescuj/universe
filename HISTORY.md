@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)
+* [getmaxun/maxun](https://github.com/getmaxun/maxun)
+* [marimo-team/marimo](https://github.com/marimo-team/marimo)
 * [asterinas/asterinas](https://github.com/asterinas/asterinas)
 * [dittofeed/dittofeed](https://github.com/dittofeed/dittofeed)
 * [KermanX/tree-shaker](https://github.com/KermanX/tree-shaker)
