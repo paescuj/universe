@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
 * [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)
 * [getmaxun/maxun](https://github.com/getmaxun/maxun)
 * [marimo-team/marimo](https://github.com/marimo-team/marimo)
