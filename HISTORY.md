@@ -70,7 +70,7 @@
 * [teableio/teable](https://github.com/teableio/teable)
 * [openziti/ziti](https://github.com/openziti/ziti)
 * [Schniz/fnm](https://github.com/Schniz/fnm)
-* [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv)
+* [rendercv/rendercv](https://github.com/rendercv/rendercv)
 * [ComposioHQ/composio](https://github.com/ComposioHQ/composio)
 * [darrenburns/posting](https://github.com/darrenburns/posting)
 * [techschool/simplebank](https://github.com/techschool/simplebank)
