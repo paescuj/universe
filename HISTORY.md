@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [M66B/FairEmail](https://github.com/M66B/FairEmail)
 * [redox-os/relibc](https://github.com/redox-os/relibc)
 * [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc)
 * [yorukot/superfile](https://github.com/yorukot/superfile)
