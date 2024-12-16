@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
+* [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+* [koreader/koreader](https://github.com/koreader/koreader)
 * [M66B/FairEmail](https://github.com/M66B/FairEmail)
 * [redox-os/relibc](https://github.com/redox-os/relibc)
 * [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc)
@@ -1683,7 +1686,6 @@
 * [maxmcd/webtty](https://github.com/maxmcd/webtty)
 * [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh)
 * [nathanshearer/gentooinstall](https://github.com/nathanshearer/gentooinstall)
-* [mholt/archiver](https://github.com/mholt/archiver)
 * [NickPiscitelli/Glider.js](https://github.com/NickPiscitelli/Glider.js)
 * [perkeep/perkeep](https://github.com/perkeep/perkeep)
 * [flyeralarm/onboarding](https://github.com/flyeralarm/onboarding)
