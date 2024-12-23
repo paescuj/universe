@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 * [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 * [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
 * [koreader/koreader](https://github.com/koreader/koreader)
@@ -347,7 +348,7 @@
 * [evanw/thumbhash](https://github.com/evanw/thumbhash)
 * [typst/typst](https://github.com/typst/typst)
 * [OpenMindClub/awesome-chatgpt](https://github.com/OpenMindClub/awesome-chatgpt)
-* [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2)
+* [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly)
 * [flet-dev/flet](https://github.com/flet-dev/flet)
 * [Infisical/infisical](https://github.com/Infisical/infisical)
 * [trytouca/trytouca](https://github.com/trytouca/trytouca)
