@@ -1,5 +1,12 @@
 # List of all my starred GitHub repositories
 
+* [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter)
+* [concourse/concourse](https://github.com/concourse/concourse)
+* [qltysh/qlty](https://github.com/qltysh/qlty)
+* [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new)
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
+* [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+* [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri)
 * [folke/snacks.nvim](https://github.com/folke/snacks.nvim)
 * [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 * [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
@@ -1873,7 +1880,7 @@
 * [nuxt/nuxt](https://github.com/nuxt/nuxt)
 * [browsh-org/browsh](https://github.com/browsh-org/browsh)
 * [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
-* [themerdev/themer](https://github.com/themerdev/themer)
+* [mjswensen/themer](https://github.com/mjswensen/themer)
 * [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup)
 * [huyingjie/Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist)
 * [zutrinken/attila](https://github.com/zutrinken/attila)
