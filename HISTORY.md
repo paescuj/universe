@@ -1688,7 +1688,7 @@
 * [Kobzol/hardware-effects](https://github.com/Kobzol/hardware-effects)
 * [progit/progit2](https://github.com/progit/progit2)
 * [zyedidia/micro](https://github.com/zyedidia/micro)
-* [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh)
+* [testssl/testssl.sh](https://github.com/testssl/testssl.sh)
 * [jarun/nnn](https://github.com/jarun/nnn)
 * [unifiedjs/unified](https://github.com/unifiedjs/unified)
 * [maxmcd/webtty](https://github.com/maxmcd/webtty)
