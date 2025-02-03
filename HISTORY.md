@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s)
+* [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern)
 * [zen-browser/desktop](https://github.com/zen-browser/desktop)
 * [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
 * [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol)
