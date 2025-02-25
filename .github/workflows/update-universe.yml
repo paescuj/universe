@@ -1,4 +1,4 @@
-name: Update universe
+name: Update Universe
 
 on:
   workflow_dispatch:
