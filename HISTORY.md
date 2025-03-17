@@ -1,5 +1,14 @@
 # List of all my starred GitHub repositories
 
+* [kern/filepizza](https://github.com/kern/filepizza)
+* [YaLTeR/niri](https://github.com/YaLTeR/niri)
+* [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick)
+* [circus-tent/circus](https://github.com/circus-tent/circus)
+* [linkdd/procfusion](https://github.com/linkdd/procfusion)
+* [canonical/pebble](https://github.com/canonical/pebble)
+* [Tresjs/tres](https://github.com/Tresjs/tres)
+* [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
+* [thalissonvs/pydoll](https://github.com/thalissonvs/pydoll)
 * [al8n/serf](https://github.com/al8n/serf)
 * [fossas/fossa-cli](https://github.com/fossas/fossa-cli)
 * [haiwen/seafile](https://github.com/haiwen/seafile)
