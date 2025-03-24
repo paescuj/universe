@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [pandaci-com/PandaCI](https://github.com/pandaci-com/PandaCI)
+* [tutao/tutanota](https://github.com/tutao/tutanota)
 * [kern/filepizza](https://github.com/kern/filepizza)
 * [YaLTeR/niri](https://github.com/YaLTeR/niri)
 * [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick)
@@ -8,7 +10,7 @@
 * [canonical/pebble](https://github.com/canonical/pebble)
 * [Tresjs/tres](https://github.com/Tresjs/tres)
 * [yuruotong1/autoMate](https://github.com/yuruotong1/autoMate)
-* [thalissonvs/pydoll](https://github.com/thalissonvs/pydoll)
+* [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll)
 * [al8n/serf](https://github.com/al8n/serf)
 * [fossas/fossa-cli](https://github.com/fossas/fossa-cli)
 * [haiwen/seafile](https://github.com/haiwen/seafile)
@@ -223,7 +225,7 @@
 * [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 * [tconbeer/harlequin](https://github.com/tconbeer/harlequin)
-* [janhq/jan](https://github.com/janhq/jan)
+* [menloresearch/jan](https://github.com/menloresearch/jan)
 * [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 * [valhalla/valhalla](https://github.com/valhalla/valhalla)
 * [fleetdm/fleet](https://github.com/fleetdm/fleet)
