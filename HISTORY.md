@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)
 * [pandaci-com/PandaCI](https://github.com/pandaci-com/PandaCI)
 * [tutao/tutanota](https://github.com/tutao/tutanota)
 * [kern/filepizza](https://github.com/kern/filepizza)
@@ -448,7 +449,7 @@
 * [google/osv-scanner](https://github.com/google/osv-scanner)
 * [pola-rs/polars](https://github.com/pola-rs/polars)
 * [webfansplz/vite-plugin-vue-inspector](https://github.com/webfansplz/vite-plugin-vue-inspector)
-* [baptadn/photoshot](https://github.com/baptadn/photoshot)
+* [premieroctet/photoshot](https://github.com/premieroctet/photoshot)
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
 * [ckeditor/github-writer](https://github.com/ckeditor/github-writer)
 * [ngneat/falso](https://github.com/ngneat/falso)
@@ -857,7 +858,7 @@
 * [amark/gun](https://github.com/amark/gun)
 * [ory/keto](https://github.com/ory/keto)
 * [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [weave-cms/weavecms](https://github.com/weave-cms/weavecms)
+* [palacms/PalaCMS](https://github.com/palacms/PalaCMS)
 * [shashank88/system_design](https://github.com/shashank88/system_design)
 * [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 * [tonarino/innernet](https://github.com/tonarino/innernet)
