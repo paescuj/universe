@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [n0-computer/sendme](https://github.com/n0-computer/sendme)
+* [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
+* [BasedHardware/omi](https://github.com/BasedHardware/omi)
+* [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+* [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
 * [liam-hq/liam](https://github.com/liam-hq/liam)
 * [nuejs/nue](https://github.com/nuejs/nue)
 * [kyverno/kyverno](https://github.com/kyverno/kyverno)
@@ -1563,7 +1568,7 @@
 * [djhworld/simple-computer](https://github.com/djhworld/simple-computer)
 * [lsd-rs/lsd](https://github.com/lsd-rs/lsd)
 * [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-* [snipe/snipe-it](https://github.com/snipe/snipe-it)
+* [grokability/snipe-it](https://github.com/grokability/snipe-it)
 * [erxes/erxes](https://github.com/erxes/erxes)
 * [MichaIng/DietPi](https://github.com/MichaIng/DietPi)
 * [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
