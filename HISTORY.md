@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [antiwork/shortest](https://github.com/antiwork/shortest)
+* [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 * [n0-computer/sendme](https://github.com/n0-computer/sendme)
 * [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader)
 * [BasedHardware/omi](https://github.com/BasedHardware/omi)
@@ -1176,7 +1178,6 @@
 * [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals)
 * [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css)
 * [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq)
-* [ogham/exa](https://github.com/ogham/exa)
 * [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 * [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver)
 * [codenotary/immudb](https://github.com/codenotary/immudb)
