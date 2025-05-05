@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [jj-vcs/jj](https://github.com/jj-vcs/jj)
+* [Mail-0/Zero](https://github.com/Mail-0/Zero)
+* [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
+* [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+* [Tencent/Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)
 * [antiwork/shortest](https://github.com/antiwork/shortest)
 * [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
 * [n0-computer/sendme](https://github.com/n0-computer/sendme)
@@ -494,7 +500,6 @@
 * [safing/portmaster](https://github.com/safing/portmaster)
 * [iterative/dvc](https://github.com/iterative/dvc)
 * [heyverse/hey](https://github.com/heyverse/hey)
-* [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 * [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
 * [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)
 * [idanya/algo-trader](https://github.com/idanya/algo-trader)
