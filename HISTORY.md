@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [grueneschweiz/LPnum](https://github.com/grueneschweiz/LPnum)
+* [pomdtr/smallweb](https://github.com/pomdtr/smallweb)
 * [jj-vcs/jj](https://github.com/jj-vcs/jj)
 * [Mail-0/Zero](https://github.com/Mail-0/Zero)
 * [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene)
