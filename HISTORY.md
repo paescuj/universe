@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [honeycombio/gritql](https://github.com/honeycombio/gritql)
+* [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
 * [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
 * [iib0011/omni-tools](https://github.com/iib0011/omni-tools)
 * [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit)
@@ -332,7 +334,7 @@
 * [abiosoft/colima](https://github.com/abiosoft/colima)
 * [kepano/flexoki](https://github.com/kepano/flexoki)
 * [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-* [aircodelabs/documate](https://github.com/aircodelabs/documate)
+* [grasplabs/documate](https://github.com/grasplabs/documate)
 * [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
 * [getsentry/sentry](https://github.com/getsentry/sentry)
 * [directus-labs/agency-os](https://github.com/directus-labs/agency-os)
@@ -736,7 +738,7 @@
 * [ahembree/ansible-hms-docker](https://github.com/ahembree/ansible-hms-docker)
 * [nikochiko/autosaved](https://github.com/nikochiko/autosaved)
 * [pentacent/keila](https://github.com/pentacent/keila)
-* [yujqiao/rathole](https://github.com/yujqiao/rathole)
+* [rathole-org/rathole](https://github.com/rathole-org/rathole)
 * [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
 * [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS)
 * [tkellogg/dura](https://github.com/tkellogg/dura)
