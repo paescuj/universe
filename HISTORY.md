@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 * [honeycombio/gritql](https://github.com/honeycombio/gritql)
 * [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
 * [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
@@ -69,7 +70,7 @@
 * [commixproject/commix](https://github.com/commixproject/commix)
 * [sharkdp/numbat](https://github.com/sharkdp/numbat)
 * [arktypeio/arktype](https://github.com/arktypeio/arktype)
-* [BrowserWorks/Waterfox](https://github.com/BrowserWorks/Waterfox)
+* [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox)
 * [proptest-rs/proptest](https://github.com/proptest-rs/proptest)
 * [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker)
 * [outline/outline](https://github.com/outline/outline)
@@ -1270,6 +1271,7 @@
 * [micro/go-micro](https://github.com/micro/go-micro)
 * [austingebauer/go-leetcode](https://github.com/austingebauer/go-leetcode)
 * [vrothberg/vgrep](https://github.com/vrothberg/vgrep)
+* [jbowens/horsepaste](https://github.com/jbowens/horsepaste)
 * [quentinsf/IMAPdedup](https://github.com/quentinsf/IMAPdedup)
 * [adrianlopezroche/fdupes](https://github.com/adrianlopezroche/fdupes)
 * [travis-ci/dpl](https://github.com/travis-ci/dpl)
