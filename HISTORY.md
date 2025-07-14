@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint)
 * [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
 * [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
 * [superfly/corrosion](https://github.com/superfly/corrosion)
@@ -257,7 +258,7 @@
 * [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
 * [automerge/automerge](https://github.com/automerge/automerge)
 * [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os)
-* [balena-io-experimental/balena-sound](https://github.com/balena-io-experimental/balena-sound)
+* [iotsound/iotsound](https://github.com/iotsound/iotsound)
 * [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter)
 * [midday-ai/midday](https://github.com/midday-ai/midday)
 * [ynqa/jnv](https://github.com/ynqa/jnv)
