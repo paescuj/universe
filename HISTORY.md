@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+* [fujiapple852/trippy](https://github.com/fujiapple852/trippy)
+* [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
+* [roboflow/supervision](https://github.com/roboflow/supervision)
 * [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
 * [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)
 * [leaningtech/webvm](https://github.com/leaningtech/webvm)
