@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [9001/copyparty](https://github.com/9001/copyparty)
+* [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
 * [fujiapple852/trippy](https://github.com/fujiapple852/trippy)
 * [C4illin/ConvertX](https://github.com/C4illin/ConvertX)
@@ -926,7 +928,7 @@
 * [amark/gun](https://github.com/amark/gun)
 * [ory/keto](https://github.com/ory/keto)
 * [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [palacms/PalaCMS](https://github.com/palacms/PalaCMS)
+* [palalabs/palacms](https://github.com/palalabs/palacms)
 * [shashank88/system_design](https://github.com/shashank88/system_design)
 * [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 * [tonarino/innernet](https://github.com/tonarino/innernet)
