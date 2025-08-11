@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [dyad-sh/dyad](https://github.com/dyad-sh/dyad)
+* [playcanvas/editor](https://github.com/playcanvas/editor)
+* [MotiaDev/motia](https://github.com/MotiaDev/motia)
+* [flydelabs/flyde](https://github.com/flydelabs/flyde)
 * [9001/copyparty](https://github.com/9001/copyparty)
 * [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
 * [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
@@ -838,7 +842,7 @@
 * [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja)
 * [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture)
 * [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
-* [DannyBen/bashly](https://github.com/DannyBen/bashly)
+* [bashly-framework/bashly](https://github.com/bashly-framework/bashly)
 * [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos)
 * [kubescape/kubescape](https://github.com/kubescape/kubescape)
 * [sachaos/viddy](https://github.com/sachaos/viddy)
