@@ -15,13 +15,13 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
+    - name: Checkout repository
+      uses: actions/checkout@v5
+
     - name: Setup Go
       uses: actions/setup-go@v5
       with:
         go-version: 1.25
-
-    - name: Checkout code
-      uses: actions/checkout@v5
 
     - name: Update universe
       run: go run .
