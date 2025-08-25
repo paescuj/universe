@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [raphamorim/rio](https://github.com/raphamorim/rio)
+* [bgreenwell/doxx](https://github.com/bgreenwell/doxx)
+* [epicenter-so/epicenter](https://github.com/epicenter-so/epicenter)
+* [versatica/mediasoup](https://github.com/versatica/mediasoup)
+* [extism/extism](https://github.com/extism/extism)
 * [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor)
 * [tsoding/nob.h](https://github.com/tsoding/nob.h)
 * [oop7/YTSage](https://github.com/oop7/YTSage)
@@ -176,7 +181,7 @@
 * [cline/cline](https://github.com/cline/cline)
 * [deskflow/deskflow](https://github.com/deskflow/deskflow)
 * [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)
-* [mendableai/firecrawl](https://github.com/mendableai/firecrawl)
+* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 * [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals)
 * [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 * [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
@@ -541,7 +546,6 @@
 * [ckeditor/github-writer](https://github.com/ckeditor/github-writer)
 * [ngneat/falso](https://github.com/ngneat/falso)
 * [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity)
-* [avgupta456/github-trends](https://github.com/avgupta456/github-trends)
 * [WebReflection/uhtml](https://github.com/WebReflection/uhtml)
 * [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 * [vitest-dev/vscode](https://github.com/vitest-dev/vscode)
