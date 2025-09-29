@@ -1,5 +1,11 @@
 # List of all my starred GitHub repositories
 
+* [cloudflare/capnweb](https://github.com/cloudflare/capnweb)
+* [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent)
+* [browserbase/stagehand](https://github.com/browserbase/stagehand)
+* [browser-use/browser-use](https://github.com/browser-use/browser-use)
+* [davidlattimore/wild](https://github.com/davidlattimore/wild)
+* [ollama/ollama](https://github.com/ollama/ollama)
 * [basecamp/omarchy](https://github.com/basecamp/omarchy)
 * [kson-org/kson](https://github.com/kson-org/kson)
 * [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser)
