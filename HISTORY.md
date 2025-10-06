@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
+* [atuinsh/desktop](https://github.com/atuinsh/desktop)
+* [cjpais/Handy](https://github.com/cjpais/Handy)
+* [imputnet/helium](https://github.com/imputnet/helium)
+* [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin)
 * [cloudflare/capnweb](https://github.com/cloudflare/capnweb)
 * [hyperbrowserai/HyperAgent](https://github.com/hyperbrowserai/HyperAgent)
 * [browserbase/stagehand](https://github.com/browserbase/stagehand)
@@ -1702,7 +1707,7 @@
 * [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)
 * [ovh/cds](https://github.com/ovh/cds)
 * [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood)
-* [Bogdan-Lyashenko/codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs)
+* [CodecrumbsIO/codecrumbs](https://github.com/CodecrumbsIO/codecrumbs)
 * [uikit/uikit](https://github.com/uikit/uikit)
 * [gopasspw/gopass](https://github.com/gopasspw/gopass)
 * [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
