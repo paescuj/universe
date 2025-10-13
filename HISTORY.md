@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [fosrl/pangolin](https://github.com/fosrl/pangolin)
+* [a-ve/wicketkeeper](https://github.com/a-ve/wicketkeeper)
+* [evcc-io/evcc](https://github.com/evcc-io/evcc)
 * [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)
 * [atuinsh/desktop](https://github.com/atuinsh/desktop)
 * [cjpais/Handy](https://github.com/cjpais/Handy)
@@ -595,7 +598,6 @@
 * [heyverse/hey](https://github.com/heyverse/hey)
 * [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 * [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
-* [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial)
 * [iterativv/NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity)
 * [tigrisdata-archive/tigris](https://github.com/tigrisdata-archive/tigris)
 * [fluxcd/flux2](https://github.com/fluxcd/flux2)
