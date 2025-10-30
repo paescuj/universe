@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [trummerschlunk/master_me](https://github.com/trummerschlunk/master_me)
+* [coinbase/x402](https://github.com/coinbase/x402)
 * [rustfs/rustfs](https://github.com/rustfs/rustfs)
 * [kristoff-it/ziggy](https://github.com/kristoff-it/ziggy)
 * [valkey-io/valkey](https://github.com/valkey-io/valkey)
@@ -72,9 +74,9 @@
 * [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator)
 * [getsops/sops](https://github.com/getsops/sops)
 * [rose-pine/rose-pine-site](https://github.com/rose-pine/rose-pine-site)
-* [Saghen/frizbee](https://github.com/Saghen/frizbee)
+* [saghen/frizbee](https://github.com/saghen/frizbee)
 * [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim)
-* [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp)
+* [saghen/blink.cmp](https://github.com/saghen/blink.cmp)
 * [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine)
 * [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
@@ -352,7 +354,7 @@
 * [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)
 * [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox)
 * [tconbeer/harlequin](https://github.com/tconbeer/harlequin)
-* [menloresearch/jan](https://github.com/menloresearch/jan)
+* [janhq/jan](https://github.com/janhq/jan)
 * [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 * [valhalla/valhalla](https://github.com/valhalla/valhalla)
 * [fleetdm/fleet](https://github.com/fleetdm/fleet)
