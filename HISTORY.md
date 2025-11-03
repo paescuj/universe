@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [suitenumerique/docs](https://github.com/suitenumerique/docs)
 * [trummerschlunk/master_me](https://github.com/trummerschlunk/master_me)
 * [coinbase/x402](https://github.com/coinbase/x402)
 * [rustfs/rustfs](https://github.com/rustfs/rustfs)
