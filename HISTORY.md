@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [houseabsolute/precious](https://github.com/houseabsolute/precious)
+* [hydra-synth/hydra-synth](https://github.com/hydra-synth/hydra-synth)
+* [kanidm/kanidm](https://github.com/kanidm/kanidm)
 * [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
 * [terrakube-io/terrakube](https://github.com/terrakube-io/terrakube)
 * [terrateamio/terrateam](https://github.com/terrateamio/terrateam)
@@ -683,7 +686,6 @@
 * [sodiray/radash](https://github.com/sodiray/radash)
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)
 * [xojs/xo](https://github.com/xojs/xo)
-* [Authing/Authing](https://github.com/Authing/Authing)
 * [immich-app/immich](https://github.com/immich-app/immich)
 * [someengineering/fixinventory](https://github.com/someengineering/fixinventory)
 * [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
