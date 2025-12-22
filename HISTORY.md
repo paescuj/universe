@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [Xpra-org/xpra](https://github.com/Xpra-org/xpra)
+* [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox)
+* [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)
 * [browserless/browserless](https://github.com/browserless/browserless)
 * [VERT-sh/VERT](https://github.com/VERT-sh/VERT)
 * [nixops4/nixops4](https://github.com/nixops4/nixops4)
@@ -614,7 +617,6 @@
 * [vitest-dev/vscode](https://github.com/vitest-dev/vscode)
 * [charlax/engineering-management](https://github.com/charlax/engineering-management)
 * [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas)
-* [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 * [runfinch/finch](https://github.com/runfinch/finch)
 * [paescuj/jaa](https://github.com/paescuj/jaa)
 * [cachix/devenv](https://github.com/cachix/devenv)
