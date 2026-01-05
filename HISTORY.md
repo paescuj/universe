@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps)
+* [QuantConnect/Lean](https://github.com/QuantConnect/Lean)
+* [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban)
 * [CanineHQ/canine](https://github.com/CanineHQ/canine)
 * [tw93/Mole](https://github.com/tw93/Mole)
 * [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs)
@@ -27,9 +30,9 @@
 * [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf)
 * [sigstore/cosign](https://github.com/sigstore/cosign)
 * [element-hq/element-call](https://github.com/element-hq/element-call)
-* [sst/opentui](https://github.com/sst/opentui)
+* [anomalyco/opentui](https://github.com/anomalyco/opentui)
 * [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
-* [sst/opencode](https://github.com/sst/opencode)
+* [anomalyco/opencode](https://github.com/anomalyco/opencode)
 * [octelium/octelium](https://github.com/octelium/octelium)
 * [houseabsolute/precious](https://github.com/houseabsolute/precious)
 * [hydra-synth/hydra-synth](https://github.com/hydra-synth/hydra-synth)
