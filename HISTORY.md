@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [tvlfyi/tvix](https://github.com/tvlfyi/tvix)
+* [version-fox/vfox](https://github.com/version-fox/vfox)
+* [tobi/try](https://github.com/tobi/try)
 * [eigent-ai/eigent](https://github.com/eigent-ai/eigent)
 * [guardianproject/orbot-android](https://github.com/guardianproject/orbot-android)
 * [blueprint-freespeech/ricochet-refresh](https://github.com/blueprint-freespeech/ricochet-refresh)
@@ -1314,7 +1317,7 @@
 * [fluent/fluentd](https://github.com/fluent/fluentd)
 * [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals)
 * [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css)
-* [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq)
+* [jqlang/awesome-jq](https://github.com/jqlang/awesome-jq)
 * [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim)
 * [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver)
 * [codenotary/immudb](https://github.com/codenotary/immudb)
@@ -1851,7 +1854,7 @@
 * [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
 * [Kobzol/hardware-effects](https://github.com/Kobzol/hardware-effects)
 * [progit/progit2](https://github.com/progit/progit2)
-* [zyedidia/micro](https://github.com/zyedidia/micro)
+* [micro-editor/micro](https://github.com/micro-editor/micro)
 * [testssl/testssl.sh](https://github.com/testssl/testssl.sh)
 * [jarun/nnn](https://github.com/jarun/nnn)
 * [unifiedjs/unified](https://github.com/unifiedjs/unified)
