@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
+* [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 * [mitchellh/vouch](https://github.com/mitchellh/vouch)
 * [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
 * [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
@@ -241,7 +243,7 @@
 * [dathere/qsv](https://github.com/dathere/qsv)
 * [medialab/xan](https://github.com/medialab/xan)
 * [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
-* [errata-ai/vale](https://github.com/errata-ai/vale)
+* [vale-cli/vale](https://github.com/vale-cli/vale)
 * [carbon-app/carbon](https://github.com/carbon-app/carbon)
 * [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
 * [grueneschweiz/LPnum](https://github.com/grueneschweiz/LPnum)
@@ -1090,7 +1092,6 @@
 * [plantuml/plantuml](https://github.com/plantuml/plantuml)
 * [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)
 * [dolthub/dolt](https://github.com/dolthub/dolt)
-* [Enalean/tuleap](https://github.com/Enalean/tuleap)
 * [godotengine/godot](https://github.com/godotengine/godot)
 * [nextcloud/server](https://github.com/nextcloud/server)
 * [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom)
@@ -1287,7 +1288,6 @@
 * [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach)
 * [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)
 * [offen/offen](https://github.com/offen/offen)
-* [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog)
 * [antonbabenko/terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices)
 * [illiliti/tinyramfs](https://github.com/illiliti/tinyramfs)
 * [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest)
