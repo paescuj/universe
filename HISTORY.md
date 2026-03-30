@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [wasmerio/edgejs](https://github.com/wasmerio/edgejs)
+* [pascalorg/editor](https://github.com/pascalorg/editor)
 * [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus)
 * [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
 * [mitchellh/vouch](https://github.com/mitchellh/vouch)
@@ -24,7 +26,6 @@
 * [subframe7536/maple-font](https://github.com/subframe7536/maple-font)
 * [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono)
 * [arrowtype/recursive](https://github.com/arrowtype/recursive)
-* [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
 * [junegunn/fzf-git.sh](https://github.com/junegunn/fzf-git.sh)
 * [folke/flash.nvim](https://github.com/folke/flash.nvim)
 * [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
@@ -338,7 +339,7 @@
 * [tomayac/SVGcode](https://github.com/tomayac/SVGcode)
 * [tahoma2d/tahoma2d](https://github.com/tahoma2d/tahoma2d)
 * [synfig/synfig](https://github.com/synfig/synfig)
-* [armory3d/armortools](https://github.com/armory3d/armortools)
+* [armory3d/armorpaint](https://github.com/armory3d/armorpaint)
 * [RawTherapee/RawTherapee](https://github.com/RawTherapee/RawTherapee)
 * [KDE/kdenlive](https://github.com/KDE/kdenlive)
 * [ahrm/sioyek](https://github.com/ahrm/sioyek)
@@ -456,7 +457,6 @@
 * [aarc-rs/aarc](https://github.com/aarc-rs/aarc)
 * [yoheinakajima/mindgraph](https://github.com/yoheinakajima/mindgraph)
 * [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
-* [wasmerio/winterjs](https://github.com/wasmerio/winterjs)
 * [slint-ui/slint](https://github.com/slint-ui/slint)
 * [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
 * [orval-labs/orval](https://github.com/orval-labs/orval)
