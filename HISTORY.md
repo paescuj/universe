@@ -1,5 +1,9 @@
 # List of all my starred GitHub repositories
 
+* [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock)
+* [coleam00/Archon](https://github.com/coleam00/Archon)
+* [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer)
+* [mskayyali/nodepad](https://github.com/mskayyali/nodepad)
 * [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
 * [liquidslr/interview-company-wise-problems](https://github.com/liquidslr/interview-company-wise-problems)
 * [wasmerio/edgejs](https://github.com/wasmerio/edgejs)
@@ -204,7 +208,7 @@
 * [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood)
 * [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)
 * [leaningtech/webvm](https://github.com/leaningtech/webvm)
-* [block/goose](https://github.com/block/goose)
+* [aaif-goose/goose](https://github.com/aaif-goose/goose)
 * [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint)
 * [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx)
 * [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW)
