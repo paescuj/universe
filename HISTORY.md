@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [playcanvas/supersplat](https://github.com/playcanvas/supersplat)
+* [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+* [kernel/kernel-images](https://github.com/kernel/kernel-images)
 * [ShareX/ShareX](https://github.com/ShareX/ShareX)
 * [amir20/dozzle](https://github.com/amir20/dozzle)
 * [discuitnet/discuit](https://github.com/discuitnet/discuit)
@@ -8,7 +11,7 @@
 * [papra-hq/papra](https://github.com/papra-hq/papra)
 * [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm)
 * [Euro-Office/DocumentServer](https://github.com/Euro-Office/DocumentServer)
-* [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
+* [earendil-works/pi](https://github.com/earendil-works/pi)
 * [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp)
 * [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata)
 * [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android)
@@ -832,7 +835,6 @@
 * [mgunyho/tere](https://github.com/mgunyho/tere)
 * [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline)
 * [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
-* [oven-sh/bun](https://github.com/oven-sh/bun)
 * [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)
 * [taigaio/taiga-back](https://github.com/taigaio/taiga-back)
 * [kuprel/min-dalle](https://github.com/kuprel/min-dalle)
