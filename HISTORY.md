@@ -1,5 +1,10 @@
 # List of all my starred GitHub repositories
 
+* [fand/vfx-js](https://github.com/fand/vfx-js)
+* [itoolio/ishare](https://github.com/itoolio/ishare)
+* [anakin4747/neovim-killed-tmux](https://github.com/anakin4747/neovim-killed-tmux)
+* [dagster-io/dagster](https://github.com/dagster-io/dagster)
+* [DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice)
 * [braver/programmingfonts](https://github.com/braver/programmingfonts)
 * [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu)
 * [apernet/hysteria](https://github.com/apernet/hysteria)
@@ -754,7 +759,7 @@
 * [6mile/DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
 * [safing/portmaster](https://github.com/safing/portmaster)
 * [treeverse/dvc](https://github.com/treeverse/dvc)
-* [bigint/hey](https://github.com/bigint/hey)
+* [slymnoyann/hey-1](https://github.com/slymnoyann/hey-1)
 * [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
 * [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music)
 * [iterativv/NostalgiaForInfinity](https://github.com/iterativv/NostalgiaForInfinity)
