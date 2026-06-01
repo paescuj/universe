@@ -1,5 +1,13 @@
 # List of all my starred GitHub repositories
 
+* [jdevalk/specification.website](https://github.com/jdevalk/specification.website)
+* [steemit/steem](https://github.com/steemit/steem)
+* [lobsters/lobsters](https://github.com/lobsters/lobsters)
+* [plebbit/whitepaper](https://github.com/plebbit/whitepaper)
+* [jqwik-team/jqwik](https://github.com/jqwik-team/jqwik)
+* [OpenMOSS/MOSS-TTS](https://github.com/OpenMOSS/MOSS-TTS)
+* [orhun/ratty](https://github.com/orhun/ratty)
+* [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain)
 * [fand/vfx-js](https://github.com/fand/vfx-js)
 * [itoolio/ishare](https://github.com/itoolio/ishare)
 * [anakin4747/neovim-killed-tmux](https://github.com/anakin4747/neovim-killed-tmux)
@@ -138,7 +146,7 @@
 * [tw93/Mole](https://github.com/tw93/Mole)
 * [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs)
 * [safety-research/bloom](https://github.com/safety-research/bloom)
-* [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN)
+* [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN)
 * [open-webui/open-webui](https://github.com/open-webui/open-webui)
 * [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
 * [Xpra-org/xpra](https://github.com/Xpra-org/xpra)
