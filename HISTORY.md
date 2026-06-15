@@ -1,5 +1,6 @@
 # List of all my starred GitHub repositories
 
+* [music-assistant/server](https://github.com/music-assistant/server)
 * [hall/kubenix](https://github.com/hall/kubenix)
 * [cpaczek/skylight](https://github.com/cpaczek/skylight)
 * [ProvableHQ/leo](https://github.com/ProvableHQ/leo)
@@ -272,7 +273,6 @@
 * [vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine)
 * [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
-* [voideditor/void](https://github.com/voideditor/void)
 * [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser)
 * [biomejs/gritql](https://github.com/biomejs/gritql)
 * [xiangechen/chili3d](https://github.com/xiangechen/chili3d)
@@ -506,7 +506,7 @@
 * [automerge/automerge](https://github.com/automerge/automerge)
 * [hifiberry/hifiberry-os](https://github.com/hifiberry/hifiberry-os)
 * [iotsound/iotsound](https://github.com/iotsound/iotsound)
-* [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter)
+* [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)
 * [midday-ai/midday](https://github.com/midday-ai/midday)
 * [ynqa/jnv](https://github.com/ynqa/jnv)
 * [aarc-rs/aarc](https://github.com/aarc-rs/aarc)
@@ -2144,7 +2144,7 @@
 * [openblockchains/awesome-blockchains](https://github.com/openblockchains/awesome-blockchains)
 * [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
 * [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy)
-* [facebook/react](https://github.com/facebook/react)
+* [react/react](https://github.com/react/react)
 * [wireapp/wire-server](https://github.com/wireapp/wire-server)
 * [OpenShot/openshot-qt](https://github.com/OpenShot/openshot-qt)
 * [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
