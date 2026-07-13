@@ -1,5 +1,12 @@
 # List of all my starred GitHub repositories
 
+* [HibiscusConsulting/nectar-lang](https://github.com/HibiscusConsulting/nectar-lang)
+* [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+* [GoTrustbe/Euroos](https://github.com/GoTrustbe/Euroos)
+* [iina/iina](https://github.com/iina/iina)
+* [videolan/vlc](https://github.com/videolan/vlc)
+* [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts)
+* [soycaporal/ternlight](https://github.com/soycaporal/ternlight)
 * [rommapp/romm](https://github.com/rommapp/romm)
 * [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth)
 * [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)
@@ -1117,7 +1124,7 @@
 * [navit-gps/navit](https://github.com/navit-gps/navit)
 * [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
 * [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos)
-* [cozy/cozy-stack](https://github.com/cozy/cozy-stack)
+* [linagora/cozy-stack](https://github.com/linagora/cozy-stack)
 * [libreddit/libreddit](https://github.com/libreddit/libreddit)
 * [reasonml/reason](https://github.com/reasonml/reason)
 * [encoredev/encore](https://github.com/encoredev/encore)
