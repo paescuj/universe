@@ -1,5 +1,8 @@
 # List of all my starred GitHub repositories
 
+* [lightningpixel/modly](https://github.com/lightningpixel/modly)
+* [macro-inc/macro](https://github.com/macro-inc/macro)
+* [ratspeak/Ratspeak](https://github.com/ratspeak/Ratspeak)
 * [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
 * [e18e/eslint-plugin](https://github.com/e18e/eslint-plugin)
 * [openaddresses/openaddresses](https://github.com/openaddresses/openaddresses)
@@ -195,7 +198,6 @@
 * [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)
 * [andreknieriem/open-headunit](https://github.com/andreknieriem/open-headunit)
 * [ajayyy/DeArrow](https://github.com/ajayyy/DeArrow)
-* [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube)
 * [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)
 * [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker)
 * [dubinc/dub](https://github.com/dubinc/dub)
@@ -1684,7 +1686,7 @@
 * [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation)
 * [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot)
 * [jwilber/roughViz](https://github.com/jwilber/roughViz)
-* [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
+* [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra)
 * [api-platform/admin](https://github.com/api-platform/admin)
 * [metabase/metabase](https://github.com/metabase/metabase)
 * [n8n-io/n8n](https://github.com/n8n-io/n8n)
