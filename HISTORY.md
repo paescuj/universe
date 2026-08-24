@@ -1,5 +1,13 @@
 # List of all my starred GitHub repositories
 
+* [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim)
+* [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim)
+* [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy)
+* [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+* [Sendspin/spec](https://github.com/Sendspin/spec)
+* [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync)
+* [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver)
+* [crabbuild/prolly](https://github.com/crabbuild/prolly)
 * [lightningpixel/modly](https://github.com/lightningpixel/modly)
 * [macro-inc/macro](https://github.com/macro-inc/macro)
 * [ratspeak/Ratspeak](https://github.com/ratspeak/Ratspeak)
@@ -78,7 +86,7 @@
 * [DatanoiseTV/tinyice](https://github.com/DatanoiseTV/tinyice)
 * [braver/programmingfonts](https://github.com/braver/programmingfonts)
 * [miroslavpejic85/mirotalksfu](https://github.com/miroslavpejic85/mirotalksfu)
-* [apernet/hysteria](https://github.com/apernet/hysteria)
+* [HyNetworks/hysteria](https://github.com/HyNetworks/hysteria)
 * [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr)
 * [indieweb/indiewebify-me](https://github.com/indieweb/indiewebify-me)
 * [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop)
