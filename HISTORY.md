@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [martanne/vis](https://github.com/martanne/vis)
+* [usetrmnl/trmnl-firmware](https://github.com/usetrmnl/trmnl-firmware)
 * [derv82/wifit3](https://github.com/derv82/wifit3)
 * [miflow13/mochi-desktop](https://github.com/miflow13/mochi-desktop)
 * [chenglou/pretext](https://github.com/chenglou/pretext)
@@ -519,7 +521,7 @@
 * [Permify/permify](https://github.com/Permify/permify)
 * [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb)
 * [umami-software/umami](https://github.com/umami-software/umami)
-* [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+* [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB)
 * [dicedb/dicedb](https://github.com/dicedb/dicedb)
 * [apify/crawlee](https://github.com/apify/crawlee)
 * [meshery/meshery](https://github.com/meshery/meshery)
@@ -880,7 +882,6 @@
 * [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli)
 * [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
 * [QwikDev/qwik](https://github.com/QwikDev/qwik)
-* [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies)
 * [coroot/coroot](https://github.com/coroot/coroot)
 * [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
 * [SolidOS/solidos](https://github.com/SolidOS/solidos)
