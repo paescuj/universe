@@ -1,5 +1,7 @@
 # List of all my starred GitHub repositories
 
+* [trinodb/trino](https://github.com/trinodb/trino)
+* [aerynOS/infra](https://github.com/aerynOS/infra)
 * [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell)
 * [webrecorder/browsertrix](https://github.com/webrecorder/browsertrix)
 * [theende/ende](https://github.com/theende/ende)
@@ -644,7 +646,6 @@
 * [midday-ai/midday](https://github.com/midday-ai/midday)
 * [ynqa/jnv](https://github.com/ynqa/jnv)
 * [aarc-rs/aarc](https://github.com/aarc-rs/aarc)
-* [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)
 * [slint-ui/slint](https://github.com/slint-ui/slint)
 * [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
 * [orval-labs/orval](https://github.com/orval-labs/orval)
@@ -1495,7 +1496,6 @@
 * [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji)
 * [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio)
 * [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal)
-* [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
 * [ankitects/anki](https://github.com/ankitects/anki)
 * [ffisk/books](https://github.com/ffisk/books)
 * [docker/awesome-compose](https://github.com/docker/awesome-compose)
@@ -1570,7 +1570,6 @@
 * [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions)
 * [gravitational/teleport](https://github.com/gravitational/teleport)
 * [vimagick/dockerfiles](https://github.com/vimagick/dockerfiles)
-* [cyberia-to/go-cyber](https://github.com/cyberia-to/go-cyber)
 * [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
 * [moosefs/moosefs](https://github.com/moosefs/moosefs)
 * [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf)

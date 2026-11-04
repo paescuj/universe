@@ -11,7 +11,7 @@ import (
   "io/ioutil"
   "encoding/json"
   "net/http"
-  "github.com/google/go-github/v76/github"
+  "github.com/google/go-github/v93/github"
   "github.com/gregjones/httpcache"
   "github.com/gregjones/httpcache/diskcache"
   "github.com/briandowns/spinner"
@@ -61,7 +61,7 @@ func fetchUniverse(universe *[]*github.Repository, username string, useCache boo
     httpClient.Transport = transport
   }
 
-  githubClient := github.NewClient(httpClient)
+  githubClient, _ := github.NewClient(github.WithHTTPClient(httpClient))
   githubOpts := &github.ActivityListStarredOptions{
     ListOptions: github.ListOptions{PerPage: 100},
   }
